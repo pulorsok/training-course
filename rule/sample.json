@@ -1,0 +1,18 @@
+{
+    "crime": "",
+    "permission": [],
+    "api": [
+        {
+            "class": "",
+            "method": "",
+            "descriptor": ""
+        },
+        {
+            "class": "",
+            "method": "",
+            "descriptor": ""
+        }
+    ],
+    "score": 1,
+    "label": []
+}

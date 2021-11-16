@@ -1,0 +1,18 @@
+{
+    "crime": "",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/net/Uri;",
+            "method": "encode",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Lio/socket/client/IO;",
+            "method": "socket",
+            "descriptor": "(Ljava/lang/String;)Lio/socket/client/Socket;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}
