@@ -81,9 +81,9 @@ def main(apk, multiprocess, debug, export, stage, filter, parameter):
         
         result = db.find_rules_by_sample(apk.id)
 
-        if result["status"] != 1:
-            if not click.confirm(f'The apk generate progress is not complete, Do you sure want to continue?'):
-                return
+        # if result["status"] != 1:
+        #     if not click.confirm(f'The apk generate progress is not complete, Do you sure want to continue?'):
+        #         return
 
         rules_num = len(result)
 
