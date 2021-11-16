@@ -1,0 +1,17 @@
+{
+    "crime": "10468. Ljava/text/ParsePosition;setIndex->Ljava/lang/Math;min",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/ParsePosition;",
+            "method": "setIndex",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(J J)J"
+        }
+    ],
+    "score": 1
+}

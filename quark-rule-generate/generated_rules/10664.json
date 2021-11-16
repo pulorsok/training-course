@@ -1,0 +1,17 @@
+{
+    "crime": "10664. Ljava/util/ArrayDeque;<init>->Ljavax/net/ssl/TrustManagerFactory;init",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "init",
+            "descriptor": "(Ljava/security/KeyStore;)V"
+        }
+    ],
+    "score": 1
+}

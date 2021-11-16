@@ -1,0 +1,17 @@
+{
+    "crime": "3782. Ljava/lang/Thread;currentThread->Ljava/nio/ByteBuffer;limit",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "currentThread",
+            "descriptor": "()Ljava/lang/Thread;"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "limit",
+            "descriptor": "(I)Ljava/nio/Buffer;"
+        }
+    ],
+    "score": 1
+}

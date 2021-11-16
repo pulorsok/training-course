@@ -1,0 +1,17 @@
+{
+    "crime": "137. Ljava/lang/String;replace->Ljava/lang/Integer;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "replace",
+            "descriptor": "(Ljava/lang/CharSequence; Ljava/lang/CharSequence;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/Integer;"
+        }
+    ],
+    "score": 1
+}

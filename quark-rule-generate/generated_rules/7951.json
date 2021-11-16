@@ -1,0 +1,17 @@
+{
+    "crime": "7951. Ljava/nio/channels/FileChannel;force->Ljava/io/RandomAccessFile;getChannel",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/channels/FileChannel;",
+            "method": "force",
+            "descriptor": "(Z)V"
+        },
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "getChannel",
+            "descriptor": "()Ljava/nio/channels/FileChannel;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "3310. Ljava/util/List;size->Ljava/lang/StringBuilder;appendCodePoint",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "appendCodePoint",
+            "descriptor": "(I)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1
+}

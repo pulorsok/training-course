@@ -1,0 +1,17 @@
+{
+    "crime": "6962. Ljava/lang/Integer;bitCount->Ljava/util/logging/Logger;fine",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "bitCount",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

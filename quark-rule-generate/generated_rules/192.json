@@ -1,0 +1,17 @@
+{
+    "crime": "192. Ljava/lang/String;split->Ljava/lang/RuntimeException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "split",
+            "descriptor": "(Ljava/lang/String;)[Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/RuntimeException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Throwable;)V"
+        }
+    ],
+    "score": 1
+}

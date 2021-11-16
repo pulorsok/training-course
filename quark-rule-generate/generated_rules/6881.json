@@ -1,0 +1,17 @@
+{
+    "crime": "6881. Ljava/lang/IllegalStateException;<init>->Ljavax/net/ssl/SSLSocket;getEnabledProtocols",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getEnabledProtocols",
+            "descriptor": "()[Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

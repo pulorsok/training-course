@@ -1,0 +1,17 @@
+{
+    "crime": "5933. Ljava/lang/IllegalAccessError;<init>->Ljava/net/IDN;toASCII",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalAccessError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/net/IDN;",
+            "method": "toASCII",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

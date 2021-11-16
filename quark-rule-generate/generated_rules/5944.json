@@ -1,0 +1,17 @@
+{
+    "crime": "5944. Ljava/net/ProxySelector;connectFailed->Ljava/lang/String;length",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "connectFailed",
+            "descriptor": "(Ljava/net/URI; Ljava/net/SocketAddress; Ljava/io/IOException;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

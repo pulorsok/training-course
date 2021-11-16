@@ -1,0 +1,17 @@
+{
+    "crime": "7394. Ljava/nio/ByteBuffer;array->Ljava/io/BufferedReader;readLine",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "array",
+            "descriptor": "()[B"
+        },
+        {
+            "class": "Ljava/io/BufferedReader;",
+            "method": "readLine",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

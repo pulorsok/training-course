@@ -1,0 +1,17 @@
+{
+    "crime": "7347. Ljava/nio/ByteBuffer;allocate->Ljava/lang/StringBuilder;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "allocate",
+            "descriptor": "(I)Ljava/nio/ByteBuffer;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "3376. Ljava/io/FileInputStream;<init>->Ljava/io/BufferedInputStream;read",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/FileInputStream;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/File;)V"
+        },
+        {
+            "class": "Ljava/io/BufferedInputStream;",
+            "method": "read",
+            "descriptor": "([B I I)I"
+        }
+    ],
+    "score": 1
+}

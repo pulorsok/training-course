@@ -1,0 +1,17 @@
+{
+    "crime": "4263. Ljava/lang/reflect/Method;getModifiers->Ljava/lang/AssertionError;initCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "getModifiers",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1
+}

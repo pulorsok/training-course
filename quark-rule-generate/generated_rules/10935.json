@@ -1,0 +1,17 @@
+{
+    "crime": "10935. Ljava/lang/Object;<init>->Ljava/nio/charset/Charset;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/nio/charset/Charset;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

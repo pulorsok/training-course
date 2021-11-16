@@ -1,0 +1,17 @@
+{
+    "crime": "4497. Ljava/math/BigDecimal;toBigInteger->Ljava/util/Queue;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigDecimal;",
+            "method": "toBigInteger",
+            "descriptor": "()Ljava/math/BigInteger;"
+        },
+        {
+            "class": "Ljava/util/Queue;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "570. Landroid/database/Cursor;moveToNext->Landroid/telephony/SmsManager;getDefault",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/database/Cursor;",
+            "method": "moveToNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Landroid/telephony/SmsManager;",
+            "method": "getDefault",
+            "descriptor": "()Landroid/telephony/SmsManager;"
+        }
+    ],
+    "score": 1
+}

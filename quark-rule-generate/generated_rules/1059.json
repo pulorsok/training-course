@@ -1,0 +1,17 @@
+{
+    "crime": "1059. Ljava/util/Iterator;hasNext->Ljava/lang/Object;wait",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "wait",
+            "descriptor": "(J I)V"
+        }
+    ],
+    "score": 1
+}

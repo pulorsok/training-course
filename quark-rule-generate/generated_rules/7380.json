@@ -1,0 +1,17 @@
+{
+    "crime": "7380. Ljava/lang/Integer;valueOf->Ljava/util/zip/CRC32;getValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/Integer;"
+        },
+        {
+            "class": "Ljava/util/zip/CRC32;",
+            "method": "getValue",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1
+}

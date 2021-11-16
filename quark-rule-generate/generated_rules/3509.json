@@ -1,0 +1,17 @@
+{
+    "crime": "3509. Ljava/lang/System;currentTimeMillis->Ljava/util/regex/Pattern;pattern",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "currentTimeMillis",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/util/regex/Pattern;",
+            "method": "pattern",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

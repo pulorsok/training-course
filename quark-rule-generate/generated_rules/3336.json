@@ -1,0 +1,17 @@
+{
+    "crime": "3336. Ljava/util/List;size->Ljava/util/Collections;unmodifiableSet",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "unmodifiableSet",
+            "descriptor": "(Ljava/util/Set;)Ljava/util/Set;"
+        }
+    ],
+    "score": 1
+}

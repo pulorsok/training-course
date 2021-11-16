@@ -1,0 +1,17 @@
+{
+    "crime": "5385. Ljava/util/concurrent/ScheduledExecutorService;scheduleAtFixedRate->Ljava/lang/IllegalStateException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ScheduledExecutorService;",
+            "method": "scheduleAtFixedRate",
+            "descriptor": "(Ljava/lang/Runnable; J J Ljava/util/concurrent/TimeUnit;)Ljava/util/concurrent/ScheduledFuture;"
+        },
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

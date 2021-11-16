@@ -1,0 +1,17 @@
+{
+    "crime": "5717. Ljava/util/logging/Logger;fine->Ljava/util/List;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "add",
+            "descriptor": "(I Ljava/lang/Object;)V"
+        }
+    ],
+    "score": 1
+}

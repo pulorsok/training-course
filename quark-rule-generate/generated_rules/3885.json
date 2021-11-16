@@ -1,0 +1,17 @@
+{
+    "crime": "3885. Ljava/lang/Thread;holdsLock->Ljava/net/Socket;getSoTimeout",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "holdsLock",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getSoTimeout",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "1423. Ljava/lang/StringBuilder;<init>->Ljava/nio/ByteBuffer;remaining",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "remaining",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

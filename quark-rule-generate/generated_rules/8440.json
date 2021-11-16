@@ -1,0 +1,17 @@
+{
+    "crime": "8440. Ljava/security/PublicKey;getEncoded->Ljava/security/MessageDigest;digest",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/PublicKey;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        },
+        {
+            "class": "Ljava/security/MessageDigest;",
+            "method": "digest",
+            "descriptor": "([B)[B"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "461. Ljava/util/Date;<init>->Ljava/lang/StringBuilder;length",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Date;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "length",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

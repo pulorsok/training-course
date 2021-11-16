@@ -1,0 +1,17 @@
+{
+    "crime": "3128. Ljava/lang/StringBuilder;toString->Ljava/lang/Byte;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Byte;",
+            "method": "valueOf",
+            "descriptor": "(B)Ljava/lang/Byte;"
+        }
+    ],
+    "score": 1
+}

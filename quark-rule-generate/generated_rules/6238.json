@@ -1,0 +1,17 @@
+{
+    "crime": "6238. Ljava/util/regex/Pattern;matcher->Ljava/util/regex/Matcher;find",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Pattern;",
+            "method": "matcher",
+            "descriptor": "(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "find",
+            "descriptor": "(I)Z"
+        }
+    ],
+    "score": 1
+}

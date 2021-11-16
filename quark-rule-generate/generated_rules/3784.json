@@ -1,0 +1,17 @@
+{
+    "crime": "3784. Ljava/lang/Thread;currentThread->Ljava/nio/channels/FileChannel;read",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "currentThread",
+            "descriptor": "()Ljava/lang/Thread;"
+        },
+        {
+            "class": "Ljava/nio/channels/FileChannel;",
+            "method": "read",
+            "descriptor": "(Ljava/nio/ByteBuffer; J)I"
+        }
+    ],
+    "score": 1
+}

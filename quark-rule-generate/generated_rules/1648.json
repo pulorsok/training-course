@@ -1,0 +1,17 @@
+{
+    "crime": "1648. Ljava/lang/StringBuilder;append->Ljava/util/zip/CRC32;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(C)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/util/zip/CRC32;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

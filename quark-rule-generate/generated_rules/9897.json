@@ -1,0 +1,17 @@
+{
+    "crime": "9897. Ljava/lang/String;indexOf->Ljava/util/regex/Matcher;end",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "end",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

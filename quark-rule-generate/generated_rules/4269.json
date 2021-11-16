@@ -1,0 +1,17 @@
+{
+    "crime": "4269. Ljava/lang/reflect/Method;getModifiers->Ljava/lang/reflect/Method;getReturnType",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "getModifiers",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "getReturnType",
+            "descriptor": "()Ljava/lang/Class;"
+        }
+    ],
+    "score": 1
+}

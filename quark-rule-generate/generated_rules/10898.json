@@ -1,0 +1,17 @@
+{
+    "crime": "10898. Ljava/lang/Object;<init>->Ljava/net/Proxy;address",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "address",
+            "descriptor": "()Ljava/net/SocketAddress;"
+        }
+    ],
+    "score": 1
+}

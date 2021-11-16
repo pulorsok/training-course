@@ -1,0 +1,17 @@
+{
+    "crime": "10347. Ljava/lang/String;length->Ljava/net/URI;create",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/net/URI;",
+            "method": "create",
+            "descriptor": "(Ljava/lang/String;)Ljava/net/URI;"
+        }
+    ],
+    "score": 1
+}

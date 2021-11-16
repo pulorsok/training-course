@@ -1,0 +1,17 @@
+{
+    "crime": "487. Ljava/lang/String;substring->Ljava/io/File;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/File; Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

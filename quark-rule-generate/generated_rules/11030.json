@@ -1,0 +1,17 @@
+{
+    "crime": "11030. Ljava/lang/Object;<init>->Lorg/json/JSONException;printStackTrace",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Lorg/json/JSONException;",
+            "method": "printStackTrace",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

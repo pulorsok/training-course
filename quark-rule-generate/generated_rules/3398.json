@@ -1,0 +1,17 @@
+{
+    "crime": "3398. Ljava/lang/System;arraycopy->Ljava/lang/Long;highestOneBit",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "arraycopy",
+            "descriptor": "(Ljava/lang/Object; I Ljava/lang/Object; I I)V"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "highestOneBit",
+            "descriptor": "(J)J"
+        }
+    ],
+    "score": 1
+}

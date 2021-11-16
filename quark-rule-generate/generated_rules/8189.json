@@ -1,0 +1,17 @@
+{
+    "crime": "8189. Ljava/lang/Math;random->Ljava/math/BigInteger;min",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "random",
+            "descriptor": "()D"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "min",
+            "descriptor": "(Ljava/math/BigInteger;)Ljava/math/BigInteger;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "8644. Lorg/json/JSONObject;<init>->Lorg/json/JSONObject;getJSONArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getJSONArray",
+            "descriptor": "(Ljava/lang/String;)Lorg/json/JSONArray;"
+        }
+    ],
+    "score": 1
+}

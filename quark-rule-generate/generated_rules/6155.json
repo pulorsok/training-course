@@ -1,0 +1,17 @@
+{
+    "crime": "6155. Ljava/net/Socket;close->Ljava/util/logging/Logger;isLoggable",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "close",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "isLoggable",
+            "descriptor": "(Ljava/util/logging/Level;)Z"
+        }
+    ],
+    "score": 1
+}

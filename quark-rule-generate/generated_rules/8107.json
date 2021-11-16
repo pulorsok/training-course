@@ -1,0 +1,17 @@
+{
+    "crime": "8107. Ljava/lang/Math;min->Ljava/io/InputStream;read",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(J J)J"
+        },
+        {
+            "class": "Ljava/io/InputStream;",
+            "method": "read",
+            "descriptor": "([B I I)I"
+        }
+    ],
+    "score": 1
+}

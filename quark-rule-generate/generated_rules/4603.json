@@ -1,0 +1,17 @@
+{
+    "crime": "4603. Ljava/math/BigInteger;multiply->Ljava/lang/Math;floor",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "multiply",
+            "descriptor": "(Ljava/math/BigInteger;)Ljava/math/BigInteger;"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "floor",
+            "descriptor": "(D)D"
+        }
+    ],
+    "score": 1
+}

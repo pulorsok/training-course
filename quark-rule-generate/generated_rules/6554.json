@@ -1,0 +1,17 @@
+{
+    "crime": "6554. Ljava/lang/IllegalStateException;<init>->Ljava/net/Proxy;address",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "address",
+            "descriptor": "()Ljava/net/SocketAddress;"
+        }
+    ],
+    "score": 1
+}

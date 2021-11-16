@@ -1,0 +1,17 @@
+{
+    "crime": "9875. Ljava/lang/String;indexOf->Ljava/net/InetAddress;getByAddress",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/net/InetAddress;",
+            "method": "getByAddress",
+            "descriptor": "([B)Ljava/net/InetAddress;"
+        }
+    ],
+    "score": 1
+}

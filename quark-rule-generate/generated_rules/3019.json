@@ -1,0 +1,17 @@
+{
+    "crime": "3019. Ljava/io/File;getName->Ljava/io/File;isDirectory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "getName",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "isDirectory",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

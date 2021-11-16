@@ -1,0 +1,17 @@
+{
+    "crime": "3372. Ljava/util/List;size->Lorg/json/JSONObject;optInt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "optInt",
+            "descriptor": "(Ljava/lang/String; I)I"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "5287. Ljava/lang/Character;charValue->Ljava/lang/Object;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "charValue",
+            "descriptor": "()C"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

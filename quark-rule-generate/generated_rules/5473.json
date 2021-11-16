@@ -1,0 +1,17 @@
+{
+    "crime": "5473. Ljava/util/concurrent/ThreadPoolExecutor;<init>->Ljava/util/Deque;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ThreadPoolExecutor;",
+            "method": "<init>",
+            "descriptor": "(I I J Ljava/util/concurrent/TimeUnit; Ljava/util/concurrent/BlockingQueue; Ljava/util/concurrent/ThreadFactory;)V"
+        },
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "4247. Ljava/lang/reflect/InvocationTargetException;getTargetException->Ljava/lang/AssertionError;initCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/InvocationTargetException;",
+            "method": "getTargetException",
+            "descriptor": "()Ljava/lang/Throwable;"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1
+}

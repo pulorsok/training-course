@@ -1,0 +1,17 @@
+{
+    "crime": "10173. Ljava/lang/String;charAt->Ljava/lang/String;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([B I I Ljava/nio/charset/Charset;)V"
+        }
+    ],
+    "score": 1
+}

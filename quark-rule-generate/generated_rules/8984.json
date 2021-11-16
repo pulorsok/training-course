@@ -1,0 +1,17 @@
+{
+    "crime": "8984. Ljava/util/ArrayDeque;poll->Ljava/io/IOException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "poll",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

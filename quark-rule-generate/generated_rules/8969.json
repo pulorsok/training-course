@@ -1,0 +1,17 @@
+{
+    "crime": "8969. Ljava/util/ArrayDeque;<init>->Ljava/security/cert/X509Certificate;getIssuerDN",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getIssuerDN",
+            "descriptor": "()Ljava/security/Principal;"
+        }
+    ],
+    "score": 1
+}

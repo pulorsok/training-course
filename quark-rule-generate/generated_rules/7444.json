@@ -1,0 +1,17 @@
+{
+    "crime": "7444. Ljavax/net/ssl/SSLSession;getCipherSuite->Ljavax/net/ssl/SSLSession;getProtocol",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getCipherSuite",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getProtocol",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

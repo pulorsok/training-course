@@ -1,0 +1,17 @@
+{
+    "crime": "8946. Ljava/text/ParsePosition;getIndex->Ljava/text/SimpleDateFormat;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/ParsePosition;",
+            "method": "getIndex",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/text/SimpleDateFormat;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String; Ljava/util/Locale;)V"
+        }
+    ],
+    "score": 1
+}

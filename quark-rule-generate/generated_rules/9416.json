@@ -1,0 +1,17 @@
+{
+    "crime": "9416. Ljava/lang/String;equals->Ljava/net/Proxy;address",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "address",
+            "descriptor": "()Ljava/net/SocketAddress;"
+        }
+    ],
+    "score": 1
+}

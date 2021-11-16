@@ -1,0 +1,17 @@
+{
+    "crime": "8017. Ljavax/net/ssl/SSLSocketFactory;createSocket->Ljava/net/Socket;getInputStream",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocketFactory;",
+            "method": "createSocket",
+            "descriptor": "(Ljava/net/Socket; Ljava/lang/String; I Z)Ljava/net/Socket;"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getInputStream",
+            "descriptor": "()Ljava/io/InputStream;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "9412. Ljava/lang/String;equals->Ljava/net/HttpURLConnection;setDoOutput",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setDoOutput",
+            "descriptor": "(Z)V"
+        }
+    ],
+    "score": 1
+}

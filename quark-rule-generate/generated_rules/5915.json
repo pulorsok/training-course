@@ -1,0 +1,17 @@
+{
+    "crime": "5915. Ljava/lang/IllegalAccessError;<init>->Ljava/lang/Long;highestOneBit",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalAccessError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "highestOneBit",
+            "descriptor": "(J)J"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "3118. Ljava/lang/StringBuilder;toString->Ljava/io/File;isDirectory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "isDirectory",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

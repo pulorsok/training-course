@@ -1,0 +1,17 @@
+{
+    "crime": "7741. Ljava/lang/Long;valueOf->Ljava/util/concurrent/Future;cancel",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "valueOf",
+            "descriptor": "(J)Ljava/lang/Long;"
+        },
+        {
+            "class": "Ljava/util/concurrent/Future;",
+            "method": "cancel",
+            "descriptor": "(Z)Z"
+        }
+    ],
+    "score": 1
+}

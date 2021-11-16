@@ -1,0 +1,17 @@
+{
+    "crime": "6817. Ljava/lang/IllegalStateException;<init>->Ljava/nio/charset/Charset;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/nio/charset/Charset;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

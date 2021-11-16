@@ -1,0 +1,17 @@
+{
+    "crime": "2020. Ljava/io/BufferedInputStream;<init>->Ljava/io/InputStream;read",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/BufferedInputStream;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/InputStream;)V"
+        },
+        {
+            "class": "Ljava/io/InputStream;",
+            "method": "read",
+            "descriptor": "([B)I"
+        }
+    ],
+    "score": 1
+}

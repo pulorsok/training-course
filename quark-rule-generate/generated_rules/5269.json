@@ -1,0 +1,17 @@
+{
+    "crime": "5269. Ljava/lang/Character;charCount->Ljava/lang/String;toUpperCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "charCount",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toUpperCase",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

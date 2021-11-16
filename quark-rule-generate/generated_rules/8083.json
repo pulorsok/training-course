@@ -1,0 +1,17 @@
+{
+    "crime": "8083. Ljavax/net/ssl/TrustManagerFactory;getInstance->Ljava/util/Arrays;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljavax/net/ssl/TrustManagerFactory;"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "toString",
+            "descriptor": "([Ljava/lang/Object;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

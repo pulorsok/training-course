@@ -1,0 +1,17 @@
+{
+    "crime": "6137. Ljava/net/Socket;<init>->Ljava/lang/AssertionError;getCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "<init>",
+            "descriptor": "(Ljava/net/Proxy;)V"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "getCause",
+            "descriptor": "()Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1
+}

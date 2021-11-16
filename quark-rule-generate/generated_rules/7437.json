@@ -1,0 +1,17 @@
+{
+    "crime": "7437. Ljavax/net/ssl/SSLSession;getCipherSuite->Ljava/util/List;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getCipherSuite",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

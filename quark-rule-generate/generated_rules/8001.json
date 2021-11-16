@@ -1,0 +1,17 @@
+{
+    "crime": "8001. Ljava/lang/Math;min->Ljava/util/Arrays;fill",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(I I)I"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "fill",
+            "descriptor": "([B I I B)V"
+        }
+    ],
+    "score": 1
+}

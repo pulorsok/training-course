@@ -1,0 +1,17 @@
+{
+    "crime": "9341. Ljava/util/ArrayList;<init>->Lorg/json/JSONArray;isNull",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "isNull",
+            "descriptor": "(I)Z"
+        }
+    ],
+    "score": 1
+}

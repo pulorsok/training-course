@@ -1,0 +1,17 @@
+{
+    "crime": "10771. Ljava/lang/Object;<init>->Landroid/hardware/Camera$CameraInfo;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/hardware/Camera$CameraInfo;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

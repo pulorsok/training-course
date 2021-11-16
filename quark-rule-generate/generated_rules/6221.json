@@ -1,0 +1,17 @@
+{
+    "crime": "6221. Ljava/util/regex/Pattern;matcher->Ljava/util/Calendar;setLenient",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Pattern;",
+            "method": "matcher",
+            "descriptor": "(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+        },
+        {
+            "class": "Ljava/util/Calendar;",
+            "method": "setLenient",
+            "descriptor": "(Z)V"
+        }
+    ],
+    "score": 1
+}

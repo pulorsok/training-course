@@ -1,0 +1,17 @@
+{
+    "crime": "8265. Lorg/json/JSONArray;<init>->Ljava/io/File;canRead",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "canRead",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

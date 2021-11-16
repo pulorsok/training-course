@@ -1,0 +1,17 @@
+{
+    "crime": "2957. Ljava/util/List;iterator->Ljava/util/regex/Matcher;start",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "start",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1
+}

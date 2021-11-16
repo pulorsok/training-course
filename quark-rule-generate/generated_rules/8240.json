@@ -1,0 +1,17 @@
+{
+    "crime": "8240. Ljava/nio/file/Files;newOutputStream->Ljava/lang/Object;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/file/Files;",
+            "method": "newOutputStream",
+            "descriptor": "(Ljava/nio/file/Path; [Ljava/nio/file/OpenOption;)Ljava/io/OutputStream;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

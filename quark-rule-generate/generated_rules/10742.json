@@ -1,0 +1,17 @@
+{
+    "crime": "10742. Ljava/lang/Object;getClass->Ljava/net/Proxy;type",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "type",
+            "descriptor": "()Ljava/net/Proxy$Type;"
+        }
+    ],
+    "score": 1
+}

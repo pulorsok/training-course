@@ -1,0 +1,17 @@
+{
+    "crime": "1622. Ljava/lang/StringBuilder;append->Ljava/net/Proxy;address",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(C)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "address",
+            "descriptor": "()Ljava/net/SocketAddress;"
+        }
+    ],
+    "score": 1
+}

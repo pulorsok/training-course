@@ -1,0 +1,17 @@
+{
+    "crime": "464. Ljava/util/Date;<init>->Ljava/security/SecureRandom;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Date;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/security/SecureRandom;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

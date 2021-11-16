@@ -1,0 +1,17 @@
+{
+    "crime": "2007. Landroid/util/Log;getStackTraceString->Ljava/lang/String;indexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/util/Log;",
+            "method": "getStackTraceString",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I I)I"
+        }
+    ],
+    "score": 1
+}

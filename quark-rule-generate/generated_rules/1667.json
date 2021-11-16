@@ -1,0 +1,17 @@
+{
+    "crime": "1667. Ljava/lang/StringBuilder;append->Landroid/util/Log;e",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(D)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Landroid/util/Log;",
+            "method": "e",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1
+}

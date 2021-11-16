@@ -1,0 +1,17 @@
+{
+    "crime": "8499. Lorg/json/JSONArray;put->Landroid/telephony/SmsManager;sendTextMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object;)Lorg/json/JSONArray;"
+        },
+        {
+            "class": "Landroid/telephony/SmsManager;",
+            "method": "sendTextMessage",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String; Ljava/lang/String; Landroid/app/PendingIntent; Landroid/app/PendingIntent;)V"
+        }
+    ],
+    "score": 1
+}

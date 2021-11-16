@@ -1,0 +1,17 @@
+{
+    "crime": "2796. Ljava/io/File;canRead->Ljava/io/File;listFiles",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "canRead",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "listFiles",
+            "descriptor": "()[Ljava/io/File;"
+        }
+    ],
+    "score": 1
+}

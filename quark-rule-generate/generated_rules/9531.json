@@ -1,0 +1,17 @@
+{
+    "crime": "9531. Ljava/lang/String;equalsIgnoreCase->Ljava/util/regex/Matcher;start",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "start",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1
+}

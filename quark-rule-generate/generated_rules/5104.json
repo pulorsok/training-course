@@ -1,0 +1,17 @@
+{
+    "crime": "5104. Ljava/net/HttpURLConnection;getInputStream->Ljava/io/BufferedReader;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getInputStream",
+            "descriptor": "()Ljava/io/InputStream;"
+        },
+        {
+            "class": "Ljava/io/BufferedReader;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/Reader;)V"
+        }
+    ],
+    "score": 1
+}

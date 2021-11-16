@@ -1,0 +1,17 @@
+{
+    "crime": "10961. Ljava/lang/Object;<init>->Ljava/util/LinkedHashSet;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/LinkedHashSet;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        }
+    ],
+    "score": 1
+}

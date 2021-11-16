@@ -1,0 +1,17 @@
+{
+    "crime": "10290. Ljava/lang/String;length->Landroid/util/Log;println",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Landroid/util/Log;",
+            "method": "println",
+            "descriptor": "(I Ljava/lang/String; Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1
+}

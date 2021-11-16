@@ -1,0 +1,17 @@
+{
+    "crime": "8891. Ljava/text/DateFormat;setTimeZone->Ljava/text/DateFormat;parse",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "setTimeZone",
+            "descriptor": "(Ljava/util/TimeZone;)V"
+        },
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "parse",
+            "descriptor": "(Ljava/lang/String; Ljava/text/ParsePosition;)Ljava/util/Date;"
+        }
+    ],
+    "score": 1
+}

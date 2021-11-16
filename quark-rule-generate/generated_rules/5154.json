@@ -1,0 +1,17 @@
+{
+    "crime": "5154. Ljava/lang/Byte;valueOf->Ljava/lang/Long;highestOneBit",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Byte;",
+            "method": "valueOf",
+            "descriptor": "(B)Ljava/lang/Byte;"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "highestOneBit",
+            "descriptor": "(J)J"
+        }
+    ],
+    "score": 1
+}

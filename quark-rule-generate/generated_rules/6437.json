@@ -1,0 +1,17 @@
+{
+    "crime": "6437. Ljava/net/Socket;setSoTimeout->Ljava/util/concurrent/TimeUnit;toNanos",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "setSoTimeout",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toNanos",
+            "descriptor": "(J)J"
+        }
+    ],
+    "score": 1
+}

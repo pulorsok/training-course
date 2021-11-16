@@ -1,0 +1,17 @@
+{
+    "crime": "1723. Ljava/util/LinkedHashMap;size->Ljava/lang/String;indexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(Ljava/lang/String; I)I"
+        }
+    ],
+    "score": 1
+}

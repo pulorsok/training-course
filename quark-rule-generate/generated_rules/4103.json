@@ -1,0 +1,17 @@
+{
+    "crime": "4103. Ljava/io/InputStreamReader;<init>->Ljava/io/Reader;read",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/InputStreamReader;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/InputStream; Ljava/nio/charset/Charset;)V"
+        },
+        {
+            "class": "Ljava/io/Reader;",
+            "method": "read",
+            "descriptor": "([C I I)I"
+        }
+    ],
+    "score": 1
+}

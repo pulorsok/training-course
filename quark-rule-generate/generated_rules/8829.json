@@ -1,0 +1,17 @@
+{
+    "crime": "8829. Ljava/security/cert/X509Certificate;getSubjectX500Principal->Ljava/lang/StringBuilder;append",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectX500Principal",
+            "descriptor": "()Ljavax/security/auth/x500/X500Principal;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(C)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "854. Ljava/util/Deque;removeFirst->Ljava/security/cert/X509Certificate;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "removeFirst",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

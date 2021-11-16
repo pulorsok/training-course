@@ -1,0 +1,17 @@
+{
+    "crime": "6160. Ljava/util/regex/Matcher;usePattern->Ljava/lang/String;toLowerCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "usePattern",
+            "descriptor": "(Ljava/util/regex/Pattern;)Ljava/util/regex/Matcher;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toLowerCase",
+            "descriptor": "(Ljava/util/Locale;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

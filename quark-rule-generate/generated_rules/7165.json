@@ -1,0 +1,17 @@
+{
+    "crime": "7165. Ljava/lang/Integer;parseInt->Lorg/json/JSONArray;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "parseInt",
+            "descriptor": "(Ljava/lang/String;)I"
+        },
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object;)Lorg/json/JSONArray;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "5093. Ljava/lang/AssertionError;getMessage->Ljavax/net/SocketFactory;createSocket",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljavax/net/SocketFactory;",
+            "method": "createSocket",
+            "descriptor": "()Ljava/net/Socket;"
+        }
+    ],
+    "score": 1
+}

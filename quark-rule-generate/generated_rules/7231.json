@@ -1,0 +1,17 @@
+{
+    "crime": "7231. Ljava/lang/Integer;toHexString->Ljava/lang/String;toUpperCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "toHexString",
+            "descriptor": "(I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toUpperCase",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

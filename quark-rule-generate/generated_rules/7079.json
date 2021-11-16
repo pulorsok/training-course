@@ -1,0 +1,17 @@
+{
+    "crime": "7079. Ljava/net/URL;openConnection->Ljava/net/HttpURLConnection;addRequestProperty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URL;",
+            "method": "openConnection",
+            "descriptor": "(Ljava/net/Proxy;)Ljava/net/URLConnection;"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "addRequestProperty",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

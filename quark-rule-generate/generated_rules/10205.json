@@ -1,0 +1,17 @@
+{
+    "crime": "10205. Ljava/lang/String;charAt->Ljava/nio/ByteBuffer;remaining",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "remaining",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

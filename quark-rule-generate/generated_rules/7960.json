@@ -1,0 +1,17 @@
+{
+    "crime": "7960. Ljava/lang/Math;min->Landroid/util/Log;println",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(I I)I"
+        },
+        {
+            "class": "Landroid/util/Log;",
+            "method": "println",
+            "descriptor": "(I Ljava/lang/String; Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "10805. Ljava/lang/Object;<init>->Ljava/io/IOException;printStackTrace",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "printStackTrace",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

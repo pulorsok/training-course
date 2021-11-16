@@ -1,0 +1,17 @@
+{
+    "crime": "8660. Ljava/security/cert/X509Certificate;getIssuerX500Principal->Ljava/security/cert/X509Certificate;verify",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getIssuerX500Principal",
+            "descriptor": "()Ljavax/security/auth/x500/X500Principal;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "verify",
+            "descriptor": "(Ljava/security/PublicKey;)V"
+        }
+    ],
+    "score": 1
+}

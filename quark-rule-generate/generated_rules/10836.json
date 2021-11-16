@@ -1,0 +1,17 @@
+{
+    "crime": "10836. Ljava/lang/Object;<init>->Ljava/lang/Short;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Short;",
+            "method": "valueOf",
+            "descriptor": "(S)Ljava/lang/Short;"
+        }
+    ],
+    "score": 1
+}

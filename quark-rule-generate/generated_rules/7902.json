@@ -1,0 +1,17 @@
+{
+    "crime": "7902. Ljava/nio/ByteBuffer;wrap->Ljava/nio/ByteBuffer;asReadOnlyBuffer",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "wrap",
+            "descriptor": "([B)Ljava/nio/ByteBuffer;"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "asReadOnlyBuffer",
+            "descriptor": "()Ljava/nio/ByteBuffer;"
+        }
+    ],
+    "score": 1
+}

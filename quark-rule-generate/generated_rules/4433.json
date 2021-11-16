@@ -1,0 +1,17 @@
+{
+    "crime": "4433. Ljava/math/BigDecimal;multiply->Ljava/util/Timer;schedule",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigDecimal;",
+            "method": "multiply",
+            "descriptor": "(Ljava/math/BigDecimal;)Ljava/math/BigDecimal;"
+        },
+        {
+            "class": "Ljava/util/Timer;",
+            "method": "schedule",
+            "descriptor": "(Ljava/util/TimerTask; J)V"
+        }
+    ],
+    "score": 1
+}

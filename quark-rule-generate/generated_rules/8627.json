@@ -1,0 +1,17 @@
+{
+    "crime": "8627. Ljava/security/cert/X509Certificate;equals->Ljava/security/cert/X509Certificate;verify",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "verify",
+            "descriptor": "(Ljava/security/PublicKey;)V"
+        }
+    ],
+    "score": 1
+}

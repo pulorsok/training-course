@@ -1,0 +1,17 @@
+{
+    "crime": "5617. Ljava/net/ProtocolException;<init>->Ljava/lang/Long;toHexString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProtocolException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "toHexString",
+            "descriptor": "(J)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

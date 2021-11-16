@@ -1,0 +1,17 @@
+{
+    "crime": "8378. Ljava/lang/NullPointerException;<init>->Ljava/net/ProxySelector;connectFailed",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "connectFailed",
+            "descriptor": "(Ljava/net/URI; Ljava/net/SocketAddress; Ljava/io/IOException;)V"
+        }
+    ],
+    "score": 1
+}

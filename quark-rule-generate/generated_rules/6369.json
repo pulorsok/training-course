@@ -1,0 +1,17 @@
+{
+    "crime": "6369. Ljava/lang/IllegalArgumentException;<init>->Ljava/security/cert/X509Certificate;getSubjectAlternativeNames",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectAlternativeNames",
+            "descriptor": "()Ljava/util/Collection;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "10765. Ljava/lang/Object;<init>->Landroid/content/Context;getPackageManager",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/content/Context;",
+            "method": "getPackageManager",
+            "descriptor": "()Landroid/content/pm/PackageManager;"
+        }
+    ],
+    "score": 1
+}

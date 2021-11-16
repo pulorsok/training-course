@@ -1,0 +1,17 @@
+{
+    "crime": "10890. Ljava/lang/Object;<init>->Ljava/net/HttpURLConnection;setConnectTimeout",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setConnectTimeout",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1
+}

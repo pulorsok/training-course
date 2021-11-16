@@ -1,0 +1,17 @@
+{
+    "crime": "2038. Ljava/lang/StringBuilder;append->Ljava/io/File;delete",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "delete",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

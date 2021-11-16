@@ -1,0 +1,17 @@
+{
+    "crime": "5317. Ljava/util/concurrent/LinkedBlockingQueue;<init>->Ljava/lang/Thread;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/LinkedBlockingQueue;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        }
+    ],
+    "score": 1
+}

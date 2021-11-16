@@ -1,0 +1,17 @@
+{
+    "crime": "6439. Ljava/util/zip/Deflater;deflate->Ljava/util/zip/Deflater;deflate",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/zip/Deflater;",
+            "method": "deflate",
+            "descriptor": "([B I I I)I"
+        },
+        {
+            "class": "Ljava/util/zip/Deflater;",
+            "method": "deflate",
+            "descriptor": "([B I I)I"
+        }
+    ],
+    "score": 1
+}

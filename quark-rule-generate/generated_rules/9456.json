@@ -1,0 +1,17 @@
+{
+    "crime": "9456. Ljava/lang/String;equals->Lorg/json/JSONArray;getString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "getString",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

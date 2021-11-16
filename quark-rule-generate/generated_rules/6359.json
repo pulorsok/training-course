@@ -1,0 +1,17 @@
+{
+    "crime": "6359. Ljava/lang/IllegalArgumentException;<init>->Ljava/nio/channels/FileChannel;force",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/nio/channels/FileChannel;",
+            "method": "force",
+            "descriptor": "(Z)V"
+        }
+    ],
+    "score": 1
+}

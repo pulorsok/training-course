@@ -1,0 +1,17 @@
+{
+    "crime": "4838. Ljava/util/concurrent/ConcurrentLinkedQueue;add->Ljava/net/HttpURLConnection;setRequestMethod",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setRequestMethod",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

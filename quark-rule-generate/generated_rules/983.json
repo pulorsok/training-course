@@ -1,0 +1,17 @@
+{
+    "crime": "983. Ljava/util/HashMap;<init>->Ljava/lang/Character;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/HashMap;",
+            "method": "<init>",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "valueOf",
+            "descriptor": "(C)Ljava/lang/Character;"
+        }
+    ],
+    "score": 1
+}

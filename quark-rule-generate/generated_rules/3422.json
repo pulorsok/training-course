@@ -1,0 +1,17 @@
+{
+    "crime": "3422. Ljava/lang/System;arraycopy->Ljava/nio/channels/FileChannel;force",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "arraycopy",
+            "descriptor": "(Ljava/lang/Object; I Ljava/lang/Object; I I)V"
+        },
+        {
+            "class": "Ljava/nio/channels/FileChannel;",
+            "method": "force",
+            "descriptor": "(Z)V"
+        }
+    ],
+    "score": 1
+}

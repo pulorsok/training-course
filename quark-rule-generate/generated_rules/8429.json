@@ -1,0 +1,17 @@
+{
+    "crime": "8429. Lorg/json/JSONArray;length->Lorg/json/JSONArray;getString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "getString",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

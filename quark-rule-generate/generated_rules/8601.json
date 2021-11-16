@@ -1,0 +1,17 @@
+{
+    "crime": "8601. Lorg/json/JSONObject;<init>->Ljava/io/File;isDirectory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "isDirectory",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

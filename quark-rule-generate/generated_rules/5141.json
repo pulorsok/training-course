@@ -1,0 +1,17 @@
+{
+    "crime": "5141. Ljava/net/HttpURLConnection;getResponseCode->Ljava/io/IOException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getResponseCode",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

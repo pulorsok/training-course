@@ -1,0 +1,17 @@
+{
+    "crime": "5542. Ljava/util/concurrent/TimeUnit;toMillis->Ljava/lang/StringBuilder;length",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toMillis",
+            "descriptor": "(J)J"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "length",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

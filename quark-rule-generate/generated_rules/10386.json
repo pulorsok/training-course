@@ -1,0 +1,17 @@
+{
+    "crime": "10386. Ljava/lang/String;length->Ljava/util/Collections;addAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection; [Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

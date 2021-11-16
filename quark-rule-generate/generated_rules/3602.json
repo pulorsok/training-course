@@ -1,0 +1,17 @@
+{
+    "crime": "3602. Ljava/lang/System;nanoTime->Ljava/util/ArrayDeque;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "nanoTime",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

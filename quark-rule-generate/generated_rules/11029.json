@@ -1,0 +1,17 @@
+{
+    "crime": "11029. Ljava/lang/Object;<init>->Lorg/json/JSONArray;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object;)Lorg/json/JSONArray;"
+        }
+    ],
+    "score": 1
+}

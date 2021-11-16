@@ -1,0 +1,17 @@
+{
+    "crime": "9418. Ljava/lang/String;equals->Ljava/net/ProxySelector;connectFailed",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "connectFailed",
+            "descriptor": "(Ljava/net/URI; Ljava/net/SocketAddress; Ljava/io/IOException;)V"
+        }
+    ],
+    "score": 1
+}
