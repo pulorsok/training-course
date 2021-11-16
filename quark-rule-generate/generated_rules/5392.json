@@ -1,0 +1,17 @@
+{
+    "crime": "5392. Ljava/net/InetAddress;getByAddress->Ljava/lang/Long;numberOfTrailingZeros",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/InetAddress;",
+            "method": "getByAddress",
+            "descriptor": "([B)Ljava/net/InetAddress;"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "numberOfTrailingZeros",
+            "descriptor": "(J)I"
+        }
+    ],
+    "score": 1
+}

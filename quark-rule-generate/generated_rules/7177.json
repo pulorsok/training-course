@@ -1,0 +1,17 @@
+{
+    "crime": "7177. Ljava/net/URL;toURI->Ljava/net/URL;getPort",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URL;",
+            "method": "toURI",
+            "descriptor": "()Ljava/net/URI;"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "getPort",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

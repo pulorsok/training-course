@@ -1,0 +1,17 @@
+{
+    "crime": "10287. Ljava/lang/String;codePointAt->Ljava/net/MalformedURLException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "codePointAt",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/net/MalformedURLException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

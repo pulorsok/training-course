@@ -1,0 +1,17 @@
+{
+    "crime": "2888. Ljava/util/List;isEmpty->Ljava/util/List;toArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "toArray",
+            "descriptor": "()[Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

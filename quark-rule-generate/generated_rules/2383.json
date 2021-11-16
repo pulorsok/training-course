@@ -1,0 +1,17 @@
+{
+    "crime": "2383. Ljava/lang/StringBuilder;append->Ljava/lang/AssertionError;getMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

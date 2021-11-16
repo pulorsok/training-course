@@ -1,0 +1,17 @@
+{
+    "crime": "8665. Lorg/json/JSONObject;getInt->Landroid/content/Context;getCacheDir",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getInt",
+            "descriptor": "(Ljava/lang/String;)I"
+        },
+        {
+            "class": "Landroid/content/Context;",
+            "method": "getCacheDir",
+            "descriptor": "()Ljava/io/File;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "1029. Landroid/location/LocationManager;getLastKnownLocation->Ljava/lang/StringBuilder;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/location/LocationManager;",
+            "method": "getLastKnownLocation",
+            "descriptor": "(Ljava/lang/String;)Landroid/location/Location;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

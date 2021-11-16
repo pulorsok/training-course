@@ -1,0 +1,17 @@
+{
+    "crime": "659. Ljava/util/Date;getTime->Ljava/lang/Long;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Date;",
+            "method": "getTime",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "valueOf",
+            "descriptor": "(J)Ljava/lang/Long;"
+        }
+    ],
+    "score": 1
+}

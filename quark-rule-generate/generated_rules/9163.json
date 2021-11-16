@@ -1,0 +1,17 @@
+{
+    "crime": "9163. Ljava/util/ArrayList;<init>->Ljava/net/Socket;isClosed",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isClosed",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

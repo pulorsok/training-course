@@ -1,0 +1,17 @@
+{
+    "crime": "6762. Ljava/lang/IllegalStateException;<init>->Ljava/io/InterruptedIOException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/io/InterruptedIOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

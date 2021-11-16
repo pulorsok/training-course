@@ -1,0 +1,17 @@
+{
+    "crime": "8798. Ljava/security/cert/X509Certificate;getSubjectDN->Ljava/lang/Integer;intValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectDN",
+            "descriptor": "()Ljava/security/Principal;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "intValue",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

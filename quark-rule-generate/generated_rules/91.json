@@ -1,0 +1,17 @@
+{
+    "crime": "91. Ljava/lang/String;regionMatches->Ljava/security/PublicKey;getEncoded",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "regionMatches",
+            "descriptor": "(Z I Ljava/lang/String; I I)Z"
+        },
+        {
+            "class": "Ljava/security/PublicKey;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "3913. Ljava/io/IOException;getMessage->Ljava/lang/String;hashCode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

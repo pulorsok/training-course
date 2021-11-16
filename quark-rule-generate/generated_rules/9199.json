@@ -1,0 +1,17 @@
+{
+    "crime": "9199. Ljava/util/ArrayList;<init>->Ljava/util/LinkedHashSet;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/LinkedHashSet;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        }
+    ],
+    "score": 1
+}

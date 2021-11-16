@@ -1,0 +1,17 @@
+{
+    "crime": "8628. Ljava/security/cert/X509Certificate;equals->Ljava/util/Deque;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1
+}

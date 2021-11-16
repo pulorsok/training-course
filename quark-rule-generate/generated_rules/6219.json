@@ -1,0 +1,17 @@
+{
+    "crime": "6219. Ljava/util/regex/Pattern;matcher->Ljava/util/Calendar;getTimeInMillis",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Pattern;",
+            "method": "matcher",
+            "descriptor": "(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+        },
+        {
+            "class": "Ljava/util/Calendar;",
+            "method": "getTimeInMillis",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1
+}

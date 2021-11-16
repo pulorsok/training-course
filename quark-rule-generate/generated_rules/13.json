@@ -1,0 +1,17 @@
+{
+    "crime": "13. Ljava/lang/String;regionMatches->Ljava/lang/String;indexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "regionMatches",
+            "descriptor": "(I Ljava/lang/String; I I)Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1
+}

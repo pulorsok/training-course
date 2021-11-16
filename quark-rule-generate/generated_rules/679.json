@@ -1,0 +1,17 @@
+{
+    "crime": "679. Ljava/util/Date;getTime->Ljava/security/SecureRandom;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Date;",
+            "method": "getTime",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/security/SecureRandom;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

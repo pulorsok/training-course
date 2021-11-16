@@ -1,0 +1,17 @@
+{
+    "crime": "4561. Ljava/math/BigInteger;add->Ljava/util/Timer;schedule",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "add",
+            "descriptor": "(Ljava/math/BigInteger;)Ljava/math/BigInteger;"
+        },
+        {
+            "class": "Ljava/util/Timer;",
+            "method": "schedule",
+            "descriptor": "(Ljava/util/TimerTask; J)V"
+        }
+    ],
+    "score": 1
+}

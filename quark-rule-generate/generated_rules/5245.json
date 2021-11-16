@@ -1,0 +1,17 @@
+{
+    "crime": "5245. Ljava/net/HttpURLConnection;setFixedLengthStreamingMode->Ljava/net/HttpURLConnection;getHeaderFields",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setFixedLengthStreamingMode",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getHeaderFields",
+            "descriptor": "()Ljava/util/Map;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "8758. Lorg/json/JSONObject;getString->Ljava/io/File;exists",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getString",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "exists",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

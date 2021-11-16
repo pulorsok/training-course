@@ -1,0 +1,17 @@
+{
+    "crime": "8823. Ljava/security/cert/X509Certificate;getSubjectX500Principal->Ljava/lang/String;lastIndexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectX500Principal",
+            "descriptor": "()Ljavax/security/auth/x500/X500Principal;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "lastIndexOf",
+            "descriptor": "(I I)I"
+        }
+    ],
+    "score": 1
+}

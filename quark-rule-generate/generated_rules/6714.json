@@ -1,0 +1,17 @@
+{
+    "crime": "6714. Ljava/net/URI;getRawUserInfo->Ljava/util/concurrent/ConcurrentHashMap;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getRawUserInfo",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

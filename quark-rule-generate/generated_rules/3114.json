@@ -1,0 +1,17 @@
+{
+    "crime": "3114. Ljava/lang/StringBuilder;toString->Ljava/io/EOFException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/io/EOFException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

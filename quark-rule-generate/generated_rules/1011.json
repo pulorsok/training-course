@@ -1,0 +1,17 @@
+{
+    "crime": "1011. Landroid/location/Location;getLongitude->Landroid/location/Location;getLatitude",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/location/Location;",
+            "method": "getLongitude",
+            "descriptor": "()D"
+        },
+        {
+            "class": "Landroid/location/Location;",
+            "method": "getLatitude",
+            "descriptor": "()D"
+        }
+    ],
+    "score": 1
+}

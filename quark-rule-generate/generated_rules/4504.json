@@ -1,0 +1,17 @@
+{
+    "crime": "4504. Ljava/util/TreeSet;<init>->Ljava/lang/String;trim",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/TreeSet;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "trim",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

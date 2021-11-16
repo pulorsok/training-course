@@ -1,0 +1,17 @@
+{
+    "crime": "175. Landroid/content/Context;getContentResolver->Ljava/lang/Exception;printStackTrace",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/Context;",
+            "method": "getContentResolver",
+            "descriptor": "()Landroid/content/ContentResolver;"
+        },
+        {
+            "class": "Ljava/lang/Exception;",
+            "method": "printStackTrace",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

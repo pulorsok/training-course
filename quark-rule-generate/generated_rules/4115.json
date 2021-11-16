@@ -1,0 +1,17 @@
+{
+    "crime": "4115. Ljava/util/Queue;clear->Ljava/util/Iterator;next",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Queue;",
+            "method": "clear",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

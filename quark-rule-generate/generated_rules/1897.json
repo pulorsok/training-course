@@ -1,0 +1,17 @@
+{
+    "crime": "1897. Ljava/lang/StringBuilder;append->Ljava/util/Set;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(I)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/util/Set;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1
+}

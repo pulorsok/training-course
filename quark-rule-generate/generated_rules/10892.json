@@ -1,0 +1,17 @@
+{
+    "crime": "10892. Ljava/lang/Object;<init>->Ljava/net/HttpURLConnection;setRequestMethod",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setRequestMethod",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

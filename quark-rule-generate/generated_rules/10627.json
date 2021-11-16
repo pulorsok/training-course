@@ -1,0 +1,17 @@
+{
+    "crime": "10627. Ljava/util/ArrayDeque;<init>->Ljava/lang/Object;getClass",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "2667. Ljava/util/List;get->Ljava/lang/String;lastIndexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "lastIndexOf",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1
+}

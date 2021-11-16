@@ -1,0 +1,17 @@
+{
+    "crime": "1847. Ljava/lang/StringBuilder;append->Ljava/net/URL;getPath",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(I)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "getPath",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

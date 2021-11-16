@@ -1,0 +1,17 @@
+{
+    "crime": "5405. Ljava/net/InetAddress;getHostAddress->Ljava/net/InetSocketAddress;getPort",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/InetAddress;",
+            "method": "getHostAddress",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/net/InetSocketAddress;",
+            "method": "getPort",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "6533. Ljava/net/URI;create->Ljava/util/Set;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "create",
+            "descriptor": "(Ljava/lang/String;)Ljava/net/URI;"
+        },
+        {
+            "class": "Ljava/util/Set;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

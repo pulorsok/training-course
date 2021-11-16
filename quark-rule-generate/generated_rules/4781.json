@@ -1,0 +1,17 @@
+{
+    "crime": "4781. Ljava/lang/AssertionError;<init>->Ljava/util/Set;remove",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Set;",
+            "method": "remove",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

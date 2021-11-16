@@ -1,0 +1,17 @@
+{
+    "crime": "5854. Ljava/net/Proxy;type->Ljava/util/Set;remove",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "type",
+            "descriptor": "()Ljava/net/Proxy$Type;"
+        },
+        {
+            "class": "Ljava/util/Set;",
+            "method": "remove",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

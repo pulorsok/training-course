@@ -1,0 +1,17 @@
+{
+    "crime": "4486. Ljava/util/TreeMap;<init>->Ljavax/net/SocketFactory;getDefault",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/TreeMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        },
+        {
+            "class": "Ljavax/net/SocketFactory;",
+            "method": "getDefault",
+            "descriptor": "()Ljavax/net/SocketFactory;"
+        }
+    ],
+    "score": 1
+}

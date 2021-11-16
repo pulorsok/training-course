@@ -1,0 +1,17 @@
+{
+    "crime": "848. Ljava/lang/String;toUpperCase->Ljava/util/List;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toUpperCase",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

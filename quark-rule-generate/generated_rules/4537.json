@@ -1,0 +1,17 @@
+{
+    "crime": "4537. Ljava/lang/ArrayIndexOutOfBoundsException;<init>->Ljava/lang/Integer;toHexString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/ArrayIndexOutOfBoundsException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "toHexString",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

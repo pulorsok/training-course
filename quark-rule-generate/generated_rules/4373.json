@@ -1,0 +1,17 @@
+{
+    "crime": "4373. Ljava/io/RandomAccessFile;getChannel->Ljava/nio/ByteBuffer;limit",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "getChannel",
+            "descriptor": "()Ljava/nio/channels/FileChannel;"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "limit",
+            "descriptor": "(I)Ljava/nio/Buffer;"
+        }
+    ],
+    "score": 1
+}

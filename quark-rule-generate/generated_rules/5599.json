@@ -1,0 +1,17 @@
+{
+    "crime": "5599. Ljava/util/concurrent/TimeUnit;toNanos->Ljava/util/List;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toNanos",
+            "descriptor": "(J)J"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

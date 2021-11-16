@@ -1,0 +1,17 @@
+{
+    "crime": "2035. Ljava/util/List;add->Ljava/util/List;toArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "add",
+            "descriptor": "(I Ljava/lang/Object;)V"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "toArray",
+            "descriptor": "()[Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

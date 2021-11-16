@@ -1,0 +1,17 @@
+{
+    "crime": "10889. Ljava/lang/Object;<init>->Ljava/net/HttpURLConnection;addRequestProperty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "addRequestProperty",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

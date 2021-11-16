@@ -1,0 +1,17 @@
+{
+    "crime": "2700. Ljava/util/List;get->Ljava/security/cert/X509Certificate;getIssuerDN",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getIssuerDN",
+            "descriptor": "()Ljava/security/Principal;"
+        }
+    ],
+    "score": 1
+}

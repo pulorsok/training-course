@@ -1,0 +1,17 @@
+{
+    "crime": "7481. Ljavax/net/ssl/SSLSession;getLocalCertificates->Ljava/util/List;addAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getLocalCertificates",
+            "descriptor": "()[Ljava/security/cert/Certificate;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection;)Z"
+        }
+    ],
+    "score": 1
+}

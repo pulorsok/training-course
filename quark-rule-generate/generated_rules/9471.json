@@ -1,0 +1,17 @@
+{
+    "crime": "9471. Ljava/lang/String;equalsIgnoreCase->Ljava/io/BufferedReader;readLine",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/io/BufferedReader;",
+            "method": "readLine",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

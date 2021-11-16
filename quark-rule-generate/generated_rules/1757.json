@@ -1,0 +1,17 @@
+{
+    "crime": "1757. Landroid/provider/Settings$Secure;getString->Ljava/lang/StringBuilder;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/provider/Settings$Secure;",
+            "method": "getString",
+            "descriptor": "(Landroid/content/ContentResolver; Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

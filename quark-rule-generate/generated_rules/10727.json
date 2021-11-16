@@ -1,0 +1,17 @@
+{
+    "crime": "10727. Ljava/lang/Object;getClass->Ljava/lang/StringBuilder;length",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "length",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

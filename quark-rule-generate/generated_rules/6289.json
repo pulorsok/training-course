@@ -1,0 +1,17 @@
+{
+    "crime": "6289. Ljava/net/Socket;isInputShutdown->Ljava/net/Socket;getSoTimeout",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isInputShutdown",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getSoTimeout",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

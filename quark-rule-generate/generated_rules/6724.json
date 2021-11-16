@@ -1,0 +1,17 @@
+{
+    "crime": "6724. Ljava/net/URI;getScheme->Ljava/net/URL;getPath",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getScheme",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "getPath",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

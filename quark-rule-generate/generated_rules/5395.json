@@ -1,0 +1,17 @@
+{
+    "crime": "5395. Ljava/net/InetAddress;getByAddress->Ljava/lang/String;codePointAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/InetAddress;",
+            "method": "getByAddress",
+            "descriptor": "([B)Ljava/net/InetAddress;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "codePointAt",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "1267. Ljava/util/Iterator;next->Ljava/util/regex/Matcher;find",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "find",
+            "descriptor": "(I)Z"
+        }
+    ],
+    "score": 1
+}

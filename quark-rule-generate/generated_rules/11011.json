@@ -1,0 +1,17 @@
+{
+    "crime": "11011. Ljava/lang/Object;<init>->Ljava/util/regex/Matcher;end",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "end",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

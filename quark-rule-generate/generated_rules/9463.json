@@ -1,0 +1,17 @@
+{
+    "crime": "9463. Ljava/util/ArrayList;size->Ljava/nio/ByteBuffer;array",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "array",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "7588. Ljavax/net/ssl/SSLSession;getProtocol->Ljava/security/PublicKey;getEncoded",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getProtocol",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/security/PublicKey;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1
+}

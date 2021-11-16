@@ -1,0 +1,17 @@
+{
+    "crime": "2186. Ljava/util/List;add->Ljava/net/Socket;isInputShutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isInputShutdown",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

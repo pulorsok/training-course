@@ -1,0 +1,17 @@
+{
+    "crime": "6075. Ljava/util/regex/Matcher;matches->Ljava/net/URL;getHost",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "matches",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "getHost",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

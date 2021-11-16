@@ -1,0 +1,17 @@
+{
+    "crime": "2794. Ljava/io/File;canRead->Ljava/io/File;getParent",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "canRead",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "getParent",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

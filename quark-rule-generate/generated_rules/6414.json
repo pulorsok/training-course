@@ -1,0 +1,17 @@
+{
+    "crime": "6414. Ljava/lang/IllegalArgumentException;<init>->Ljavax/net/ssl/SSLSession;getLocalCertificates",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getLocalCertificates",
+            "descriptor": "()[Ljava/security/cert/Certificate;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "7393. Ljava/lang/Long;highestOneBit->Ljava/lang/String;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "highestOneBit",
+            "descriptor": "(J)J"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([B Ljava/nio/charset/Charset;)V"
+        }
+    ],
+    "score": 1
+}

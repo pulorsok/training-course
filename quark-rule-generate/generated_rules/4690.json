@@ -1,0 +1,17 @@
+{
+    "crime": "4690. Ljava/math/BigInteger;valueOf->Ljava/math/BigInteger;subtract",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "valueOf",
+            "descriptor": "(J)Ljava/math/BigInteger;"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "subtract",
+            "descriptor": "(Ljava/math/BigInteger;)Ljava/math/BigInteger;"
+        }
+    ],
+    "score": 1
+}

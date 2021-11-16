@@ -1,0 +1,17 @@
+{
+    "crime": "5140. Ljava/util/concurrent/CountDownLatch;countDown->Ljava/util/logging/Logger;isLoggable",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/CountDownLatch;",
+            "method": "countDown",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "isLoggable",
+            "descriptor": "(Ljava/util/logging/Level;)Z"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "2352. Ljava/util/List;contains->Ljava/util/HashMap;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/util/HashMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Map;)V"
+        }
+    ],
+    "score": 1
+}

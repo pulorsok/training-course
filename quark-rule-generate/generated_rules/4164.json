@@ -1,0 +1,17 @@
+{
+    "crime": "4164. Ljava/lang/reflect/Array;newInstance->Ljavax/net/ssl/SSLSocket;getEnabledCipherSuites",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/Array;",
+            "method": "newInstance",
+            "descriptor": "(Ljava/lang/Class; I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getEnabledCipherSuites",
+            "descriptor": "()[Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

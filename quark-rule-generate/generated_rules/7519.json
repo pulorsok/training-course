@@ -1,0 +1,17 @@
+{
+    "crime": "7519. Ljavax/net/ssl/SSLSession;getPeerCertificates->Ljava/security/cert/X509Certificate;getSubjectDN",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getPeerCertificates",
+            "descriptor": "()[Ljava/security/cert/Certificate;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectDN",
+            "descriptor": "()Ljava/security/Principal;"
+        }
+    ],
+    "score": 1
+}

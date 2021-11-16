@@ -1,0 +1,17 @@
+{
+    "crime": "7039. Ljava/lang/Integer;intValue->Ljava/lang/String;indexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "intValue",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I I)I"
+        }
+    ],
+    "score": 1
+}

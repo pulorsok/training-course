@@ -1,0 +1,17 @@
+{
+    "crime": "10340. Ljava/lang/String;length->Ljava/lang/ThreadLocal;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/ThreadLocal;",
+            "method": "get",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

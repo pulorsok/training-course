@@ -1,0 +1,17 @@
+{
+    "crime": "11007. Ljava/lang/Object;<init>->Ljava/util/concurrent/TimeUnit;toSeconds",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toSeconds",
+            "descriptor": "(J)J"
+        }
+    ],
+    "score": 1
+}

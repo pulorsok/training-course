@@ -1,0 +1,17 @@
+{
+    "crime": "4483. Ljava/util/TreeMap;<init>->Ljava/util/concurrent/ThreadPoolExecutor;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/TreeMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ThreadPoolExecutor;",
+            "method": "<init>",
+            "descriptor": "(I I J Ljava/util/concurrent/TimeUnit; Ljava/util/concurrent/BlockingQueue; Ljava/util/concurrent/ThreadFactory;)V"
+        }
+    ],
+    "score": 1
+}

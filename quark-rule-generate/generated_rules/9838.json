@@ -1,0 +1,17 @@
+{
+    "crime": "9838. Ljava/lang/Short;valueOf->Ljava/lang/StringBuilder;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Short;",
+            "method": "valueOf",
+            "descriptor": "(S)Ljava/lang/Short;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

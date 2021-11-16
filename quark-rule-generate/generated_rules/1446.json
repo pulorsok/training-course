@@ -1,0 +1,17 @@
+{
+    "crime": "1446. Ljava/lang/StringBuilder;<init>->Ljava/util/Collections;addAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection; [Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

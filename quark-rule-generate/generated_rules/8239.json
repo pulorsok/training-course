@@ -1,0 +1,17 @@
+{
+    "crime": "8239. Ljava/lang/NullPointerException;<init>->Ljavax/net/ssl/SSLSession;getProtocol",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getProtocol",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

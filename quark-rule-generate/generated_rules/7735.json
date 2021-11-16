@@ -1,0 +1,17 @@
+{
+    "crime": "7735. Ljavax/net/ssl/SSLSocket;getSSLParameters->Ljava/lang/reflect/Method;invoke",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getSSLParameters",
+            "descriptor": "()Ljavax/net/ssl/SSLParameters;"
+        },
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "invoke",
+            "descriptor": "(Ljava/lang/Object; [Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

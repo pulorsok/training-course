@@ -1,0 +1,17 @@
+{
+    "crime": "5132. Ljava/net/HttpURLConnection;getOutputStream->Ljava/net/HttpURLConnection;getHeaderFields",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getOutputStream",
+            "descriptor": "()Ljava/io/OutputStream;"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getHeaderFields",
+            "descriptor": "()Ljava/util/Map;"
+        }
+    ],
+    "score": 1
+}

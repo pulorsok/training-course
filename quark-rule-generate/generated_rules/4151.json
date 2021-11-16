@@ -1,0 +1,17 @@
+{
+    "crime": "4151. Ljava/io/InterruptedIOException;<init>->Ljava/io/InterruptedIOException;initCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/InterruptedIOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/io/InterruptedIOException;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1
+}

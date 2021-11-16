@@ -1,0 +1,17 @@
+{
+    "crime": "5243. Ljava/net/HttpURLConnection;setFixedLengthStreamingMode->Ljava/io/OutputStream;write",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setFixedLengthStreamingMode",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/io/OutputStream;",
+            "method": "write",
+            "descriptor": "([B)V"
+        }
+    ],
+    "score": 1
+}

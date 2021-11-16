@@ -1,0 +1,17 @@
+{
+    "crime": "2791. Ljava/lang/StringBuilder;insert->Ljava/util/Set;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "insert",
+            "descriptor": "(I C)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/util/Set;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1
+}

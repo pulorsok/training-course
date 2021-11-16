@@ -1,0 +1,17 @@
+{
+    "crime": "10365. Ljava/lang/String;length->Ljava/security/Principal;getName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/security/Principal;",
+            "method": "getName",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

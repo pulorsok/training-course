@@ -1,0 +1,17 @@
+{
+    "crime": "5850. Ljava/net/Proxy;type->Ljava/util/List;clear",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "type",
+            "descriptor": "()Ljava/net/Proxy$Type;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "clear",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

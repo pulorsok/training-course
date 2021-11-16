@@ -1,0 +1,17 @@
+{
+    "crime": "5119. Ljava/lang/Boolean;valueOf->Ljava/lang/Class;isAssignableFrom",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Boolean;",
+            "method": "valueOf",
+            "descriptor": "(Z)Ljava/lang/Boolean;"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "isAssignableFrom",
+            "descriptor": "(Ljava/lang/Class;)Z"
+        }
+    ],
+    "score": 1
+}

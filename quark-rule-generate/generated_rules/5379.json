@@ -1,0 +1,17 @@
+{
+    "crime": "5379. Ljava/lang/Character;valueOf->Ljava/lang/String;charAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "valueOf",
+            "descriptor": "(C)Ljava/lang/Character;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        }
+    ],
+    "score": 1
+}

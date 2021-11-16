@@ -1,0 +1,17 @@
+{
+    "crime": "3823. Ljava/lang/Thread;getName->Ljava/lang/Thread;setName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "getName",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "setName",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

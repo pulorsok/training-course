@@ -1,0 +1,17 @@
+{
+    "crime": "10964. Ljava/lang/Object;<init>->Ljava/util/LinkedList;offer",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/LinkedList;",
+            "method": "offer",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "7905. Ljava/nio/ByteBuffer;wrap->Ljava/nio/channels/FileChannel;read",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "wrap",
+            "descriptor": "([B)Ljava/nio/ByteBuffer;"
+        },
+        {
+            "class": "Ljava/nio/channels/FileChannel;",
+            "method": "read",
+            "descriptor": "(Ljava/nio/ByteBuffer; J)I"
+        }
+    ],
+    "score": 1
+}

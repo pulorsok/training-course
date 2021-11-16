@@ -1,0 +1,17 @@
+{
+    "crime": "6699. Ljava/net/URI;getRawUserInfo->Ljava/net/URI;getRawFragment",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getRawUserInfo",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getRawFragment",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

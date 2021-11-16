@@ -1,0 +1,17 @@
+{
+    "crime": "2402. Ljava/io/Closeable;close->Ljava/lang/Byte;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/Closeable;",
+            "method": "close",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Byte;",
+            "method": "valueOf",
+            "descriptor": "(B)Ljava/lang/Byte;"
+        }
+    ],
+    "score": 1
+}

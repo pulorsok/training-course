@@ -1,0 +1,17 @@
+{
+    "crime": "10250. Ljava/lang/String;clone->Ljavax/net/ssl/SSLSocket;getEnabledProtocols",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "clone",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getEnabledProtocols",
+            "descriptor": "()[Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "6251. Ljava/net/Socket;getRemoteSocketAddress->Ljava/net/Socket;getOutputStream",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getRemoteSocketAddress",
+            "descriptor": "()Ljava/net/SocketAddress;"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getOutputStream",
+            "descriptor": "()Ljava/io/OutputStream;"
+        }
+    ],
+    "score": 1
+}

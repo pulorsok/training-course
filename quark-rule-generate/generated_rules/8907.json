@@ -1,0 +1,17 @@
+{
+    "crime": "8907. Ljava/text/ParsePosition;<init>->Ljava/text/DateFormat;parse",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/ParsePosition;",
+            "method": "<init>",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "parse",
+            "descriptor": "(Ljava/lang/String; Ljava/text/ParsePosition;)Ljava/util/Date;"
+        }
+    ],
+    "score": 1
+}

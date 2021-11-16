@@ -1,0 +1,17 @@
+{
+    "crime": "5216. Ljava/net/HttpURLConnection;setConnectTimeout->Ljava/util/Arrays;asList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setConnectTimeout",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "asList",
+            "descriptor": "([Ljava/lang/Object;)Ljava/util/List;"
+        }
+    ],
+    "score": 1
+}

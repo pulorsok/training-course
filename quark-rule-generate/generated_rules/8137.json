@@ -1,0 +1,17 @@
+{
+    "crime": "8137. Ljava/lang/Math;min->Ljava/util/zip/CRC32;update",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(J J)J"
+        },
+        {
+            "class": "Ljava/util/zip/CRC32;",
+            "method": "update",
+            "descriptor": "([B I I)V"
+        }
+    ],
+    "score": 1
+}

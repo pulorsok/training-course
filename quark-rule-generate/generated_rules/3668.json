@@ -1,0 +1,17 @@
+{
+    "crime": "3668. Ljava/util/Map;entrySet->Ljava/lang/StringBuilder;length",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "entrySet",
+            "descriptor": "()Ljava/util/Set;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "length",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

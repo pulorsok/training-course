@@ -1,0 +1,17 @@
+{
+    "crime": "10144. Ljava/lang/String;lastIndexOf->Ljava/lang/String;toCharArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "lastIndexOf",
+            "descriptor": "(I I)I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toCharArray",
+            "descriptor": "()[C"
+        }
+    ],
+    "score": 1
+}

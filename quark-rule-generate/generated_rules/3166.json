@@ -1,0 +1,17 @@
+{
+    "crime": "3166. Ljava/lang/StringBuilder;toString->Ljava/lang/String;replace",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "replace",
+            "descriptor": "(Ljava/lang/CharSequence; Ljava/lang/CharSequence;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

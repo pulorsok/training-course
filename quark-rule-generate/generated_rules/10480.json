@@ -1,0 +1,17 @@
+{
+    "crime": "10480. Ljava/lang/String;indexOf->Ljava/io/File;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I I)I"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/File; Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

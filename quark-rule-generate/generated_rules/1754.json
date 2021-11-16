@@ -1,0 +1,17 @@
+{
+    "crime": "1754. Ljava/util/LinkedHashMap;values->Ljava/util/LinkedHashMap;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "values",
+            "descriptor": "()Ljava/util/Collection;"
+        },
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

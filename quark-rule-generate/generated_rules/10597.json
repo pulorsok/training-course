@@ -1,0 +1,17 @@
+{
+    "crime": "10597. Ljava/lang/Object;wait->Ljava/lang/Object;notifyAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "wait",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "notifyAll",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

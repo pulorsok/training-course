@@ -1,0 +1,17 @@
+{
+    "crime": "5038. Ljava/util/concurrent/ConcurrentMap;putIfAbsent->Ljava/net/URL;openConnection",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "putIfAbsent",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "openConnection",
+            "descriptor": "(Ljava/net/Proxy;)Ljava/net/URLConnection;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "10610. Ljava/lang/Object;wait->Ljava/net/SocketTimeoutException;initCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "wait",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/SocketTimeoutException;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1
+}

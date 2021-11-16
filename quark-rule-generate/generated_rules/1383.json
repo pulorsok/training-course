@@ -1,0 +1,17 @@
+{
+    "crime": "1383. Landroid/media/MediaRecorder;setAudioSource->Landroid/media/MediaRecorder;start",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "setAudioSource",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "start",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

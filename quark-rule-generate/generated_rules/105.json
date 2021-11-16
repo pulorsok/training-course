@@ -1,0 +1,17 @@
+{
+    "crime": "105. Ljava/lang/String;regionMatches->Ljava/util/concurrent/SynchronousQueue;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "regionMatches",
+            "descriptor": "(Z I Ljava/lang/String; I I)Z"
+        },
+        {
+            "class": "Ljava/util/concurrent/SynchronousQueue;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

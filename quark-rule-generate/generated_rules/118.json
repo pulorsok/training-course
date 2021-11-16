@@ -1,0 +1,17 @@
+{
+    "crime": "118. Landroid/content/ContentResolver;query->Ljava/lang/Runnable;run",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/ContentResolver;",
+            "method": "query",
+            "descriptor": "(Landroid/net/Uri; [Ljava/lang/String; Ljava/lang/String; [Ljava/lang/String; Ljava/lang/String;)Landroid/database/Cursor;"
+        },
+        {
+            "class": "Ljava/lang/Runnable;",
+            "method": "run",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

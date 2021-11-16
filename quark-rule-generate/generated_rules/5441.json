@@ -1,0 +1,17 @@
+{
+    "crime": "5441. Ljava/lang/Class;forName->Ljava/security/SecureRandom;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "forName",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/security/SecureRandom;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

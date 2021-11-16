@@ -1,0 +1,17 @@
+{
+    "crime": "4970. Ljava/util/concurrent/ConcurrentMap;get->Ljava/util/TreeMap;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/TreeMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        }
+    ],
+    "score": 1
+}

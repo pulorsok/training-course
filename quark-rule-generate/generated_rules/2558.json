@@ -1,0 +1,17 @@
+{
+    "crime": "2558. Ljava/lang/StringBuilder;append->Ljava/util/concurrent/ScheduledThreadPoolExecutor;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledThreadPoolExecutor;",
+            "method": "<init>",
+            "descriptor": "(I Ljava/util/concurrent/ThreadFactory;)V"
+        }
+    ],
+    "score": 1
+}

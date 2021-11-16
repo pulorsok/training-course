@@ -1,0 +1,17 @@
+{
+    "crime": "5234. Ljava/util/concurrent/ExecutorService;execute->Ljava/lang/Thread;holdsLock",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ExecutorService;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        },
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "holdsLock",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

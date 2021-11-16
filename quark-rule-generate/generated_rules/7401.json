@@ -1,0 +1,17 @@
+{
+    "crime": "7401. Ljava/nio/ByteBuffer;array->Ljava/lang/String;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "array",
+            "descriptor": "()[B"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

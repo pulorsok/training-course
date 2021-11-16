@@ -1,0 +1,17 @@
+{
+    "crime": "7745. Ljava/lang/Math;floor->Ljava/lang/Long;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "floor",
+            "descriptor": "(D)D"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "valueOf",
+            "descriptor": "(J)Ljava/lang/Long;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "7903. Ljava/nio/ByteBuffer;wrap->Ljava/nio/ByteBuffer;hasRemaining",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "wrap",
+            "descriptor": "([B)Ljava/nio/ByteBuffer;"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "hasRemaining",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

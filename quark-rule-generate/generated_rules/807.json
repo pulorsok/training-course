@@ -1,0 +1,17 @@
+{
+    "crime": "807. Ljava/lang/String;toLowerCase->Ljava/util/Calendar;set",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toLowerCase",
+            "descriptor": "(Ljava/util/Locale;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/Calendar;",
+            "method": "set",
+            "descriptor": "(I I)V"
+        }
+    ],
+    "score": 1
+}

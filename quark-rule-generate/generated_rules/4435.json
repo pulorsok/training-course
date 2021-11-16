@@ -1,0 +1,17 @@
+{
+    "crime": "4435. Ljava/math/BigDecimal;multiply->Ljava/util/logging/Logger;fine",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigDecimal;",
+            "method": "multiply",
+            "descriptor": "(Ljava/math/BigDecimal;)Ljava/math/BigDecimal;"
+        },
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

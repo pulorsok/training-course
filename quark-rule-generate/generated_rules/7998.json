@@ -1,0 +1,17 @@
+{
+    "crime": "7998. Ljava/lang/Math;min->Ljava/nio/ByteBuffer;wrap",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(I I)I"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "wrap",
+            "descriptor": "([B)Ljava/nio/ByteBuffer;"
+        }
+    ],
+    "score": 1
+}

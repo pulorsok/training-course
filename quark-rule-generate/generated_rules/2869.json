@@ -1,0 +1,17 @@
+{
+    "crime": "2869. Ljava/util/List;isEmpty->Ljava/net/Socket;isOutputShutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isOutputShutdown",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

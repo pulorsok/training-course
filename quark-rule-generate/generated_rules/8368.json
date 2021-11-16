@@ -1,0 +1,17 @@
+{
+    "crime": "8368. Ljava/lang/NullPointerException;<init>->Ljava/lang/String;split",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "split",
+            "descriptor": "(Ljava/lang/String;)[Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

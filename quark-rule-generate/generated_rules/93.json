@@ -1,0 +1,17 @@
+{
+    "crime": "93. Ljava/lang/String;regionMatches->Ljava/security/cert/X509Certificate;getPublicKey",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "regionMatches",
+            "descriptor": "(Z I Ljava/lang/String; I I)Z"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getPublicKey",
+            "descriptor": "()Ljava/security/PublicKey;"
+        }
+    ],
+    "score": 1
+}

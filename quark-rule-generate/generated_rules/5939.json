@@ -1,0 +1,17 @@
+{
+    "crime": "5939. Ljava/net/ProxySelector;connectFailed->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "connectFailed",
+            "descriptor": "(Ljava/net/URI; Ljava/net/SocketAddress; Ljava/io/IOException;)V"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "726. Ljava/util/Deque;isEmpty->Ljava/util/concurrent/ExecutorService;execute",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/concurrent/ExecutorService;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        }
+    ],
+    "score": 1
+}

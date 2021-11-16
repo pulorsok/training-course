@@ -1,0 +1,17 @@
+{
+    "crime": "3520. Ljava/util/Map$Entry;getKey->Ljava/lang/String;replace",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getKey",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "replace",
+            "descriptor": "(Ljava/lang/CharSequence; Ljava/lang/CharSequence;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

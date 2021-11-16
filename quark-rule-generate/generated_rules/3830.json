@@ -1,0 +1,17 @@
+{
+    "crime": "3830. Ljava/util/Map;isEmpty->Ljava/lang/Object;notifyAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "notifyAll",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

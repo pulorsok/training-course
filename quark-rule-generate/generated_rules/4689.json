@@ -1,0 +1,17 @@
+{
+    "crime": "4689. Ljava/math/BigInteger;valueOf->Ljava/math/BigInteger;pow",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "valueOf",
+            "descriptor": "(J)Ljava/math/BigInteger;"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "pow",
+            "descriptor": "(I)Ljava/math/BigInteger;"
+        }
+    ],
+    "score": 1
+}

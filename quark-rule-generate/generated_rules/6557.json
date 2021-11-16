@@ -1,0 +1,17 @@
+{
+    "crime": "6557. Ljava/lang/IllegalStateException;<init>->Ljava/security/cert/Certificate;getEncoded",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/security/cert/Certificate;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1
+}

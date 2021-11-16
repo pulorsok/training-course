@@ -1,0 +1,17 @@
+{
+    "crime": "9738. Ljava/util/Arrays;toString->Ljavax/net/ssl/SSLContext;getSocketFactory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "toString",
+            "descriptor": "([Ljava/lang/Object;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "getSocketFactory",
+            "descriptor": "()Ljavax/net/ssl/SSLSocketFactory;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "485. Ljava/util/Date;<init>->Ljava/text/DateFormat;format",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Date;",
+            "method": "<init>",
+            "descriptor": "(J)V"
+        },
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "format",
+            "descriptor": "(Ljava/util/Date;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

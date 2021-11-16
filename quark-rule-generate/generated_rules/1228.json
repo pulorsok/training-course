@@ -1,0 +1,17 @@
+{
+    "crime": "1228. Ljava/util/Iterator;next->Ljava/security/cert/X509Certificate;getIssuerDN",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getIssuerDN",
+            "descriptor": "()Ljava/security/Principal;"
+        }
+    ],
+    "score": 1
+}

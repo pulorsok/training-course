@@ -1,0 +1,17 @@
+{
+    "crime": "5205. Ljava/util/concurrent/Executor;execute->Ljava/util/LinkedHashMap;values",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/Executor;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        },
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "values",
+            "descriptor": "()Ljava/util/Collection;"
+        }
+    ],
+    "score": 1
+}

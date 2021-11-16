@@ -1,0 +1,17 @@
+{
+    "crime": "5314. Ljava/lang/Character;codePointAt->Ljava/nio/ByteBuffer;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "codePointAt",
+            "descriptor": "(Ljava/lang/CharSequence; I)I"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "put",
+            "descriptor": "([B)Ljava/nio/ByteBuffer;"
+        }
+    ],
+    "score": 1
+}

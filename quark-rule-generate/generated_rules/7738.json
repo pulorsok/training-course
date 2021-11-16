@@ -1,0 +1,17 @@
+{
+    "crime": "7738. Ljavax/net/ssl/SSLSocket;getSSLParameters->Ljava/util/List;toArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getSSLParameters",
+            "descriptor": "()Ljavax/net/ssl/SSLParameters;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "toArray",
+            "descriptor": "([Ljava/lang/Object;)[Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

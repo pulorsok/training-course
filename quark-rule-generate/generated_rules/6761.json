@@ -1,0 +1,17 @@
+{
+    "crime": "6761. Ljavax/crypto/Mac;getInstance->Ljavax/crypto/spec/SecretKeySpec;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/crypto/Mac;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljavax/crypto/Mac;"
+        },
+        {
+            "class": "Ljavax/crypto/spec/SecretKeySpec;",
+            "method": "<init>",
+            "descriptor": "([B Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

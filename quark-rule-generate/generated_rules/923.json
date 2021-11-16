@@ -1,0 +1,17 @@
+{
+    "crime": "923. Ljava/lang/String;valueOf->Ljava/lang/Runnable;run",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Runnable;",
+            "method": "run",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "3493. Ljava/lang/System;currentTimeMillis->Ljava/text/ParsePosition;setIndex",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "currentTimeMillis",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/text/ParsePosition;",
+            "method": "setIndex",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1
+}

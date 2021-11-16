@@ -1,0 +1,17 @@
+{
+    "crime": "10639. Ljava/util/ArrayDeque;<init>->Ljava/util/Arrays;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "toString",
+            "descriptor": "([Ljava/lang/Object;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

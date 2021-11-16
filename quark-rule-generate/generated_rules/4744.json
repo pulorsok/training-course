@@ -1,0 +1,17 @@
+{
+    "crime": "4744. Ljava/lang/AssertionError;<init>->Ljava/net/Socket;isInputShutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isInputShutdown",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

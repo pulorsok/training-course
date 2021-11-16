@@ -1,0 +1,17 @@
+{
+    "crime": "9299. Ljava/util/ArrayList;<init>->Ljava/security/cert/X509Certificate;getPublicKey",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getPublicKey",
+            "descriptor": "()Ljava/security/PublicKey;"
+        }
+    ],
+    "score": 1
+}

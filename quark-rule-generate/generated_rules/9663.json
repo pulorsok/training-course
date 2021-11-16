@@ -1,0 +1,17 @@
+{
+    "crime": "9663. Ljava/lang/String;format->Ljava/util/zip/CRC32;getValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "format",
+            "descriptor": "(Ljava/lang/String; [Ljava/lang/Object;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/zip/CRC32;",
+            "method": "getValue",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1
+}

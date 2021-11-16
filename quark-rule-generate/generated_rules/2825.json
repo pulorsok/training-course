@@ -1,0 +1,17 @@
+{
+    "crime": "2825. Ljava/lang/StringBuilder;length->Ljava/lang/StringBuilder;delete",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "delete",
+            "descriptor": "(I I)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1
+}

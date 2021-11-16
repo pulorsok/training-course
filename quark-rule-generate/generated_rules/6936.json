@@ -1,0 +1,17 @@
+{
+    "crime": "6936. Ljava/lang/IndexOutOfBoundsException;<init>->Ljava/lang/Object;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IndexOutOfBoundsException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "8968. Ljava/util/ArrayDeque;<init>->Ljava/security/cert/X509Certificate;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

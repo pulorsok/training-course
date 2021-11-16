@@ -1,0 +1,17 @@
+{
+    "crime": "5320. Ljava/net/IDN;toASCII->Ljava/lang/Character;charCount",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/IDN;",
+            "method": "toASCII",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "charCount",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1
+}

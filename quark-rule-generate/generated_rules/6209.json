@@ -1,0 +1,17 @@
+{
+    "crime": "6209. Ljava/util/regex/Pattern;matcher->Ljava/net/URI;getRawFragment",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Pattern;",
+            "method": "matcher",
+            "descriptor": "(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+        },
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getRawFragment",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

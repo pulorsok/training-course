@@ -1,0 +1,17 @@
+{
+    "crime": "2203. Ljava/util/List;add->Ljava/util/Queue;clear",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/util/Queue;",
+            "method": "clear",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

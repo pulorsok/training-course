@@ -1,0 +1,17 @@
+{
+    "crime": "1400. Ljava/lang/StringBuilder;<init>->Ljava/net/Socket;getSoTimeout",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getSoTimeout",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

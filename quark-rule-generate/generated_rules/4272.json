@@ -1,0 +1,17 @@
+{
+    "crime": "4272. Ljava/io/OutputStream;write->Ljava/io/OutputStream;flush",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/OutputStream;",
+            "method": "write",
+            "descriptor": "([B)V"
+        },
+        {
+            "class": "Ljava/io/OutputStream;",
+            "method": "flush",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

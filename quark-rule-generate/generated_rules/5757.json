@@ -1,0 +1,17 @@
+{
+    "crime": "5757. Ljava/net/Proxy;hashCode->Ljava/net/InetSocketAddress;hashCode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/net/InetSocketAddress;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

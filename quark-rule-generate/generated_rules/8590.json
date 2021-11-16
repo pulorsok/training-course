@@ -1,0 +1,17 @@
+{
+    "crime": "8590. Lorg/json/JSONObject;<init>->Landroid/hardware/Camera;startPreview",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/hardware/Camera;",
+            "method": "startPreview",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "9345. Ljava/util/ArrayList;<init>->Lorg/json/JSONObject;keys",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "keys",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1
+}

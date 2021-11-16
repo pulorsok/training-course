@@ -1,0 +1,17 @@
+{
+    "crime": "9465. Ljava/util/ArrayList;size->Ljava/util/ArrayList;toArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "toArray",
+            "descriptor": "([Ljava/lang/Object;)[Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

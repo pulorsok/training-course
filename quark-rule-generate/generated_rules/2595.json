@@ -1,0 +1,17 @@
+{
+    "crime": "2595. Ljava/io/EOFException;<init>->Ljava/nio/ByteBuffer;hasRemaining",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/EOFException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "hasRemaining",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

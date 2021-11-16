@@ -1,0 +1,17 @@
+{
+    "crime": "3518. Ljava/util/Map$Entry;getKey->Ljava/lang/String;indexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getKey",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1
+}

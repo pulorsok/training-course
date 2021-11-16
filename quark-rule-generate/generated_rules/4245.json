@@ -1,0 +1,17 @@
+{
+    "crime": "4245. Ljava/lang/reflect/InvocationTargetException;getMessage->Ljavax/net/ssl/SSLPeerUnverifiedException;initCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/InvocationTargetException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLPeerUnverifiedException;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "8096. Ljavax/net/ssl/TrustManagerFactory;getTrustManagers->Ljava/lang/IllegalStateException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "getTrustManagers",
+            "descriptor": "()[Ljavax/net/ssl/TrustManager;"
+        },
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

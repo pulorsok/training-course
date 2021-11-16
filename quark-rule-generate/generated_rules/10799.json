@@ -1,0 +1,17 @@
+{
+    "crime": "10799. Ljava/lang/Object;<init>->Ljava/io/File;length",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "length",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1
+}

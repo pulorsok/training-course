@@ -1,0 +1,17 @@
+{
+    "crime": "2281. Ljava/util/List;addAll->Lorg/json/JSONArray;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection;)Z"
+        },
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object;)Lorg/json/JSONArray;"
+        }
+    ],
+    "score": 1
+}

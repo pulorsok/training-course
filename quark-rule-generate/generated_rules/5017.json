@@ -1,0 +1,17 @@
+{
+    "crime": "5017. Ljava/net/HttpURLConnection;getContentType->Ljava/net/HttpURLConnection;getInputStream",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getContentType",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getInputStream",
+            "descriptor": "()Ljava/io/InputStream;"
+        }
+    ],
+    "score": 1
+}

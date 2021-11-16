@@ -1,0 +1,17 @@
+{
+    "crime": "5096. Ljava/net/HttpURLConnection;getHeaderFields->Ljava/net/HttpURLConnection;getResponseCode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getHeaderFields",
+            "descriptor": "()Ljava/util/Map;"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getResponseCode",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

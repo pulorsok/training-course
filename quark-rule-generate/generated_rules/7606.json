@@ -1,0 +1,17 @@
+{
+    "crime": "7606. Ljavax/net/ssl/SSLSession;getProtocol->Ljavax/net/ssl/SSLSession;getLocalCertificates",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getProtocol",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getLocalCertificates",
+            "descriptor": "()[Ljava/security/cert/Certificate;"
+        }
+    ],
+    "score": 1
+}

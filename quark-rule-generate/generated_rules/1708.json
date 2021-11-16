@@ -1,0 +1,17 @@
+{
+    "crime": "1708. Landroid/net/Uri;parse->Ljava/lang/Object;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/net/Uri;",
+            "method": "parse",
+            "descriptor": "(Ljava/lang/String;)Landroid/net/Uri;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

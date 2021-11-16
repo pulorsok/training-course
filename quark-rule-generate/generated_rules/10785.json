@@ -1,0 +1,17 @@
+{
+    "crime": "10785. Ljava/lang/Object;<init>->Ljava/io/BufferedInputStream;read",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/BufferedInputStream;",
+            "method": "read",
+            "descriptor": "([B I I)I"
+        }
+    ],
+    "score": 1
+}

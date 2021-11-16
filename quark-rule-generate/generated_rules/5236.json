@@ -1,0 +1,17 @@
+{
+    "crime": "5236. Ljava/util/concurrent/ExecutorService;execute->Ljava/util/Deque;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ExecutorService;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        },
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "6753. Ljava/net/URI;toString->Ljava/util/List;clear",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "clear",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "2641. Ljava/util/List;get->Ljava/lang/Byte;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Byte;",
+            "method": "valueOf",
+            "descriptor": "(B)Ljava/lang/Byte;"
+        }
+    ],
+    "score": 1
+}

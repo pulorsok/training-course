@@ -1,0 +1,17 @@
+{
+    "crime": "3384. Ljava/util/List;toArray->Ljava/util/Queue;poll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "toArray",
+            "descriptor": "()[Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/Queue;",
+            "method": "poll",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

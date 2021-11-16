@@ -1,0 +1,17 @@
+{
+    "crime": "9629. Ljava/lang/String;format->Ljava/nio/ByteBuffer;hasRemaining",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "format",
+            "descriptor": "(Ljava/lang/String; [Ljava/lang/Object;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "hasRemaining",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

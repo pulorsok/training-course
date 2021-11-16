@@ -1,0 +1,17 @@
+{
+    "crime": "10826. Ljava/lang/Object;<init>->Ljava/lang/Math;floor",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "floor",
+            "descriptor": "(D)D"
+        }
+    ],
+    "score": 1
+}

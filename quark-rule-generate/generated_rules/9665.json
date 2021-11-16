@@ -1,0 +1,17 @@
+{
+    "crime": "9665. Ljava/lang/String;format->Ljavax/net/ssl/HttpsURLConnection;setHostnameVerifier",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "format",
+            "descriptor": "(Ljava/lang/String; [Ljava/lang/Object;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljavax/net/ssl/HttpsURLConnection;",
+            "method": "setHostnameVerifier",
+            "descriptor": "(Ljavax/net/ssl/HostnameVerifier;)V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "8859. Ljava/text/DateFormat;parse->Ljava/text/ParsePosition;setIndex",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "parse",
+            "descriptor": "(Ljava/lang/String; Ljava/text/ParsePosition;)Ljava/util/Date;"
+        },
+        {
+            "class": "Ljava/text/ParsePosition;",
+            "method": "setIndex",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1
+}

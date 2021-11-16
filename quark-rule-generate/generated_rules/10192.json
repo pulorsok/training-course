@@ -1,0 +1,17 @@
+{
+    "crime": "10192. Ljava/lang/String;charAt->Ljava/net/IDN;toASCII",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        },
+        {
+            "class": "Ljava/net/IDN;",
+            "method": "toASCII",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

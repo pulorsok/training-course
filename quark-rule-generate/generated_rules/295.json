@@ -1,0 +1,17 @@
+{
+    "crime": "295. Ljava/util/Collections;singletonList->Ljava/lang/StringBuilder;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "singletonList",
+            "descriptor": "(Ljava/lang/Object;)Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

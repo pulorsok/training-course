@@ -1,0 +1,17 @@
+{
+    "crime": "111. Landroid/content/ContentResolver;query->Landroid/database/Cursor;moveToNext",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/ContentResolver;",
+            "method": "query",
+            "descriptor": "(Landroid/net/Uri; [Ljava/lang/String; Ljava/lang/String; [Ljava/lang/String; Ljava/lang/String;)Landroid/database/Cursor;"
+        },
+        {
+            "class": "Landroid/database/Cursor;",
+            "method": "moveToNext",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "1451. Ljava/lang/StringBuilder;<init>->Ljava/util/HashSet;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/HashSet;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

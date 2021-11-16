@@ -1,0 +1,17 @@
+{
+    "crime": "5563. Ljava/util/concurrent/TimeUnit;toMillis->Ljava/util/concurrent/SynchronousQueue;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toMillis",
+            "descriptor": "(J)J"
+        },
+        {
+            "class": "Ljava/util/concurrent/SynchronousQueue;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

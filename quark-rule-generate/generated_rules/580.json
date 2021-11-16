@@ -1,0 +1,17 @@
+{
+    "crime": "580. Landroid/database/Cursor;moveToNext->Lorg/json/JSONObject;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/database/Cursor;",
+            "method": "moveToNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; I)Lorg/json/JSONObject;"
+        }
+    ],
+    "score": 1
+}

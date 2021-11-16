@@ -1,0 +1,17 @@
+{
+    "crime": "307. Landroid/content/Intent;<init>->Landroid/content/Context;startService",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/Intent;",
+            "method": "<init>",
+            "descriptor": "(Landroid/content/Context; Ljava/lang/Class;)V"
+        },
+        {
+            "class": "Landroid/content/Context;",
+            "method": "startService",
+            "descriptor": "(Landroid/content/Intent;)Landroid/content/ComponentName;"
+        }
+    ],
+    "score": 1
+}

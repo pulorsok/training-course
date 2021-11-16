@@ -1,0 +1,17 @@
+{
+    "crime": "186. Landroid/content/Context;getContentResolver->Lorg/json/JSONObject;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/Context;",
+            "method": "getContentResolver",
+            "descriptor": "()Landroid/content/ContentResolver;"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;"
+        }
+    ],
+    "score": 1
+}

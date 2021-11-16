@@ -1,0 +1,17 @@
+{
+    "crime": "3206. Ljava/lang/StringBuilder;toString->Ljava/net/URL;toURI",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "toURI",
+            "descriptor": "()Ljava/net/URI;"
+        }
+    ],
+    "score": 1
+}

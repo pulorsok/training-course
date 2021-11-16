@@ -1,0 +1,17 @@
+{
+    "crime": "5899. Ljava/util/regex/Matcher;group->Ljava/nio/charset/Charset;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "group",
+            "descriptor": "(I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/nio/charset/Charset;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

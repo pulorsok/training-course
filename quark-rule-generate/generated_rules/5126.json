@@ -1,0 +1,17 @@
+{
+    "crime": "5126. Ljava/lang/Boolean;valueOf->Ljava/lang/reflect/InvocationTargetException;getTargetException",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Boolean;",
+            "method": "valueOf",
+            "descriptor": "(Z)Ljava/lang/Boolean;"
+        },
+        {
+            "class": "Ljava/lang/reflect/InvocationTargetException;",
+            "method": "getTargetException",
+            "descriptor": "()Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1
+}

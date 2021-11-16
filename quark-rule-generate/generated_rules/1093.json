@@ -1,0 +1,17 @@
+{
+    "crime": "1093. Ljava/util/Iterator;hasNext->Ljava/net/URLEncoder;encode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/net/URLEncoder;",
+            "method": "encode",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "9233. Ljava/util/ArrayList;<init>->Ljavax/net/ssl/SSLSocket;getEnabledCipherSuites",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getEnabledCipherSuites",
+            "descriptor": "()[Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

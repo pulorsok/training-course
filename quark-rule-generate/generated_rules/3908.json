@@ -1,0 +1,17 @@
+{
+    "crime": "3908. Ljava/io/IOException;getMessage->Ljava/lang/Long;parseLong",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "parseLong",
+            "descriptor": "(Ljava/lang/String;)J"
+        }
+    ],
+    "score": 1
+}

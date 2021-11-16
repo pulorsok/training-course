@@ -1,0 +1,17 @@
+{
+    "crime": "2684. Ljava/util/List;get->Ljava/lang/ref/Reference;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/ref/Reference;",
+            "method": "get",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

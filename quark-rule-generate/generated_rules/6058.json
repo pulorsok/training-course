@@ -1,0 +1,17 @@
+{
+    "crime": "6058. Ljava/util/regex/Matcher;matches->Ljava/lang/String;hashCode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "matches",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

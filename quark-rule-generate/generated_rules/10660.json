@@ -1,0 +1,17 @@
+{
+    "crime": "10660. Ljava/util/ArrayDeque;<init>->Ljavax/net/ssl/SSLContext;init",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "init",
+            "descriptor": "([Ljavax/net/ssl/KeyManager; [Ljavax/net/ssl/TrustManager; Ljava/security/SecureRandom;)V"
+        }
+    ],
+    "score": 1
+}

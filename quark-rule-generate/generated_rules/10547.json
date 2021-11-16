@@ -1,0 +1,17 @@
+{
+    "crime": "10547. Ljava/lang/Runnable;run->Ljava/lang/Exception;printStackTrace",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Runnable;",
+            "method": "run",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Exception;",
+            "method": "printStackTrace",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

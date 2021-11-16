@@ -1,0 +1,17 @@
+{
+    "crime": "10048. Ljava/lang/String;<init>->Ljava/security/cert/CertificateEncodingException;getMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([C)V"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateEncodingException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

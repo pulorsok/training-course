@@ -1,0 +1,17 @@
+{
+    "crime": "8140. Ljavax/net/ssl/TrustManagerFactory;init->Ljava/lang/StringBuilder;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "init",
+            "descriptor": "(Ljava/security/KeyStore;)V"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

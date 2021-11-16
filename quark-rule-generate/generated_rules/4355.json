@@ -1,0 +1,17 @@
+{
+    "crime": "4355. Ljava/lang/reflect/Method;getReturnType->Ljava/lang/reflect/InvocationTargetException;getTargetException",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "getReturnType",
+            "descriptor": "()Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/lang/reflect/InvocationTargetException;",
+            "method": "getTargetException",
+            "descriptor": "()Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1
+}

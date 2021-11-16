@@ -1,0 +1,17 @@
+{
+    "crime": "4666. Ljava/math/BigInteger;subtract->Ljava/math/BigInteger;longValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "subtract",
+            "descriptor": "(Ljava/math/BigInteger;)Ljava/math/BigInteger;"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "longValue",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "7632. Ljava/lang/Long;toString->Ljava/util/zip/Inflater;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "toString",
+            "descriptor": "(J)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/zip/Inflater;",
+            "method": "<init>",
+            "descriptor": "(Z)V"
+        }
+    ],
+    "score": 1
+}

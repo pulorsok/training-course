@@ -1,0 +1,17 @@
+{
+    "crime": "10956. Ljava/lang/Object;<init>->Ljava/util/Deque;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

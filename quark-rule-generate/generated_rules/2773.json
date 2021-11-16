@@ -1,0 +1,17 @@
+{
+    "crime": "2773. Ljava/io/File;<init>->Lorg/json/JSONObject;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;"
+        }
+    ],
+    "score": 1
+}

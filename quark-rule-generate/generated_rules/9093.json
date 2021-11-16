@@ -1,0 +1,17 @@
+{
+    "crime": "9093. Ljava/lang/String;endsWith->Ljava/lang/String;trim",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "endsWith",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "trim",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

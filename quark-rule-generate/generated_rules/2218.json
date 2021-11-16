@@ -1,0 +1,17 @@
+{
+    "crime": "2218. Ljava/io/ByteArrayOutputStream;<init>->Ljava/io/ByteArrayOutputStream;toByteArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/ByteArrayOutputStream;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/ByteArrayOutputStream;",
+            "method": "toByteArray",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1
+}

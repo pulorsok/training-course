@@ -1,0 +1,17 @@
+{
+    "crime": "745. Ljava/util/Deque;iterator->Ljava/lang/ref/Reference;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        },
+        {
+            "class": "Ljava/lang/ref/Reference;",
+            "method": "get",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

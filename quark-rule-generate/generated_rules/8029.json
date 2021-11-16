@@ -1,0 +1,17 @@
+{
+    "crime": "8029. Ljavax/net/ssl/SSLSocketFactory;createSocket->Ljava/util/Collection;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocketFactory;",
+            "method": "createSocket",
+            "descriptor": "(Ljava/net/Socket; Ljava/lang/String; I Z)Ljava/net/Socket;"
+        },
+        {
+            "class": "Ljava/util/Collection;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1
+}

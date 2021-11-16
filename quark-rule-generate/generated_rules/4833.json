@@ -1,0 +1,17 @@
+{
+    "crime": "4833. Ljava/util/concurrent/ConcurrentLinkedQueue;add->Ljava/lang/Thread;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        }
+    ],
+    "score": 1
+}

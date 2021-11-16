@@ -1,0 +1,17 @@
+{
+    "crime": "1339. Ljava/lang/StringBuilder;<init>->Ljava/lang/String;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([C I I)V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "10076. Ljava/lang/String;isEmpty->Ljava/lang/Character;charCount",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "charCount",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1
+}

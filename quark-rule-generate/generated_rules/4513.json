@@ -1,0 +1,17 @@
+{
+    "crime": "4513. Ljava/util/TreeSet;<init>->Ljava/util/TreeSet;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/TreeSet;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        },
+        {
+            "class": "Ljava/util/TreeSet;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "3109. Ljava/lang/StringBuilder;toString->Landroid/util/Log;println",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Landroid/util/Log;",
+            "method": "println",
+            "descriptor": "(I Ljava/lang/String; Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1
+}

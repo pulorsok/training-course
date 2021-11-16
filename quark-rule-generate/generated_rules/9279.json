@@ -1,0 +1,17 @@
+{
+    "crime": "9279. Ljava/util/ArrayList;<init>->Ljava/lang/String;toLowerCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toLowerCase",
+            "descriptor": "(Ljava/util/Locale;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

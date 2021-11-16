@@ -1,0 +1,17 @@
+{
+    "crime": "3767. Ljava/lang/Thread;currentThread->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "currentThread",
+            "descriptor": "()Ljava/lang/Thread;"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

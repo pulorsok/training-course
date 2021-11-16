@@ -1,0 +1,17 @@
+{
+    "crime": "8929. Lorg/json/JSONObject;put->Lorg/json/JSONObject;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Z)Lorg/json/JSONObject;"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; D)Lorg/json/JSONObject;"
+        }
+    ],
+    "score": 1
+}

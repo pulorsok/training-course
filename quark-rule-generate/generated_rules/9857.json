@@ -1,0 +1,17 @@
+{
+    "crime": "9857. Ljava/lang/String;indexOf->Ljava/lang/String;indexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I I)I"
+        }
+    ],
+    "score": 1
+}

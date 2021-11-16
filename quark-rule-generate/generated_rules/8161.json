@@ -1,0 +1,17 @@
+{
+    "crime": "8161. Ljava/nio/charset/Charset;forName->Ljava/lang/String;toLowerCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/charset/Charset;",
+            "method": "forName",
+            "descriptor": "(Ljava/lang/String;)Ljava/nio/charset/Charset;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toLowerCase",
+            "descriptor": "(Ljava/util/Locale;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "1716. Ljava/util/LinkedHashMap;size->Ljava/lang/Long;parseLong",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "parseLong",
+            "descriptor": "(Ljava/lang/String;)J"
+        }
+    ],
+    "score": 1
+}

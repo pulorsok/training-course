@@ -1,0 +1,17 @@
+{
+    "crime": "2804. Ljava/io/File;canRead->Lorg/json/JSONObject;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "canRead",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Z)Lorg/json/JSONObject;"
+        }
+    ],
+    "score": 1
+}

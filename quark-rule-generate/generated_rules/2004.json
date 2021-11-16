@@ -1,0 +1,17 @@
+{
+    "crime": "2004. Ljava/lang/StringBuilder;append->Ljava/util/zip/Deflater;setInput",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(J)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/util/zip/Deflater;",
+            "method": "setInput",
+            "descriptor": "([B I I)V"
+        }
+    ],
+    "score": 1
+}

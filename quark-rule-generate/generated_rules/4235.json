@@ -1,0 +1,17 @@
+{
+    "crime": "4235. Ljava/util/Set;contains->Ljava/security/cert/CertificateEncodingException;getMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Set;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateEncodingException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

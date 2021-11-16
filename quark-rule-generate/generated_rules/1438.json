@@ -1,0 +1,17 @@
+{
+    "crime": "1438. Ljava/lang/StringBuilder;<init>->Ljava/text/DateFormat;format",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "format",
+            "descriptor": "(Ljava/util/Date;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

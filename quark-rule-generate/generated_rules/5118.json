@@ -1,0 +1,17 @@
+{
+    "crime": "5118. Ljava/lang/Boolean;valueOf->Ljava/lang/AssertionError;initCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Boolean;",
+            "method": "valueOf",
+            "descriptor": "(Z)Ljava/lang/Boolean;"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1
+}

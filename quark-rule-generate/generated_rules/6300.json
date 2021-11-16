@@ -1,0 +1,17 @@
+{
+    "crime": "6300. Ljava/lang/IllegalArgumentException;<init>->Ljava/io/InputStream;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/io/InputStream;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

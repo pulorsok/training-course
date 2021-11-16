@@ -1,0 +1,17 @@
+{
+    "crime": "6458. Ljava/net/SocketException;<init>->Ljava/util/Set;contains",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/SocketException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/Set;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

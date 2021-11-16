@@ -1,0 +1,17 @@
+{
+    "crime": "259. Ljava/util/Collections;emptyList->Ljavax/net/ssl/SSLSocket;getSession",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "emptyList",
+            "descriptor": "()Ljava/util/List;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getSession",
+            "descriptor": "()Ljavax/net/ssl/SSLSession;"
+        }
+    ],
+    "score": 1
+}

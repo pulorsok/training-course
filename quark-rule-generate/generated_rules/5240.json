@@ -1,0 +1,17 @@
+{
+    "crime": "5240. Ljava/net/HttpURLConnection;setFixedLengthStreamingMode->Ljava/io/IOException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setFixedLengthStreamingMode",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

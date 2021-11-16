@@ -1,0 +1,17 @@
+{
+    "crime": "8041. Ljavax/net/ssl/SSLSocketFactory;createSocket->Ljava/util/concurrent/ConcurrentMap;putIfAbsent",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocketFactory;",
+            "method": "createSocket",
+            "descriptor": "(Ljava/net/Socket; Ljava/lang/String; I Z)Ljava/net/Socket;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "putIfAbsent",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1
+}

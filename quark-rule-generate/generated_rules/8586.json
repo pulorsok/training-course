@@ -1,0 +1,17 @@
+{
+    "crime": "8586. Lorg/json/JSONObject;<init>->Landroid/database/Cursor;getColumnIndexOrThrow",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/database/Cursor;",
+            "method": "getColumnIndexOrThrow",
+            "descriptor": "(Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1
+}

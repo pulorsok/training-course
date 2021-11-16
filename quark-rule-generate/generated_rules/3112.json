@@ -1,0 +1,17 @@
+{
+    "crime": "3112. Ljava/lang/StringBuilder;toString->Ljava/io/ByteArrayOutputStream;write",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/io/ByteArrayOutputStream;",
+            "method": "write",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1
+}

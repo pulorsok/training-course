@@ -1,0 +1,17 @@
+{
+    "crime": "5481. Ljava/net/InetSocketAddress;getAddress->Ljava/net/InetSocketAddress;createUnresolved",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/InetSocketAddress;",
+            "method": "getAddress",
+            "descriptor": "()Ljava/net/InetAddress;"
+        },
+        {
+            "class": "Ljava/net/InetSocketAddress;",
+            "method": "createUnresolved",
+            "descriptor": "(Ljava/lang/String; I)Ljava/net/InetSocketAddress;"
+        }
+    ],
+    "score": 1
+}

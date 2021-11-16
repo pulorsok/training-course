@@ -1,0 +1,17 @@
+{
+    "crime": "10802. Ljava/lang/Object;<init>->Ljava/io/FileNotFoundException;printStackTrace",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/FileNotFoundException;",
+            "method": "printStackTrace",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

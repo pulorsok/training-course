@@ -1,0 +1,17 @@
+{
+    "crime": "8889. Ljava/text/DateFormat;setTimeZone->Ljava/lang/StringBuilder;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "setTimeZone",
+            "descriptor": "(Ljava/util/TimeZone;)V"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "8088. Ljavax/net/ssl/TrustManagerFactory;getInstance->Ljavax/net/ssl/TrustManagerFactory;init",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljavax/net/ssl/TrustManagerFactory;"
+        },
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "init",
+            "descriptor": "(Ljava/security/KeyStore;)V"
+        }
+    ],
+    "score": 1
+}

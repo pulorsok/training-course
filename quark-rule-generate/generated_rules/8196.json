@@ -1,0 +1,17 @@
+{
+    "crime": "8196. Ljava/lang/Math;random->Ljava/util/Timer;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "random",
+            "descriptor": "()D"
+        },
+        {
+            "class": "Ljava/util/Timer;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "10355. Ljava/lang/String;length->Ljava/nio/ByteBuffer;capacity",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "capacity",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}
