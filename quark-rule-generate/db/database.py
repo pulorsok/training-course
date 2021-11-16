@@ -62,13 +62,13 @@ class DataBase:
         :parms: apk id, A list of first method id and second method id
         :reuturn: True if succeed or false
         """
-        collection = self.db["matched_method_comb"]
+        # collection = self.db["matched_method_comb"]
         fst_collection = self.db["first_stage_rules"]
 
-        collection.update_one({"sample": apk_id},
-                              {"$addToSet": {"matched_combs": {"$each": id_list}}},
-                              upsert=True
-                              )
+        # collection.update_one({"sample": apk_id},
+        #                       {"$addToSet": {"matched_combs": {"$each": id_list}}},
+        #                       upsert=True
+        #                       )
 
         for r in matched_combs:
 

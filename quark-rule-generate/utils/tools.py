@@ -59,25 +59,31 @@ def distribute(seq, sort):
 
 def api_filter(apk, percentile_rank):
     statistic_result = {}
-    api_pool = apk.apk_analysis.apkinfo.all_methods
+    str_statistic_result = {}
+    api_pool = apk.apk_analysis.apkinfo.android_apis
     for api in api_pool:
         number_from = len(apk.apk_analysis.apkinfo.upperfunc(api))
         if number_from > 0:
-            statistic_result[api] = number_from
+            statistic_result[str(api)] = number_from
+            str_statistic_result[str(api)] = api
 
-    sorted_result = {k: v for k, v in sorted(statistic_result.items(), key=lambda item: item[1])}
+    sorted_result1 = {k: v for k, v in sorted(statistic_result.items(), key=lambda item: item[1])}
+    sorted_result = {k: v for k, v in sorted(sorted_result1.items())}
     
     threshold = len(sorted_result) * percentile_rank
+    # while threshold > gap:
+    #     threshold = threshold * percentile_rank
+        
     api_above = []
     api_under = []
     p_count = {"first": [], "second": []}
-    for i, (api, number) in enumerate(sorted_result.items()):
+    for i, (api, number) in enumerate(sorted_result.items()):        
         if i < threshold:
-            api_above.append(api)
+            api_above.append(str_statistic_result[api])
             p_count["first"].append(number)
             continue
         p_count["second"].append(number)
-        api_under.append(api)
+        api_under.append(str_statistic_result[api])
         
     return api_above, api_under, p_count
 

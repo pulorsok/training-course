@@ -4,20 +4,25 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+black = "*"
+pytest = "*"
+sphinx = "*"
+sphinx-rtd-theme = "*"
 
 [packages]
 prettytable = "*"
 tqdm = "*"
 colorama = "*"
-quark-engine = "*"
 click = "*"
 androguard = "==3.4.0a1"
-graphviz = "*"
+graphviz = "==0.17"
 requests = "*"
 pandas = "*"
 plotly = "*"
 prompt-toolkit = "==3.0.19"
 rzpipe = "*"
+pyaxmlparser = "*"
+pymongo = "*"
 
 [requires]
 python_version = "3.9"
