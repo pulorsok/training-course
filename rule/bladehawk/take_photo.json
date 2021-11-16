@@ -1,11 +1,11 @@
 {
-    "crime": "Screenshot",
+    "crime": "",
     "permission": [],
     "api": [
         {
             "class": "Landroid/graphics/Bitmap;",
-            "method": "createBitmap",
-            "descriptor": "(I I Landroid/graphics/Bitmap$Config;)Landroid/graphics/Bitmap;"
+            "method": "createScaledBitmap",
+            "descriptor": "(Landroid/graphics/Bitmap; I I Z)Landroid/graphics/Bitmap;"
         },
         {
             "class": "Landroid/graphics/Bitmap;",
@@ -14,7 +14,5 @@
         }
     ],
     "score": 1,
-    "label": [
-        "camera"
-    ]
+    "label": []
 }

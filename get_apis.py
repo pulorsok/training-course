@@ -10,12 +10,12 @@ def android_apis(analysis):
     
     return apis
 
-APK_PATH = "Ahmyth.apk"
+APK_PATH = "samples/Ahmyth.apk"
 
 _, _, analysis = AnalyzeAPK(APK_PATH)
 
 apis_set = android_apis(analysis)
 
 for api in apis_set:
-    print(f"{str(api.class_name)} -> {str(api.name)} {str(api.descriptor)}")
+    print(f"{str(api.class_name)} -> {str(api.name)}{str(api.descriptor)}")
     

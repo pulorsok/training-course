@@ -3,7 +3,7 @@ from tqdm import tqdm
 from androguard.misc import AnalyzeAPK
 
 
-def combine(apis):
+def rule_generate(apis):
     rules = list()
     
     for api_1 in apis:
@@ -46,7 +46,7 @@ def android_apis(analysis):
     
     return apis
 
-APK_PATH = "14d9f1a92dd984d6040cc41ed06e273e.apk"
+APK_PATH = "samples/Ahmyth.apk"
 
 _, _, analysis = AnalyzeAPK(APK_PATH)
 
@@ -57,7 +57,7 @@ rule_filename = 0
 for rule in tqdm(rules_list):
     
     rule_filename += 1 
-    rule_file = open(f"output_rules/{rule_filename}.json", "w")
     
-    json.dump(rule, rule_file, indent=4)
-    rule_file.close()
+    # rule_file = open(f"output_rules/{rule_filename}.json", "w")
+    # json.dump(rule, rule_file, indent=4)
+    # rule_file.close()
