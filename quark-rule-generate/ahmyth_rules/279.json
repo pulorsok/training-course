@@ -1,0 +1,18 @@
+{
+    "crime": "279. Ljava/lang/Class;forName->Ljava/lang/Boolean;booleanValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "forName",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/lang/Boolean;",
+            "method": "booleanValue",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

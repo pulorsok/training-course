@@ -1,0 +1,18 @@
+{
+    "crime": "121. Landroid/util/Log;d->Landroid/util/Log;e",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/util/Log;",
+            "method": "d",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)I"
+        },
+        {
+            "class": "Landroid/util/Log;",
+            "method": "e",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

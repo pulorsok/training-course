@@ -1,0 +1,18 @@
+{
+    "crime": "119. Landroid/telephony/SmsManager;getDefault->Ljava/lang/Boolean;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/telephony/SmsManager;",
+            "method": "getDefault",
+            "descriptor": "()Landroid/telephony/SmsManager;"
+        },
+        {
+            "class": "Ljava/lang/Boolean;",
+            "method": "valueOf",
+            "descriptor": "(Z)Ljava/lang/Boolean;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

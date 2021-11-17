@@ -1,0 +1,18 @@
+{
+    "crime": "126. Landroid/util/Log;getStackTraceString->Landroid/util/Log;println",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/util/Log;",
+            "method": "getStackTraceString",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/String;"
+        },
+        {
+            "class": "Landroid/util/Log;",
+            "method": "println",
+            "descriptor": "(I Ljava/lang/String; Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

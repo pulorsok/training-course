@@ -1,0 +1,18 @@
+{
+    "crime": "78. Landroid/location/LocationManager;isProviderEnabled->Landroid/util/Log;e",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/location/LocationManager;",
+            "method": "isProviderEnabled",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Landroid/util/Log;",
+            "method": "e",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "53. Landroid/hardware/Camera$CameraInfo;<init>->Landroid/hardware/Camera;getCameraInfo",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/hardware/Camera$CameraInfo;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/hardware/Camera;",
+            "method": "getCameraInfo",
+            "descriptor": "(I Landroid/hardware/Camera$CameraInfo;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

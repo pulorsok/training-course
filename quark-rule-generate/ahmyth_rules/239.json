@@ -1,0 +1,18 @@
+{
+    "crime": "239. Ljava/io/RandomAccessFile;<init>->Ljava/io/RandomAccessFile;getChannel",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/File; Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "getChannel",
+            "descriptor": "()Ljava/nio/channels/FileChannel;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

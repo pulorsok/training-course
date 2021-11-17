@@ -1,0 +1,18 @@
+{
+    "crime": "182. Ljava/io/File;getAbsolutePath->Landroid/media/MediaRecorder;setAudioEncoder",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "getAbsolutePath",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "setAudioEncoder",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

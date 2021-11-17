@@ -1,0 +1,18 @@
+{
+    "crime": "59. Landroid/hardware/Camera;getCameraInfo->Landroid/hardware/Camera;takePicture",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/hardware/Camera;",
+            "method": "getCameraInfo",
+            "descriptor": "(I Landroid/hardware/Camera$CameraInfo;)V"
+        },
+        {
+            "class": "Landroid/hardware/Camera;",
+            "method": "takePicture",
+            "descriptor": "(Landroid/hardware/Camera$ShutterCallback; Landroid/hardware/Camera$PictureCallback; Landroid/hardware/Camera$PictureCallback;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

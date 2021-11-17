@@ -1,0 +1,18 @@
+{
+    "crime": "16. Landroid/content/Context;getContentResolver->Landroid/net/Uri;encode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/Context;",
+            "method": "getContentResolver",
+            "descriptor": "()Landroid/content/ContentResolver;"
+        },
+        {
+            "class": "Landroid/net/Uri;",
+            "method": "encode",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

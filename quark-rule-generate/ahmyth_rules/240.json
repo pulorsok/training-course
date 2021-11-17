@@ -1,0 +1,18 @@
+{
+    "crime": "240. Ljava/io/RandomAccessFile;<init>->Ljava/io/RandomAccessFile;setLength",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/File; Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "setLength",
+            "descriptor": "(J)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

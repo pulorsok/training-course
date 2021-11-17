@@ -1,0 +1,18 @@
+{
+    "crime": "203. Ljava/io/File;listFiles->Ljava/io/File;delete",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "listFiles",
+            "descriptor": "()[Ljava/io/File;"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "delete",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

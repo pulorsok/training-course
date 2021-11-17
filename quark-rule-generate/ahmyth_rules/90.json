@@ -1,0 +1,18 @@
+{
+    "crime": "90. Landroid/media/MediaRecorder;prepare->Landroid/media/MediaRecorder;start",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "prepare",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "start",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

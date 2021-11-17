@@ -1,0 +1,18 @@
+{
+    "crime": "275. Ljava/lang/Character;getNumericValue->Ljava/lang/Character;codePointAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "getNumericValue",
+            "descriptor": "(C)I"
+        },
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "codePointAt",
+            "descriptor": "(Ljava/lang/CharSequence; I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8. Landroid/content/Context;getCacheDir->Landroid/util/Log;e",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/Context;",
+            "method": "getCacheDir",
+            "descriptor": "()Ljava/io/File;"
+        },
+        {
+            "class": "Landroid/util/Log;",
+            "method": "e",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

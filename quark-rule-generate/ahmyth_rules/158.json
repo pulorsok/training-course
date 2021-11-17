@@ -1,0 +1,18 @@
+{
+    "crime": "158. Ljava/io/File;<init>->Ljava/io/File;canRead",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "canRead",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}
