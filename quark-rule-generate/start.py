@@ -219,6 +219,7 @@ def rule_obj_generate(rule, f_name):
             }
         ],
         "score": 1,
+        "label": []
     }
     return rule_obj
 
