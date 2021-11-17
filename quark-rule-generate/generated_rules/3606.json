@@ -1,0 +1,17 @@
+{
+    "crime": "3606. Ljava/lang/System;nanoTime->Ljava/util/Deque;remove",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "nanoTime",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "remove",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

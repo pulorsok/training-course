@@ -1,0 +1,17 @@
+{
+    "crime": "4804. Ljava/util/concurrent/ConcurrentLinkedQueue;<init>->Ljava/net/URL;openConnection",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "openConnection",
+            "descriptor": "(Ljava/net/Proxy;)Ljava/net/URLConnection;"
+        }
+    ],
+    "score": 1
+}

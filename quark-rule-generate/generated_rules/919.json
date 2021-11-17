@@ -1,0 +1,17 @@
+{
+    "crime": "919. Ljava/util/GregorianCalendar;<init>->Ljava/util/Calendar;set",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/GregorianCalendar;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/TimeZone;)V"
+        },
+        {
+            "class": "Ljava/util/Calendar;",
+            "method": "set",
+            "descriptor": "(I I)V"
+        }
+    ],
+    "score": 1
+}

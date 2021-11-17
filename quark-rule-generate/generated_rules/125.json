@@ -1,0 +1,17 @@
+{
+    "crime": "125. Landroid/content/Context;getCacheDir->Ljava/io/File;createTempFile",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/Context;",
+            "method": "getCacheDir",
+            "descriptor": "()Ljava/io/File;"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "createTempFile",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String; Ljava/io/File;)Ljava/io/File;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "7740. Ljavax/net/ssl/SSLSocket;getSSLParameters->Ljavax/net/ssl/SSLSocket;setSSLParameters",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getSSLParameters",
+            "descriptor": "()Ljavax/net/ssl/SSLParameters;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "setSSLParameters",
+            "descriptor": "(Ljavax/net/ssl/SSLParameters;)V"
+        }
+    ],
+    "score": 1
+}

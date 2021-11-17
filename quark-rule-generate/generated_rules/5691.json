@@ -1,0 +1,17 @@
+{
+    "crime": "5691. Ljava/util/logging/Logger;fine->Ljava/math/BigInteger;longValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "longValue",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1
+}

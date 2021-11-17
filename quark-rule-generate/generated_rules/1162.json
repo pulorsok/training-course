@@ -1,0 +1,17 @@
+{
+    "crime": "1162. Landroid/media/MediaRecorder;<init>->Landroid/media/MediaRecorder;prepare",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "prepare",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

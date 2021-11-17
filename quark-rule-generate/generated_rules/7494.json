@@ -1,0 +1,17 @@
+{
+    "crime": "7494. Ljava/lang/Long;parseLong->Ljava/lang/System;currentTimeMillis",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "parseLong",
+            "descriptor": "(Ljava/lang/String;)J"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "currentTimeMillis",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "625. Ljava/lang/String;substring->Ljava/util/Arrays;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "toString",
+            "descriptor": "([Ljava/lang/Object;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

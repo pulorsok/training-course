@@ -1,0 +1,17 @@
+{
+    "crime": "10901. Ljava/lang/Object;<init>->Ljava/net/Socket;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "<init>",
+            "descriptor": "(Ljava/net/Proxy;)V"
+        }
+    ],
+    "score": 1
+}

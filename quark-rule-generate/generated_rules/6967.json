@@ -1,0 +1,17 @@
+{
+    "crime": "6967. Ljavax/net/SocketFactory;createSocket->Ljava/lang/Object;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/SocketFactory;",
+            "method": "createSocket",
+            "descriptor": "()Ljava/net/Socket;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

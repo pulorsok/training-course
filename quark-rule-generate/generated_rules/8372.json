@@ -1,0 +1,17 @@
+{
+    "crime": "8372. Ljava/lang/NullPointerException;<init>->Ljava/lang/StringBuilder;setLength",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "setLength",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1
+}

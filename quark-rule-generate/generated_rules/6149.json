@@ -1,0 +1,17 @@
+{
+    "crime": "6149. Ljava/net/Socket;close->Ljava/lang/Object;wait",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "close",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "wait",
+            "descriptor": "(J I)V"
+        }
+    ],
+    "score": 1
+}

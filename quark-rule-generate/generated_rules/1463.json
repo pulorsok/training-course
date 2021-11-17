@@ -1,0 +1,17 @@
+{
+    "crime": "1463. Ljava/lang/StringBuilder;<init>->Ljava/util/List;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

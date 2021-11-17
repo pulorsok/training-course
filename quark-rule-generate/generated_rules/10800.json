@@ -1,0 +1,17 @@
+{
+    "crime": "10800. Ljava/lang/Object;<init>->Ljava/io/File;listFiles",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "listFiles",
+            "descriptor": "()[Ljava/io/File;"
+        }
+    ],
+    "score": 1
+}

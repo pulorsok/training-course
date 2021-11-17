@@ -1,0 +1,17 @@
+{
+    "crime": "4458. Ljava/util/TreeMap;<init>->Ljava/net/HttpURLConnection;addRequestProperty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/TreeMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "addRequestProperty",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

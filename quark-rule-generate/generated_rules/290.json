@@ -1,0 +1,17 @@
+{
+    "crime": "290. Ljava/util/Collections;singletonList->Ljava/lang/String;replaceAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "singletonList",
+            "descriptor": "(Ljava/lang/Object;)Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "replaceAll",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "6272. Ljava/util/zip/CRC32;<init>->Ljava/util/Collections;addAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/zip/CRC32;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection; [Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

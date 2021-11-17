@@ -1,0 +1,17 @@
+{
+    "crime": "780. Ljava/lang/String;toLowerCase->Ljava/lang/String;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toLowerCase",
+            "descriptor": "(Ljava/util/Locale;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([C I I)V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "5342. Ljava/lang/Character;isISOControl->Ljava/lang/String;replace",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "isISOControl",
+            "descriptor": "(I)Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "replace",
+            "descriptor": "(Ljava/lang/CharSequence; Ljava/lang/CharSequence;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "6756. Ljavax/crypto/Mac;getInstance->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/crypto/Mac;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljavax/crypto/Mac;"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

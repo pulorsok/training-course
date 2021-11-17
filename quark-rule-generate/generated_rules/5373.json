@@ -1,0 +1,17 @@
+{
+    "crime": "5373. Ljava/util/concurrent/ScheduledExecutorService;schedule->Ljava/util/concurrent/ScheduledFuture;cancel",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ScheduledExecutorService;",
+            "method": "schedule",
+            "descriptor": "(Ljava/lang/Runnable; J Ljava/util/concurrent/TimeUnit;)Ljava/util/concurrent/ScheduledFuture;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledFuture;",
+            "method": "cancel",
+            "descriptor": "(Z)Z"
+        }
+    ],
+    "score": 1
+}

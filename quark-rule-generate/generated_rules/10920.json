@@ -1,0 +1,17 @@
+{
+    "crime": "10920. Ljava/lang/Object;<init>->Ljava/net/URL;openConnection",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "openConnection",
+            "descriptor": "(Ljava/net/Proxy;)Ljava/net/URLConnection;"
+        }
+    ],
+    "score": 1
+}

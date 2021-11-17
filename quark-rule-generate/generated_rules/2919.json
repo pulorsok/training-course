@@ -1,0 +1,17 @@
+{
+    "crime": "2919. Ljava/io/File;exists->Ljava/io/File;length",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "exists",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "length",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1
+}

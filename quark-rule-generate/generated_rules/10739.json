@@ -1,0 +1,17 @@
+{
+    "crime": "10739. Ljava/lang/Object;getClass->Ljava/net/InetSocketAddress;getAddress",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/net/InetSocketAddress;",
+            "method": "getAddress",
+            "descriptor": "()Ljava/net/InetAddress;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "4800. Ljava/util/concurrent/ConcurrentLinkedQueue;<init>->Ljava/net/HttpURLConnection;setDoOutput",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setDoOutput",
+            "descriptor": "(Z)V"
+        }
+    ],
+    "score": 1
+}

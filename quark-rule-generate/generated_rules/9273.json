@@ -1,0 +1,17 @@
+{
+    "crime": "9273. Ljava/util/ArrayList;<init>->Ljava/lang/String;lastIndexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "lastIndexOf",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1
+}

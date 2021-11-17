@@ -1,0 +1,17 @@
+{
+    "crime": "10587. Ljava/text/SimpleDateFormat;<init>->Ljava/text/DateFormat;setLenient",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/SimpleDateFormat;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String; Ljava/util/Locale;)V"
+        },
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "setLenient",
+            "descriptor": "(Z)V"
+        }
+    ],
+    "score": 1
+}

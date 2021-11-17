@@ -1,0 +1,17 @@
+{
+    "crime": "9965. Ljava/lang/String;<init>->Ljava/lang/Character;isISOControl",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([B Ljava/nio/charset/Charset;)V"
+        },
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "isISOControl",
+            "descriptor": "(I)Z"
+        }
+    ],
+    "score": 1
+}

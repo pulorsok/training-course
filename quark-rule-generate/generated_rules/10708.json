@@ -1,0 +1,17 @@
+{
+    "crime": "10708. Ljava/lang/Object;getClass->Ljava/lang/Class;getMethod",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "getMethod",
+            "descriptor": "(Ljava/lang/String; [Ljava/lang/Class;)Ljava/lang/reflect/Method;"
+        }
+    ],
+    "score": 1
+}

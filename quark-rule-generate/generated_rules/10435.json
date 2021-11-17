@@ -1,0 +1,17 @@
+{
+    "crime": "10435. Ljava/lang/String;hashCode->Ljava/util/Arrays;hashCode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "hashCode",
+            "descriptor": "([B)I"
+        }
+    ],
+    "score": 1
+}

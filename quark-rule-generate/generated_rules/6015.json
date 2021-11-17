@@ -1,0 +1,17 @@
+{
+    "crime": "6015. Ljava/net/ProxySelector;getDefault->Ljavax/net/ssl/TrustManagerFactory;getInstance",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "getDefault",
+            "descriptor": "()Ljava/net/ProxySelector;"
+        },
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljavax/net/ssl/TrustManagerFactory;"
+        }
+    ],
+    "score": 1
+}

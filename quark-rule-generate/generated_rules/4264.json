@@ -1,0 +1,17 @@
+{
+    "crime": "4264. Ljava/lang/reflect/Method;getModifiers->Ljava/lang/Class;isAssignableFrom",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "getModifiers",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "isAssignableFrom",
+            "descriptor": "(Ljava/lang/Class;)Z"
+        }
+    ],
+    "score": 1
+}

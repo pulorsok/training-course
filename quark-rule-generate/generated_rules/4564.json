@@ -1,0 +1,17 @@
+{
+    "crime": "4564. Ljava/util/UUID;randomUUID->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/UUID;",
+            "method": "randomUUID",
+            "descriptor": "()Ljava/util/UUID;"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "1025. Landroid/location/LocationManager;getLastKnownLocation->Landroid/location/Location;getLongitude",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/location/LocationManager;",
+            "method": "getLastKnownLocation",
+            "descriptor": "(Ljava/lang/String;)Landroid/location/Location;"
+        },
+        {
+            "class": "Landroid/location/Location;",
+            "method": "getLongitude",
+            "descriptor": "()D"
+        }
+    ],
+    "score": 1
+}

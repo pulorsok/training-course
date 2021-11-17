@@ -1,0 +1,17 @@
+{
+    "crime": "4160. Ljava/lang/reflect/Array;newInstance->Ljava/lang/Object;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/Array;",
+            "method": "newInstance",
+            "descriptor": "(Ljava/lang/Class; I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

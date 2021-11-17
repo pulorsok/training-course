@@ -1,0 +1,17 @@
+{
+    "crime": "8376. Ljava/lang/NullPointerException;<init>->Ljava/net/Proxy;address",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "address",
+            "descriptor": "()Ljava/net/SocketAddress;"
+        }
+    ],
+    "score": 1
+}

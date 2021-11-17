@@ -1,0 +1,17 @@
+{
+    "crime": "10255. Ljava/lang/String;codePointAt->Ljava/lang/Character;toChars",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "codePointAt",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "toChars",
+            "descriptor": "(I)[C"
+        }
+    ],
+    "score": 1
+}

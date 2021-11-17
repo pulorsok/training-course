@@ -1,0 +1,17 @@
+{
+    "crime": "2435. Ljava/io/Closeable;close->Ljava/util/Map;clear",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/Closeable;",
+            "method": "close",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "clear",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

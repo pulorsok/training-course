@@ -1,0 +1,17 @@
+{
+    "crime": "868. Landroid/hardware/Camera;getNumberOfCameras->Ljava/lang/Object;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/hardware/Camera;",
+            "method": "getNumberOfCameras",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

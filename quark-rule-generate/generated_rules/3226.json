@@ -1,0 +1,17 @@
+{
+    "crime": "3226. Ljava/lang/StringBuilder;toString->Ljava/util/ArrayDeque;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

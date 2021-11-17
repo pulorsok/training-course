@@ -1,0 +1,17 @@
+{
+    "crime": "4682. Ljava/math/BigInteger;valueOf->Ljava/math/BigDecimal;multiply",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "valueOf",
+            "descriptor": "(J)Ljava/math/BigInteger;"
+        },
+        {
+            "class": "Ljava/math/BigDecimal;",
+            "method": "multiply",
+            "descriptor": "(Ljava/math/BigDecimal;)Ljava/math/BigDecimal;"
+        }
+    ],
+    "score": 1
+}

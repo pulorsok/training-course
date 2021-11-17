@@ -1,0 +1,17 @@
+{
+    "crime": "10580. Ljava/text/SimpleDateFormat;<init>->Ljava/lang/Math;min",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/SimpleDateFormat;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String; Ljava/util/Locale;)V"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(J J)J"
+        }
+    ],
+    "score": 1
+}

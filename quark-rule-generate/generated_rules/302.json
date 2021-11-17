@@ -1,0 +1,17 @@
+{
+    "crime": "302. Ljava/util/Collections;singletonList->Ljava/util/List;clear",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "singletonList",
+            "descriptor": "(Ljava/lang/Object;)Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "clear",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "8584. Lorg/json/JSONObject;<init>->Landroid/content/Context;getContentResolver",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/content/Context;",
+            "method": "getContentResolver",
+            "descriptor": "()Landroid/content/ContentResolver;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "5697. Ljava/util/logging/Logger;fine->Ljava/net/HttpURLConnection;addRequestProperty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "addRequestProperty",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "10374. Ljava/lang/String;length->Ljava/text/DateFormat;parse",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "parse",
+            "descriptor": "(Ljava/lang/String; Ljava/text/ParsePosition;)Ljava/util/Date;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "2486. Ljava/lang/StringBuilder;append->Ljava/net/Socket;isOutputShutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isOutputShutdown",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

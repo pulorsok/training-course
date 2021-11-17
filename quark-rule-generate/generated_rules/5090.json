@@ -1,0 +1,17 @@
+{
+    "crime": "5090. Ljava/lang/AssertionError;getMessage->Ljava/net/Socket;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "<init>",
+            "descriptor": "(Ljava/net/Proxy;)V"
+        }
+    ],
+    "score": 1
+}

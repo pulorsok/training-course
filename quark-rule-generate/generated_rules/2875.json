@@ -1,0 +1,17 @@
+{
+    "crime": "2875. Ljava/util/List;isEmpty->Ljava/security/cert/X509Certificate;getSubjectX500Principal",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectX500Principal",
+            "descriptor": "()Ljavax/security/auth/x500/X500Principal;"
+        }
+    ],
+    "score": 1
+}

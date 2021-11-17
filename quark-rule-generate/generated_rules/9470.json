@@ -1,0 +1,17 @@
+{
+    "crime": "9470. Ljava/lang/String;equalsIgnoreCase->Ljava/io/BufferedReader;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/io/BufferedReader;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/Reader;)V"
+        }
+    ],
+    "score": 1
+}

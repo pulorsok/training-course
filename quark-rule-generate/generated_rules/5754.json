@@ -1,0 +1,17 @@
+{
+    "crime": "5754. Ljava/lang/Exception;<init>->Ljava/util/concurrent/ConcurrentHashMap;values",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Exception;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/Throwable;)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "values",
+            "descriptor": "()Ljava/util/Collection;"
+        }
+    ],
+    "score": 1
+}

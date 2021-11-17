@@ -1,0 +1,17 @@
+{
+    "crime": "8917. Lorg/json/JSONObject;put->Landroid/hardware/Camera;takePicture",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Z)Lorg/json/JSONObject;"
+        },
+        {
+            "class": "Landroid/hardware/Camera;",
+            "method": "takePicture",
+            "descriptor": "(Landroid/hardware/Camera$ShutterCallback; Landroid/hardware/Camera$PictureCallback; Landroid/hardware/Camera$PictureCallback;)V"
+        }
+    ],
+    "score": 1
+}

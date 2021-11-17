@@ -1,0 +1,17 @@
+{
+    "crime": "4515. Ljava/math/BigDecimal;valueOf->Ljava/lang/Math;floor",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigDecimal;",
+            "method": "valueOf",
+            "descriptor": "(D)Ljava/math/BigDecimal;"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "floor",
+            "descriptor": "(D)D"
+        }
+    ],
+    "score": 1
+}

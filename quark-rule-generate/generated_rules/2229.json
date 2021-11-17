@@ -1,0 +1,17 @@
+{
+    "crime": "2229. Ljava/io/ByteArrayOutputStream;<init>->Ljava/util/Arrays;fill",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/ByteArrayOutputStream;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "fill",
+            "descriptor": "([Ljava/lang/Object; Ljava/lang/Object;)V"
+        }
+    ],
+    "score": 1
+}

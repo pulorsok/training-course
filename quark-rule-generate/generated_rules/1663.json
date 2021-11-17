@@ -1,0 +1,17 @@
+{
+    "crime": "1663. Ljava/util/LinkedHashMap;put->Ljava/security/cert/CertificateEncodingException;getMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateEncodingException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

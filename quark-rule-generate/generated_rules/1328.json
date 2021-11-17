@@ -1,0 +1,17 @@
+{
+    "crime": "1328. Ljava/lang/StringBuilder;<init>->Ljava/lang/Long;toHexString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "toHexString",
+            "descriptor": "(J)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

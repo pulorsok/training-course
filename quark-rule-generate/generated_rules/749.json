@@ -1,0 +1,17 @@
+{
+    "crime": "749. Ljava/util/Deque;iterator->Ljava/security/cert/X509Certificate;getIssuerDN",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getIssuerDN",
+            "descriptor": "()Ljava/security/Principal;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "208. Landroid/content/Context;getPackageManager->Landroid/hardware/Camera;takePicture",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/Context;",
+            "method": "getPackageManager",
+            "descriptor": "()Landroid/content/pm/PackageManager;"
+        },
+        {
+            "class": "Landroid/hardware/Camera;",
+            "method": "takePicture",
+            "descriptor": "(Landroid/hardware/Camera$ShutterCallback; Landroid/hardware/Camera$PictureCallback; Landroid/hardware/Camera$PictureCallback;)V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "572. Landroid/database/Cursor;moveToNext->Ljava/lang/Boolean;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/database/Cursor;",
+            "method": "moveToNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/Boolean;",
+            "method": "valueOf",
+            "descriptor": "(Z)Ljava/lang/Boolean;"
+        }
+    ],
+    "score": 1
+}

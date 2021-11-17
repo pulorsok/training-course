@@ -1,0 +1,17 @@
+{
+    "crime": "8180. Ljava/lang/Math;random->Ljava/math/BigDecimal;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "random",
+            "descriptor": "()D"
+        },
+        {
+            "class": "Ljava/math/BigDecimal;",
+            "method": "<init>",
+            "descriptor": "(Ljava/math/BigInteger;)V"
+        }
+    ],
+    "score": 1
+}

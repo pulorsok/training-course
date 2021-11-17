@@ -1,0 +1,17 @@
+{
+    "crime": "5343. Ljava/lang/Character;isISOControl->Ljava/lang/String;substring",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "isISOControl",
+            "descriptor": "(I)Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

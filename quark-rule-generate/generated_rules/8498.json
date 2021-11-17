@@ -1,0 +1,17 @@
+{
+    "crime": "8498. Lorg/json/JSONArray;put->Landroid/telephony/SmsManager;getDefault",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object;)Lorg/json/JSONArray;"
+        },
+        {
+            "class": "Landroid/telephony/SmsManager;",
+            "method": "getDefault",
+            "descriptor": "()Landroid/telephony/SmsManager;"
+        }
+    ],
+    "score": 1
+}

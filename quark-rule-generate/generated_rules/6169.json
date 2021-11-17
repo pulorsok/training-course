@@ -1,0 +1,17 @@
+{
+    "crime": "6169. Ljava/net/Socket;connect->Ljava/lang/NullPointerException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "connect",
+            "descriptor": "(Ljava/net/SocketAddress; I)V"
+        },
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

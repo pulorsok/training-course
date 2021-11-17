@@ -1,0 +1,17 @@
+{
+    "crime": "11001. Ljava/lang/Object;<init>->Ljava/util/concurrent/Executors;newSingleThreadExecutor",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/concurrent/Executors;",
+            "method": "newSingleThreadExecutor",
+            "descriptor": "(Ljava/util/concurrent/ThreadFactory;)Ljava/util/concurrent/ExecutorService;"
+        }
+    ],
+    "score": 1
+}

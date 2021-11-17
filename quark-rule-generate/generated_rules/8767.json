@@ -1,0 +1,17 @@
+{
+    "crime": "8767. Lorg/json/JSONObject;getString->Ljava/io/FileNotFoundException;printStackTrace",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getString",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/io/FileNotFoundException;",
+            "method": "printStackTrace",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

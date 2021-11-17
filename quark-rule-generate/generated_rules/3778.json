@@ -1,0 +1,17 @@
+{
+    "crime": "3778. Ljava/lang/Thread;currentThread->Ljava/lang/Thread;isDaemon",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "currentThread",
+            "descriptor": "()Ljava/lang/Thread;"
+        },
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "isDaemon",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "7318. Ljavax/net/ssl/SSLPeerUnverifiedException;<init>->Ljavax/net/ssl/SSLPeerUnverifiedException;initCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLPeerUnverifiedException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLPeerUnverifiedException;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1
+}

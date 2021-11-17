@@ -1,0 +1,17 @@
+{
+    "crime": "4459. Ljava/util/TreeMap;<init>->Ljava/net/ProxySelector;getDefault",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/TreeMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        },
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "getDefault",
+            "descriptor": "()Ljava/net/ProxySelector;"
+        }
+    ],
+    "score": 1
+}

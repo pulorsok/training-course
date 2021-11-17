@@ -1,0 +1,17 @@
+{
+    "crime": "2016. Ljava/io/BufferedInputStream;<init>->Ljava/io/BufferedInputStream;close",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/BufferedInputStream;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/InputStream;)V"
+        },
+        {
+            "class": "Ljava/io/BufferedInputStream;",
+            "method": "close",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

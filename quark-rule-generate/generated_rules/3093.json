@@ -1,0 +1,17 @@
+{
+    "crime": "3093. Ljava/io/File;listFiles->Ljava/io/File;getParent",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "listFiles",
+            "descriptor": "()[Ljava/io/File;"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "getParent",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "2140. Ljava/lang/StringBuilder;append->Ljava/util/regex/Matcher;region",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "region",
+            "descriptor": "(I I)Ljava/util/regex/Matcher;"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "853. Ljava/util/Deque;removeFirst->Ljava/security/Principal;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "removeFirst",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/Principal;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

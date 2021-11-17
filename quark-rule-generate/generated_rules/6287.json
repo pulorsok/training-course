@@ -1,0 +1,17 @@
+{
+    "crime": "6287. Ljava/util/zip/CRC32;getValue->Ljava/util/zip/Inflater;getBytesWritten",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/zip/CRC32;",
+            "method": "getValue",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/util/zip/Inflater;",
+            "method": "getBytesWritten",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1
+}

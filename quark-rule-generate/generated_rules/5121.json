@@ -1,0 +1,17 @@
+{
+    "crime": "5121. Ljava/net/HttpURLConnection;getOutputStream->Ljava/io/BufferedOutputStream;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getOutputStream",
+            "descriptor": "()Ljava/io/OutputStream;"
+        },
+        {
+            "class": "Ljava/io/BufferedOutputStream;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/OutputStream;)V"
+        }
+    ],
+    "score": 1
+}

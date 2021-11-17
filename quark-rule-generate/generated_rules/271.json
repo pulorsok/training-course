@@ -1,0 +1,17 @@
+{
+    "crime": "271. Ljava/util/Collections;emptySet->Ljava/lang/String;split",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "emptySet",
+            "descriptor": "()Ljava/util/Set;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "split",
+            "descriptor": "(Ljava/lang/String;)[Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

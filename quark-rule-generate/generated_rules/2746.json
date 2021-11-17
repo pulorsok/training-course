@@ -1,0 +1,17 @@
+{
+    "crime": "2746. Ljava/util/List;get->Ljavax/net/ssl/SSLSocket;getEnabledProtocols",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getEnabledProtocols",
+            "descriptor": "()[Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

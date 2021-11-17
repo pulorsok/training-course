@@ -1,0 +1,17 @@
+{
+    "crime": "6591. Ljava/util/zip/Inflater;<init>->Ljava/lang/IllegalStateException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/zip/Inflater;",
+            "method": "<init>",
+            "descriptor": "(Z)V"
+        },
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "3181. Ljava/lang/StringBuilder;toString->Ljava/lang/Thread;interrupted",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "interrupted",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

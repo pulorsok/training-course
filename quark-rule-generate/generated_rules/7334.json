@@ -1,0 +1,17 @@
+{
+    "crime": "7334. Ljava/nio/ByteBuffer;allocate->Ljava/io/BufferedReader;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "allocate",
+            "descriptor": "(I)Ljava/nio/ByteBuffer;"
+        },
+        {
+            "class": "Ljava/io/BufferedReader;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/Reader;)V"
+        }
+    ],
+    "score": 1
+}

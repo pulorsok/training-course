@@ -1,0 +1,17 @@
+{
+    "crime": "1292. Ljava/lang/StringBuilder;<init>->Ljava/io/BufferedReader;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/BufferedReader;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/Reader;)V"
+        }
+    ],
+    "score": 1
+}

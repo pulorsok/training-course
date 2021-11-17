@@ -1,0 +1,17 @@
+{
+    "crime": "5488. Ljava/lang/Class;getDeclaredField->Ljava/lang/Class;getSuperclass",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "getDeclaredField",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/reflect/Field;"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "getSuperclass",
+            "descriptor": "()Ljava/lang/Class;"
+        }
+    ],
+    "score": 1
+}

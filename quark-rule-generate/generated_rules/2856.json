@@ -1,0 +1,17 @@
+{
+    "crime": "2856. Ljava/util/List;isEmpty->Ljava/lang/Object;wait",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "wait",
+            "descriptor": "(J I)V"
+        }
+    ],
+    "score": 1
+}

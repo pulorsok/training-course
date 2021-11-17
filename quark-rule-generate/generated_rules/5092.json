@@ -1,0 +1,17 @@
+{
+    "crime": "5092. Ljava/lang/AssertionError;getMessage->Ljava/util/logging/Logger;log",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "log",
+            "descriptor": "(Ljava/util/logging/Level; Ljava/lang/String; Ljava/lang/Throwable;)V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "479. Ljava/util/Date;<init>->Ljava/util/concurrent/ConcurrentHashMap;values",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Date;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "values",
+            "descriptor": "()Ljava/util/Collection;"
+        }
+    ],
+    "score": 1
+}

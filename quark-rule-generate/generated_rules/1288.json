@@ -1,0 +1,17 @@
+{
+    "crime": "1288. Ljava/lang/StringBuilder;<init>->Landroid/net/Uri;encode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/net/Uri;",
+            "method": "encode",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

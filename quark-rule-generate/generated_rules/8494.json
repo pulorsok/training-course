@@ -1,0 +1,17 @@
+{
+    "crime": "8494. Ljava/security/cert/Certificate;getEncoded->Ljava/util/concurrent/Executor;execute",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/Certificate;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        },
+        {
+            "class": "Ljava/util/concurrent/Executor;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        }
+    ],
+    "score": 1
+}

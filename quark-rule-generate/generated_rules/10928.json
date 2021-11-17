@@ -1,0 +1,17 @@
+{
+    "crime": "10928. Ljava/lang/Object;<init>->Ljava/nio/ByteBuffer;position",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "position",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1
+}

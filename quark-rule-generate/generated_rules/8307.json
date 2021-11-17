@@ -1,0 +1,17 @@
+{
+    "crime": "8307. Ljava/security/MessageDigest;update->Ljavax/crypto/Mac;update",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/MessageDigest;",
+            "method": "update",
+            "descriptor": "([B I I)V"
+        },
+        {
+            "class": "Ljavax/crypto/Mac;",
+            "method": "update",
+            "descriptor": "([B I I)V"
+        }
+    ],
+    "score": 1
+}

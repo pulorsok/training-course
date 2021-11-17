@@ -1,0 +1,17 @@
+{
+    "crime": "7830. Ljavax/net/ssl/SSLSocket;getSession->Ljavax/net/ssl/HostnameVerifier;verify",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getSession",
+            "descriptor": "()Ljavax/net/ssl/SSLSession;"
+        },
+        {
+            "class": "Ljavax/net/ssl/HostnameVerifier;",
+            "method": "verify",
+            "descriptor": "(Ljava/lang/String; Ljavax/net/ssl/SSLSession;)Z"
+        }
+    ],
+    "score": 1
+}

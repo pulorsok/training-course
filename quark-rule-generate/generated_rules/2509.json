@@ -1,0 +1,17 @@
+{
+    "crime": "2509. Ljava/lang/StringBuilder;append->Ljava/security/cert/Certificate;getEncoded",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/security/cert/Certificate;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1
+}

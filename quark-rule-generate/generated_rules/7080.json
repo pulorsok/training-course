@@ -1,0 +1,17 @@
+{
+    "crime": "7080. Ljava/net/URL;openConnection->Ljava/net/HttpURLConnection;setConnectTimeout",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URL;",
+            "method": "openConnection",
+            "descriptor": "(Ljava/net/Proxy;)Ljava/net/URLConnection;"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setConnectTimeout",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1
+}

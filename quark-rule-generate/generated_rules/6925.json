@@ -1,0 +1,17 @@
+{
+    "crime": "6925. Ljavax/crypto/spec/SecretKeySpec;<init>->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/crypto/spec/SecretKeySpec;",
+            "method": "<init>",
+            "descriptor": "([B Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

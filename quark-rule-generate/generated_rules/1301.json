@@ -1,0 +1,17 @@
+{
+    "crime": "1301. Ljava/lang/StringBuilder;<init>->Ljava/io/File;delete",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "delete",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1
+}

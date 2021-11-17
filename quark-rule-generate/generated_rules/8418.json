@@ -1,0 +1,17 @@
+{
+    "crime": "8418. Ljava/lang/NullPointerException;<init>->Ljava/util/zip/Inflater;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/zip/Inflater;",
+            "method": "<init>",
+            "descriptor": "(Z)V"
+        }
+    ],
+    "score": 1
+}

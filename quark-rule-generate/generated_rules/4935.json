@@ -1,0 +1,17 @@
+{
+    "crime": "4935. Ljava/util/concurrent/ConcurrentMap;get->Ljava/net/HttpURLConnection;setConnectTimeout",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setConnectTimeout",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "3080. Ljava/io/File;length->Ljava/io/BufferedInputStream;close",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "length",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/io/BufferedInputStream;",
+            "method": "close",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1
+}

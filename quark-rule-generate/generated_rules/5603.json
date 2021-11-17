@@ -1,0 +1,17 @@
+{
+    "crime": "5603. Ljava/lang/Class;isAssignableFrom->Ljava/lang/AssertionError;initCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "isAssignableFrom",
+            "descriptor": "(Ljava/lang/Class;)Z"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1
+}

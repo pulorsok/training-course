@@ -1,0 +1,17 @@
+{
+    "crime": "4107. Ljava/util/Queue;add->Ljava/util/concurrent/ConcurrentLinkedQueue;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Queue;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1
+}

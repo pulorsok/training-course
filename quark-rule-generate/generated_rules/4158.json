@@ -1,0 +1,17 @@
+{
+    "crime": "4158. Ljava/lang/reflect/Array;newInstance->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/Array;",
+            "method": "newInstance",
+            "descriptor": "(Ljava/lang/Class; I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1
+}

@@ -1,0 +1,17 @@
+{
+    "crime": "8673. Lorg/json/JSONObject;getInt->Ljava/io/File;createTempFile",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getInt",
+            "descriptor": "(Ljava/lang/String;)I"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "createTempFile",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String; Ljava/io/File;)Ljava/io/File;"
+        }
+    ],
+    "score": 1
+}

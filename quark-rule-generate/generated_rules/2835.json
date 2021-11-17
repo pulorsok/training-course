@@ -1,0 +1,17 @@
+{
+    "crime": "2835. Ljava/lang/StringBuilder;length->Ljava/nio/ByteBuffer;slice",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "slice",
+            "descriptor": "()Ljava/nio/ByteBuffer;"
+        }
+    ],
+    "score": 1
+}

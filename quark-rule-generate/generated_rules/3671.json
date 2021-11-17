@@ -1,0 +1,17 @@
+{
+    "crime": "3671. Ljava/io/IOException;<init>->Ljava/io/InputStreamReader;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/io/InputStreamReader;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/InputStream; Ljava/nio/charset/Charset;)V"
+        }
+    ],
+    "score": 1
+}

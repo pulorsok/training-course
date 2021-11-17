@@ -1,0 +1,17 @@
+{
+    "crime": "6318. Ljava/lang/IllegalArgumentException;<init>->Ljava/lang/Long;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "toString",
+            "descriptor": "(J)Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}

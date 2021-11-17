@@ -1,0 +1,17 @@
+{
+    "crime": "6249. Ljava/net/Socket;getRemoteSocketAddress->Ljava/net/InetSocketAddress;getHostName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getRemoteSocketAddress",
+            "descriptor": "()Ljava/net/SocketAddress;"
+        },
+        {
+            "class": "Ljava/net/InetSocketAddress;",
+            "method": "getHostName",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1
+}
