@@ -1,0 +1,18 @@
+{
+    "crime": "988. Ljava/util/HashMap;<init>->Ljava/util/Map;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/HashMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Map;)V"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

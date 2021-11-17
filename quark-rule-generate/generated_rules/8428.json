@@ -1,0 +1,18 @@
+{
+    "crime": "8428. Lorg/json/JSONArray;length->Ljava/util/concurrent/ConcurrentMap;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

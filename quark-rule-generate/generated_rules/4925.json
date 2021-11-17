@@ -1,0 +1,18 @@
+{
+    "crime": "4925. Ljava/util/concurrent/ConcurrentMap;get->Ljava/lang/String;regionMatches",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "regionMatches",
+            "descriptor": "(Z I Ljava/lang/String; I I)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8076. Ljavax/net/ssl/TrustManagerFactory;getDefaultAlgorithm->Ljavax/net/ssl/TrustManagerFactory;getInstance",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "getDefaultAlgorithm",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljavax/net/ssl/TrustManagerFactory;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

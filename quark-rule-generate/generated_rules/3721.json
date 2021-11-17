@@ -1,0 +1,18 @@
+{
+    "crime": "3721. Ljava/io/IOException;<init>->Ljava/lang/System;arraycopy",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "arraycopy",
+            "descriptor": "(Ljava/lang/Object; I Ljava/lang/Object; I I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

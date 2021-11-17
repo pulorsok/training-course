@@ -1,0 +1,18 @@
+{
+    "crime": "901. Ljava/lang/String;trim->Ljava/security/cert/CertificateFactory;getInstance",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "trim",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateFactory;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljava/security/cert/CertificateFactory;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

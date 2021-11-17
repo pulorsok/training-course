@@ -1,0 +1,18 @@
+{
+    "crime": "6968. Ljavax/net/SocketFactory;createSocket->Ljava/lang/String;contains",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/SocketFactory;",
+            "method": "createSocket",
+            "descriptor": "()Ljava/net/Socket;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/CharSequence;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

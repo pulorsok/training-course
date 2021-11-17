@@ -1,0 +1,18 @@
+{
+    "crime": "1389. Ljava/lang/StringBuilder;<init>->Ljava/lang/reflect/Method;invoke",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "invoke",
+            "descriptor": "(Ljava/lang/Object; [Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

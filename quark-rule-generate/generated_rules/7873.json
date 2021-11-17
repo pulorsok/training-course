@@ -1,0 +1,18 @@
+{
+    "crime": "7873. Ljava/nio/ByteBuffer;remaining->Ljava/nio/ByteBuffer;position",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "remaining",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "position",
+            "descriptor": "(I)Ljava/nio/Buffer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

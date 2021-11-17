@@ -1,0 +1,18 @@
+{
+    "crime": "9476. Ljava/lang/String;equalsIgnoreCase->Ljava/lang/IllegalAccessError;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/lang/IllegalAccessError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

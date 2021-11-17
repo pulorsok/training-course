@@ -1,0 +1,18 @@
+{
+    "crime": "6307. Ljava/lang/IllegalArgumentException;<init>->Ljava/lang/AssertionError;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Object;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8191. Ljava/lang/Math;random->Ljava/math/BigInteger;subtract",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "random",
+            "descriptor": "()D"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "subtract",
+            "descriptor": "(Ljava/math/BigInteger;)Ljava/math/BigInteger;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8164. Ljava/nio/charset/Charset;forName->Ljava/lang/StringBuilder;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/charset/Charset;",
+            "method": "forName",
+            "descriptor": "(Ljava/lang/String;)Ljava/nio/charset/Charset;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7927. Ljavax/net/ssl/SSLSocket;startHandshake->Ljava/security/cert/X509Certificate;getSubjectDN",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "startHandshake",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectDN",
+            "descriptor": "()Ljava/security/Principal;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

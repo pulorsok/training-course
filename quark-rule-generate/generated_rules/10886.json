@@ -1,0 +1,18 @@
+{
+    "crime": "10886. Ljava/lang/Object;<init>->Ljava/net/ConnectException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/ConnectException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

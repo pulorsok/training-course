@@ -1,0 +1,18 @@
+{
+    "crime": "27. Ljava/util/Collection;iterator->Ljava/lang/String;endsWith",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collection;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "endsWith",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

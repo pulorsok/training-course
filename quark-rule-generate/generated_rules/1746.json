@@ -1,0 +1,18 @@
+{
+    "crime": "1746. Ljava/util/LinkedHashMap;values->Ljava/util/ArrayList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "values",
+            "descriptor": "()Ljava/util/Collection;"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

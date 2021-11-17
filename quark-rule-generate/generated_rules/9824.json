@@ -1,0 +1,18 @@
+{
+    "crime": "9824. Ljava/lang/RuntimeException;<init>->Ljava/util/List;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/RuntimeException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Throwable;)V"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

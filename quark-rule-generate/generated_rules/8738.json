@@ -1,0 +1,18 @@
+{
+    "crime": "8738. Ljava/security/cert/X509Certificate;getSubjectAlternativeNames->Ljava/security/PublicKey;getEncoded",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectAlternativeNames",
+            "descriptor": "()Ljava/util/Collection;"
+        },
+        {
+            "class": "Ljava/security/PublicKey;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

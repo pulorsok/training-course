@@ -1,0 +1,18 @@
+{
+    "crime": "2984. Ljava/util/List;remove->Ljava/lang/Object;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "remove",
+            "descriptor": "(I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

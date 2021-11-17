@@ -1,0 +1,18 @@
+{
+    "crime": "10237. Ljava/lang/String;charAt->Ljava/util/regex/Matcher;usePattern",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "usePattern",
+            "descriptor": "(Ljava/util/regex/Pattern;)Ljava/util/regex/Matcher;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

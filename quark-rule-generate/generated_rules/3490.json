@@ -1,0 +1,18 @@
+{
+    "crime": "3490. Ljava/lang/System;currentTimeMillis->Ljava/text/DateFormat;setTimeZone",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "currentTimeMillis",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "setTimeZone",
+            "descriptor": "(Ljava/util/TimeZone;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

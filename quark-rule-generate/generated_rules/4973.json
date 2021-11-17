@@ -1,0 +1,18 @@
+{
+    "crime": "4973. Ljava/util/concurrent/ConcurrentMap;get->Ljavax/net/ssl/HttpsURLConnection;setHostnameVerifier",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljavax/net/ssl/HttpsURLConnection;",
+            "method": "setHostnameVerifier",
+            "descriptor": "(Ljavax/net/ssl/HostnameVerifier;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

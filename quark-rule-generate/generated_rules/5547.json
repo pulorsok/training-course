@@ -1,0 +1,18 @@
+{
+    "crime": "5547. Ljava/util/concurrent/TimeUnit;toMillis->Ljava/util/ArrayList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toMillis",
+            "descriptor": "(J)J"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

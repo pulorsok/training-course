@@ -1,0 +1,18 @@
+{
+    "crime": "6441. Ljava/net/SocketException;<init>->Ljava/io/IOException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/SocketException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

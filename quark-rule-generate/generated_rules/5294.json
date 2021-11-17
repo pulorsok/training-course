@@ -1,0 +1,18 @@
+{
+    "crime": "5294. Ljava/net/HttpURLConnection;setRequestMethod->Ljava/util/Iterator;hasNext",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setRequestMethod",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

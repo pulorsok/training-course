@@ -1,0 +1,18 @@
+{
+    "crime": "2197. Ljava/io/BufferedReader;close->Ljava/io/BufferedReader;readLine",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/BufferedReader;",
+            "method": "close",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/BufferedReader;",
+            "method": "readLine",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

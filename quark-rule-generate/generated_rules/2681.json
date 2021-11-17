@@ -1,0 +1,18 @@
+{
+    "crime": "2681. Ljava/util/List;get->Ljava/lang/System;arraycopy",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "arraycopy",
+            "descriptor": "(Ljava/lang/Object; I Ljava/lang/Object; I I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6666. Ljava/util/zip/Inflater;inflate->Ljava/util/zip/Inflater;needsDictionary",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/zip/Inflater;",
+            "method": "inflate",
+            "descriptor": "([B I I)I"
+        },
+        {
+            "class": "Ljava/util/zip/Inflater;",
+            "method": "needsDictionary",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

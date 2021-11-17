@@ -1,0 +1,18 @@
+{
+    "crime": "5421. Ljava/lang/Class;forName->Ljava/lang/Class;isInstance",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "forName",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "isInstance",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

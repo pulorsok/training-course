@@ -1,0 +1,18 @@
+{
+    "crime": "8359. Ljava/lang/NullPointerException;<init>->Ljava/lang/Integer;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "toString",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

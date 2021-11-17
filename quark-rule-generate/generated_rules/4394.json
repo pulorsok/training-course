@@ -1,0 +1,18 @@
+{
+    "crime": "4394. Ljava/util/Timer;<init>->Ljava/util/Timer;schedule",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Timer;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Timer;",
+            "method": "schedule",
+            "descriptor": "(Ljava/util/TimerTask; J)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

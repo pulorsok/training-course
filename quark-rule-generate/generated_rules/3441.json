@@ -1,0 +1,18 @@
+{
+    "crime": "3441. Ljava/util/List;toArray->Ljava/lang/String;clone",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "toArray",
+            "descriptor": "([Ljava/lang/Object;)[Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "clone",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

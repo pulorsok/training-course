@@ -1,0 +1,18 @@
+{
+    "crime": "6097. Ljava/util/regex/Matcher;matches->Ljava/util/concurrent/ConcurrentHashMap;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "matches",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

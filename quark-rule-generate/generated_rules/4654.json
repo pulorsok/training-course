@@ -1,0 +1,18 @@
+{
+    "crime": "4654. Ljava/util/concurrent/ConcurrentHashMap;get->Ljava/net/URL;getPath",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "getPath",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

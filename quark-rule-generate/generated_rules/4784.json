@@ -1,0 +1,18 @@
+{
+    "crime": "4784. Ljava/lang/AssertionError;<init>->Ljava/util/concurrent/CountDownLatch;countDown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/concurrent/CountDownLatch;",
+            "method": "countDown",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

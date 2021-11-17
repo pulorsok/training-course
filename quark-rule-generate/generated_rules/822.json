@@ -1,0 +1,18 @@
+{
+    "crime": "822. Ljava/lang/String;toLowerCase->Ljava/util/concurrent/Executors;newSingleThreadExecutor",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toLowerCase",
+            "descriptor": "(Ljava/util/Locale;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/concurrent/Executors;",
+            "method": "newSingleThreadExecutor",
+            "descriptor": "(Ljava/util/concurrent/ThreadFactory;)Ljava/util/concurrent/ExecutorService;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

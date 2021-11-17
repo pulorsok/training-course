@@ -1,0 +1,18 @@
+{
+    "crime": "10699. Ljava/lang/Object;equals->Ljavax/net/ssl/SSLSocket;getEnabledProtocols",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getEnabledProtocols",
+            "descriptor": "()[Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

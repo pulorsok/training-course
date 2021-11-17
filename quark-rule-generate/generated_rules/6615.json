@@ -1,0 +1,18 @@
+{
+    "crime": "6615. Ljava/net/URI;getPort->Ljava/util/concurrent/ConcurrentHashMap;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getPort",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

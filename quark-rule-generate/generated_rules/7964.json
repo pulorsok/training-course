@@ -1,0 +1,18 @@
+{
+    "crime": "7964. Ljava/lang/Math;min->Ljava/io/RandomAccessFile;getChannel",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(I I)I"
+        },
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "getChannel",
+            "descriptor": "()Ljava/nio/channels/FileChannel;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

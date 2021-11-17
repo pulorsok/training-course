@@ -1,0 +1,18 @@
+{
+    "crime": "7724. Ljava/lang/Long;valueOf->Ljava/nio/channels/FileChannel;force",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "valueOf",
+            "descriptor": "(J)Ljava/lang/Long;"
+        },
+        {
+            "class": "Ljava/nio/channels/FileChannel;",
+            "method": "force",
+            "descriptor": "(Z)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

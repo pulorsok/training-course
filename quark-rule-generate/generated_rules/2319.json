@@ -1,0 +1,18 @@
+{
+    "crime": "2319. Ljava/util/List;clear->Ljava/net/MalformedURLException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "clear",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/MalformedURLException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

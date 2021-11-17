@@ -1,0 +1,18 @@
+{
+    "crime": "8352. Ljava/security/Principal;getName->Ljavax/net/ssl/SSLPeerUnverifiedException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/Principal;",
+            "method": "getName",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLPeerUnverifiedException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8477. Ljava/lang/NumberFormatException;getMessage->Ljava/lang/String;regionMatches",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NumberFormatException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "regionMatches",
+            "descriptor": "(Z I Ljava/lang/String; I I)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

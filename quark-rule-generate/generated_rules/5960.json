@@ -1,0 +1,18 @@
+{
+    "crime": "5960. Ljava/util/regex/Matcher;lookingAt->Ljava/lang/String;substring",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "lookingAt",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

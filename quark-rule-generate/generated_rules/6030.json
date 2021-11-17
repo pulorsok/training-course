@@ -1,0 +1,18 @@
+{
+    "crime": "6030. Ljava/lang/IllegalArgumentException;<init>->Ljava/lang/String;codePointAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "codePointAt",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

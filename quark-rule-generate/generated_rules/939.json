@@ -1,0 +1,18 @@
+{
+    "crime": "939. Ljava/lang/String;valueOf->Ljava/lang/StringBuilder;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "valueOf",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

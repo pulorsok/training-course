@@ -1,0 +1,18 @@
+{
+    "crime": "8733. Lorg/json/JSONObject;getString->Landroid/database/Cursor;getString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getString",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Landroid/database/Cursor;",
+            "method": "getString",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

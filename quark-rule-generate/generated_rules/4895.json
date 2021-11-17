@@ -1,0 +1,18 @@
+{
+    "crime": "4895. Ljava/lang/AssertionError;<init>->Ljava/net/InetAddress;getAddress",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Object;)V"
+        },
+        {
+            "class": "Ljava/net/InetAddress;",
+            "method": "getAddress",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

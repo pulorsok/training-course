@@ -1,0 +1,18 @@
+{
+    "crime": "1222. Ljava/util/Iterator;next->Ljava/security/Principal;getName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/Principal;",
+            "method": "getName",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

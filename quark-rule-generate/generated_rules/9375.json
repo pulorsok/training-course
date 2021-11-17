@@ -1,0 +1,18 @@
+{
+    "crime": "9375. Ljava/lang/String;equals->Ljava/io/IOException;getCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "getCause",
+            "descriptor": "()Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

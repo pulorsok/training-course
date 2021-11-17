@@ -1,0 +1,18 @@
+{
+    "crime": "7002. Ljavax/net/SocketFactory;getDefault->Ljava/lang/Class;forName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/SocketFactory;",
+            "method": "getDefault",
+            "descriptor": "()Ljavax/net/SocketFactory;"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "forName",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/Class;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "9021. Ljava/lang/String;contains->Ljava/lang/String;regionMatches",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/CharSequence;)Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "regionMatches",
+            "descriptor": "(I Ljava/lang/String; I I)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

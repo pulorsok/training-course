@@ -1,0 +1,18 @@
+{
+    "crime": "7668. Ljavax/net/ssl/SSLSocket;getEnabledProtocols->Ljava/util/Arrays;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getEnabledProtocols",
+            "descriptor": "()[Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "toString",
+            "descriptor": "([Ljava/lang/Object;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

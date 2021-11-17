@@ -1,0 +1,18 @@
+{
+    "crime": "9015. Ljava/lang/String;contains->Ljava/lang/String;getBytes",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/CharSequence;)Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/nio/charset/Charset;)[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

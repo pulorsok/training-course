@@ -1,0 +1,18 @@
+{
+    "crime": "6227. Ljava/net/Socket;getOutputStream->Ljava/lang/NullPointerException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getOutputStream",
+            "descriptor": "()Ljava/io/OutputStream;"
+        },
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

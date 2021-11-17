@@ -1,0 +1,18 @@
+{
+    "crime": "228. Ljava/util/Collections;emptyList->Ljava/lang/String;substring",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "emptyList",
+            "descriptor": "()Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

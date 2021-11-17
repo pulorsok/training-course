@@ -1,0 +1,18 @@
+{
+    "crime": "3899. Ljava/lang/Thread;holdsLock->Ljava/util/Map;remove",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "holdsLock",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "remove",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

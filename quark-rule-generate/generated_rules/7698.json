@@ -1,0 +1,18 @@
+{
+    "crime": "7698. Ljava/nio/ByteBuffer;limit->Ljava/util/Map;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "limit",
+            "descriptor": "(I)Ljava/nio/Buffer;"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

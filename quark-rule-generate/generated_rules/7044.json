@@ -1,0 +1,18 @@
+{
+    "crime": "7044. Ljavax/net/SocketFactory;getDefault->Ljava/util/Map$Entry;getValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/SocketFactory;",
+            "method": "getDefault",
+            "descriptor": "()Ljavax/net/SocketFactory;"
+        },
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getValue",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

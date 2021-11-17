@@ -1,0 +1,18 @@
+{
+    "crime": "8720. Ljava/security/cert/X509Certificate;getSubjectAlternativeNames->Ljava/lang/String;equalsIgnoreCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectAlternativeNames",
+            "descriptor": "()Ljava/util/Collection;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

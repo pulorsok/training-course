@@ -1,0 +1,18 @@
+{
+    "crime": "10291. Ljava/lang/String;length->Ljava/io/Closeable;close",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/io/Closeable;",
+            "method": "close",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

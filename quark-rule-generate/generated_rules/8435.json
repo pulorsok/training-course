@@ -1,0 +1,18 @@
+{
+    "crime": "8435. Ljava/security/PublicKey;getEncoded->Ljava/lang/StringBuilder;append",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/PublicKey;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

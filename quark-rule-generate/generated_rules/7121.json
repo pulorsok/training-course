@@ -1,0 +1,18 @@
+{
+    "crime": "7121. Ljavax/net/ssl/HttpsURLConnection;setHostnameVerifier->Ljava/util/logging/Logger;fine",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/HttpsURLConnection;",
+            "method": "setHostnameVerifier",
+            "descriptor": "(Ljavax/net/ssl/HostnameVerifier;)V"
+        },
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

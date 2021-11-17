@@ -1,0 +1,18 @@
+{
+    "crime": "10279. Ljava/lang/String;codePointAt->Ljava/lang/StringBuilder;append",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "codePointAt",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(J)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7166. Ljava/lang/Integer;parseInt->Lorg/json/JSONObject;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "parseInt",
+            "descriptor": "(Ljava/lang/String;)I"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; I)Lorg/json/JSONObject;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6129. Ljava/util/regex/Matcher;region->Ljava/util/GregorianCalendar;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "region",
+            "descriptor": "(I I)Ljava/util/regex/Matcher;"
+        },
+        {
+            "class": "Ljava/util/GregorianCalendar;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/TimeZone;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

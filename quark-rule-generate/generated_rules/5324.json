@@ -1,0 +1,18 @@
+{
+    "crime": "5324. Ljava/net/IDN;toASCII->Ljava/lang/String;codePointAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/IDN;",
+            "method": "toASCII",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "codePointAt",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

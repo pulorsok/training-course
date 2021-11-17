@@ -1,0 +1,18 @@
+{
+    "crime": "2260. Ljava/util/List;addAll->Ljava/util/Collections;emptyList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection;)Z"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "emptyList",
+            "descriptor": "()Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

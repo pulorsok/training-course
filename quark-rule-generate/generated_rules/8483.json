@@ -1,0 +1,18 @@
+{
+    "crime": "8483. Ljava/lang/NumberFormatException;getMessage->Ljava/util/ArrayList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NumberFormatException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

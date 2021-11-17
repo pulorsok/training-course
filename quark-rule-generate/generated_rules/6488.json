@@ -1,0 +1,18 @@
+{
+    "crime": "6488. Ljava/net/URI;<init>->Ljava/lang/String;matches",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "matches",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

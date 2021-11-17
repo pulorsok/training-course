@@ -1,0 +1,18 @@
+{
+    "crime": "10426. Ljava/lang/String;hashCode->Ljava/lang/StringBuilder;append",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Z)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

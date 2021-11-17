@@ -1,0 +1,18 @@
+{
+    "crime": "3539. Ljava/util/Map$Entry;getKey->Ljava/util/logging/Logger;fine",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getKey",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "9803. Ljava/lang/RuntimeException;<init>->Ljava/lang/AssertionError;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/RuntimeException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Throwable;)V"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

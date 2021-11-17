@@ -1,0 +1,18 @@
+{
+    "crime": "5998. Ljava/net/ProxySelector;getDefault->Ljava/util/Iterator;hasNext",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "getDefault",
+            "descriptor": "()Ljava/net/ProxySelector;"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

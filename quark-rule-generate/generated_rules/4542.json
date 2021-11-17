@@ -1,0 +1,18 @@
+{
+    "crime": "4542. Ljava/lang/ArrayIndexOutOfBoundsException;<init>->Ljava/lang/NumberFormatException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/ArrayIndexOutOfBoundsException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/NumberFormatException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

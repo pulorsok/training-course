@@ -1,0 +1,18 @@
+{
+    "crime": "3047. Ljava/util/List;set->Ljava/lang/Object;clone",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "set",
+            "descriptor": "(I Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "clone",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

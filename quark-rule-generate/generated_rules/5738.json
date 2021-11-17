@@ -1,0 +1,18 @@
+{
+    "crime": "5738. Ljava/util/logging/Logger;fine->Ljava/util/concurrent/ConcurrentLinkedQueue;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

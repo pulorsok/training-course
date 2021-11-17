@@ -1,0 +1,18 @@
+{
+    "crime": "4349. Ljava/lang/reflect/Method;getReturnType->Ljava/lang/Class;isAssignableFrom",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "getReturnType",
+            "descriptor": "()Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "isAssignableFrom",
+            "descriptor": "(Ljava/lang/Class;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "5181. Ljava/util/concurrent/Executor;execute->Ljava/lang/String;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/Executor;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

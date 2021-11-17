@@ -1,0 +1,18 @@
+{
+    "crime": "4713. Ljava/lang/AssertionError;<init>->Ljava/lang/IllegalStateException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

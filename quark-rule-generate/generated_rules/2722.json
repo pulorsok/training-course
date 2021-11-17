@@ -1,0 +1,18 @@
+{
+    "crime": "2722. Ljava/util/List;get->Ljava/util/List;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "1225. Ljava/util/Iterator;next->Ljava/security/cert/CertificateException;getMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

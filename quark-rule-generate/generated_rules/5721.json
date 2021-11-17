@@ -1,0 +1,18 @@
+{
+    "crime": "5721. Ljava/util/logging/Logger;fine->Ljava/util/List;toArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "toArray",
+            "descriptor": "()[Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

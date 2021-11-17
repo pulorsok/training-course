@@ -1,0 +1,18 @@
+{
+    "crime": "3867. Ljava/lang/Thread;holdsLock->Ljava/lang/Integer;parseInt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "holdsLock",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "parseInt",
+            "descriptor": "(Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

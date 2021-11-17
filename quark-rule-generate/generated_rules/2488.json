@@ -1,0 +1,18 @@
+{
+    "crime": "2488. Ljava/lang/StringBuilder;append->Ljava/net/SocketTimeoutException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/net/SocketTimeoutException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

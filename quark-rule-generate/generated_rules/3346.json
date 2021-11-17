@@ -1,0 +1,18 @@
+{
+    "crime": "3346. Ljava/util/List;size->Ljava/util/List;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

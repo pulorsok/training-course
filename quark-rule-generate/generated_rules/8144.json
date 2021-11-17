@@ -1,0 +1,18 @@
+{
+    "crime": "8144. Ljavax/net/ssl/TrustManagerFactory;init->Ljavax/net/ssl/SSLContext;getSocketFactory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "init",
+            "descriptor": "(Ljava/security/KeyStore;)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "getSocketFactory",
+            "descriptor": "()Ljavax/net/ssl/SSLSocketFactory;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

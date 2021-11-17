@@ -1,0 +1,18 @@
+{
+    "crime": "10871. Ljava/lang/Object;<init>->Ljava/lang/Thread;start",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "start",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

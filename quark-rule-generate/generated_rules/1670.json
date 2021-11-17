@@ -1,0 +1,18 @@
+{
+    "crime": "1670. Ljava/lang/StringBuilder;append->Ljava/lang/StringBuilder;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(D)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7488. Ljava/lang/Long;parseLong->Ljava/io/Closeable;close",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "parseLong",
+            "descriptor": "(Ljava/lang/String;)J"
+        },
+        {
+            "class": "Ljava/io/Closeable;",
+            "method": "close",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

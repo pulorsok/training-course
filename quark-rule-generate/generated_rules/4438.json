@@ -1,0 +1,18 @@
+{
+    "crime": "4438. Ljava/util/TreeMap;<init>->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/TreeMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

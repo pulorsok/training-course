@@ -1,0 +1,18 @@
+{
+    "crime": "3961. Ljava/util/Map;put->Ljava/lang/String;length",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

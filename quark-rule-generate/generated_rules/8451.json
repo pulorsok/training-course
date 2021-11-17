@@ -1,0 +1,18 @@
+{
+    "crime": "8451. Ljava/security/PublicKey;getEncoded->Ljava/util/List;addAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/PublicKey;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

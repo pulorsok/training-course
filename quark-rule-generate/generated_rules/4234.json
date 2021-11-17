@@ -1,0 +1,18 @@
+{
+    "crime": "4234. Ljava/util/Set;contains->Ljava/security/cert/Certificate;getEncoded",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Set;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/security/cert/Certificate;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

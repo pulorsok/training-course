@@ -1,0 +1,18 @@
+{
+    "crime": "3377. Ljava/io/FileInputStream;<init>->Ljava/io/Closeable;close",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/FileInputStream;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/File;)V"
+        },
+        {
+            "class": "Ljava/io/Closeable;",
+            "method": "close",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

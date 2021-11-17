@@ -1,0 +1,18 @@
+{
+    "crime": "3894. Ljava/lang/Thread;holdsLock->Ljava/util/Collections;emptyList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "holdsLock",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "emptyList",
+            "descriptor": "()Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

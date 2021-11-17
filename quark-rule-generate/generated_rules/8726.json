@@ -1,0 +1,18 @@
+{
+    "crime": "8726. Lorg/json/JSONObject;getString->Landroid/content/Context;getContentResolver",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getString",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Landroid/content/Context;",
+            "method": "getContentResolver",
+            "descriptor": "()Landroid/content/ContentResolver;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

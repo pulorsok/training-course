@@ -1,0 +1,18 @@
+{
+    "crime": "1866. Ljava/lang/StringBuilder;append->Ljava/util/Arrays;asList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(I)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "asList",
+            "descriptor": "([Ljava/lang/Object;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

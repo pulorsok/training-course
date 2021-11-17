@@ -1,0 +1,18 @@
+{
+    "crime": "10228. Ljava/lang/String;charAt->Ljava/util/Map;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

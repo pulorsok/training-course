@@ -1,0 +1,18 @@
+{
+    "crime": "9942. Ljava/lang/String;indexOf->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(Ljava/lang/String;)I"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

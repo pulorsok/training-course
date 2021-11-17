@@ -1,0 +1,18 @@
+{
+    "crime": "1498. Ljava/lang/StringBuilder;<init>->Ljavax/net/ssl/SSLPeerUnverifiedException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLPeerUnverifiedException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

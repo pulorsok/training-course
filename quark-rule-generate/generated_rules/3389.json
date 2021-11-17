@@ -1,0 +1,18 @@
+{
+    "crime": "3389. Ljava/lang/System;arraycopy->Ljava/io/Closeable;close",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "arraycopy",
+            "descriptor": "(Ljava/lang/Object; I Ljava/lang/Object; I I)V"
+        },
+        {
+            "class": "Ljava/io/Closeable;",
+            "method": "close",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

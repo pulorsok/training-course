@@ -1,0 +1,18 @@
+{
+    "crime": "5470. Ljava/util/concurrent/ThreadPoolExecutor;<init>->Ljava/lang/Thread;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ThreadPoolExecutor;",
+            "method": "<init>",
+            "descriptor": "(I I J Ljava/util/concurrent/TimeUnit; Ljava/util/concurrent/BlockingQueue; Ljava/util/concurrent/ThreadFactory;)V"
+        },
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

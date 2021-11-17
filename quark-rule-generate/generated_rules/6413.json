@@ -1,0 +1,18 @@
+{
+    "crime": "6413. Ljava/lang/IllegalArgumentException;<init>->Ljavax/net/ssl/SSLPeerUnverifiedException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLPeerUnverifiedException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

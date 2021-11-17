@@ -1,0 +1,18 @@
+{
+    "crime": "4464. Ljava/util/TreeMap;<init>->Ljava/util/Arrays;asList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/TreeMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "asList",
+            "descriptor": "([Ljava/lang/Object;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

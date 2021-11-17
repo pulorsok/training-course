@@ -1,0 +1,18 @@
+{
+    "crime": "3595. Ljava/lang/System;nanoTime->Ljava/lang/Thread;holdsLock",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "nanoTime",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "holdsLock",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

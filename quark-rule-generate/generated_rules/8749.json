@@ -1,0 +1,18 @@
+{
+    "crime": "8749. Ljava/security/cert/X509Certificate;getSubjectAlternativeNames->Ljava/util/Iterator;next",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectAlternativeNames",
+            "descriptor": "()Ljava/util/Collection;"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

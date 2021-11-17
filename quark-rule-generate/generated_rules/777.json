@@ -1,0 +1,18 @@
+{
+    "crime": "777. Ljava/lang/String;toLowerCase->Ljava/lang/NullPointerException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toLowerCase",
+            "descriptor": "(Ljava/util/Locale;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

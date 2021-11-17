@@ -1,0 +1,18 @@
+{
+    "crime": "7582. Ljavax/net/ssl/SSLSession;getProtocol->Ljava/lang/String;hashCode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getProtocol",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

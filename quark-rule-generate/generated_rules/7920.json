@@ -1,0 +1,18 @@
+{
+    "crime": "7920. Ljavax/net/ssl/SSLSocket;startHandshake->Ljava/net/Socket;close",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "startHandshake",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "close",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "2032. Ljava/io/BufferedInputStream;<init>->Ljava/util/Iterator;next",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/BufferedInputStream;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/InputStream;)V"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

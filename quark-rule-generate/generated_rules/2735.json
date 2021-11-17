@@ -1,0 +1,18 @@
+{
+    "crime": "2735. Ljava/util/List;get->Ljava/util/concurrent/ConcurrentLinkedQueue;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

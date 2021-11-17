@@ -1,0 +1,18 @@
+{
+    "crime": "1125. Ljava/util/Iterator;hasNext->Ljava/util/Map$Entry;getKey",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getKey",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4944. Ljava/util/concurrent/ConcurrentMap;get->Ljava/security/cert/CertificateFactory;generateCertificate",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateFactory;",
+            "method": "generateCertificate",
+            "descriptor": "(Ljava/io/InputStream;)Ljava/security/cert/Certificate;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

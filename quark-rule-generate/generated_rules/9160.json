@@ -1,0 +1,18 @@
+{
+    "crime": "9160. Ljava/util/ArrayList;<init>->Ljava/net/ProxySelector;connectFailed",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "connectFailed",
+            "descriptor": "(Ljava/net/URI; Ljava/net/SocketAddress; Ljava/io/IOException;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

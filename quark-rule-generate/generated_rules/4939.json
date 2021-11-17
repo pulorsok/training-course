@@ -1,0 +1,18 @@
+{
+    "crime": "4939. Ljava/util/concurrent/ConcurrentMap;get->Ljava/net/URL;openConnection",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "openConnection",
+            "descriptor": "()Ljava/net/URLConnection;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6900. Ljava/net/URL;<init>->Ljava/util/concurrent/ConcurrentHashMap;putIfAbsent",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URL;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "putIfAbsent",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

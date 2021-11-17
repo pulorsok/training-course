@@ -1,0 +1,18 @@
+{
+    "crime": "465. Ljava/util/Date;<init>->Ljava/util/ArrayDeque;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Date;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

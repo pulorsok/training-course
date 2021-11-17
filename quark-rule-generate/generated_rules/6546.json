@@ -1,0 +1,18 @@
+{
+    "crime": "6546. Ljava/lang/IllegalStateException;<init>->Ljava/lang/String;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

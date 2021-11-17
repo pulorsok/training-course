@@ -1,0 +1,18 @@
+{
+    "crime": "387. Ljava/util/Collections;unmodifiableList->Ljava/lang/Integer;intValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "unmodifiableList",
+            "descriptor": "(Ljava/util/List;)Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "intValue",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

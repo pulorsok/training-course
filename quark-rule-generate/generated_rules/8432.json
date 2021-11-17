@@ -1,0 +1,18 @@
+{
+    "crime": "8432. Ljava/security/PublicKey;getEncoded->Ljava/lang/Integer;intValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/PublicKey;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "intValue",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

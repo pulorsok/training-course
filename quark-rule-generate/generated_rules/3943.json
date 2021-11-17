@@ -1,0 +1,18 @@
+{
+    "crime": "3943. Ljava/io/IOException;initCause->Ljava/lang/String;equalsIgnoreCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

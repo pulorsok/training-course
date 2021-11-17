@@ -1,0 +1,18 @@
+{
+    "crime": "1198. Ljava/util/Iterator;next->Ljava/lang/String;regionMatches",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "regionMatches",
+            "descriptor": "(Z I Ljava/lang/String; I I)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

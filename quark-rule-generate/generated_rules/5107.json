@@ -1,0 +1,18 @@
+{
+    "crime": "5107. Ljava/net/HttpURLConnection;getInputStream->Ljava/lang/StringBuilder;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getInputStream",
+            "descriptor": "()Ljava/io/InputStream;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

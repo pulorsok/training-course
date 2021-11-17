@@ -1,0 +1,18 @@
+{
+    "crime": "9527. Ljava/lang/String;equalsIgnoreCase->Ljava/util/concurrent/TimeUnit;toMillis",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toMillis",
+            "descriptor": "(J)J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "886. Ljava/lang/String;trim->Ljava/lang/String;equalsIgnoreCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "trim",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

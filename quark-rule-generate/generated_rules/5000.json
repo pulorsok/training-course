@@ -1,0 +1,18 @@
+{
+    "crime": "5000. Ljava/net/HttpURLConnection;getContentType->Ljava/io/BufferedInputStream;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getContentType",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/io/BufferedInputStream;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/InputStream;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

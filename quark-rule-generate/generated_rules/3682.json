@@ -1,0 +1,18 @@
+{
+    "crime": "3682. Ljava/util/Map;entrySet->Ljava/util/ArrayList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "entrySet",
+            "descriptor": "()Ljava/util/Set;"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

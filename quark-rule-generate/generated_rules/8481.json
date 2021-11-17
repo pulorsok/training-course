@@ -1,0 +1,18 @@
+{
+    "crime": "8481. Ljava/lang/NumberFormatException;getMessage->Ljava/security/cert/CertificateFactory;generateCertificate",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NumberFormatException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateFactory;",
+            "method": "generateCertificate",
+            "descriptor": "(Ljava/io/InputStream;)Ljava/security/cert/Certificate;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4900. Ljava/lang/AssertionError;<init>->Ljava/util/List;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Object;)V"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

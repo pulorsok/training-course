@@ -1,0 +1,18 @@
+{
+    "crime": "2646. Ljava/util/List;get->Ljava/lang/Integer;intValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "intValue",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

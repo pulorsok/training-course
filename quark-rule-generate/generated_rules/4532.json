@@ -1,0 +1,18 @@
+{
+    "crime": "4532. Ljava/lang/ArrayIndexOutOfBoundsException;<init>->Ljava/io/EOFException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/ArrayIndexOutOfBoundsException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/io/EOFException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

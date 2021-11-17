@@ -1,0 +1,18 @@
+{
+    "crime": "7674. Ljava/nio/ByteBuffer;limit->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "limit",
+            "descriptor": "(I)Ljava/nio/Buffer;"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

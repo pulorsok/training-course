@@ -1,0 +1,18 @@
+{
+    "crime": "3095. Ljava/io/File;listFiles->Ljava/io/IOException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "listFiles",
+            "descriptor": "()[Ljava/io/File;"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

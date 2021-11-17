@@ -1,0 +1,18 @@
+{
+    "crime": "8850. Ljava/text/DateFormat;parse->Ljava/lang/Math;min",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "parse",
+            "descriptor": "(Ljava/lang/String; Ljava/text/ParsePosition;)Ljava/util/Date;"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(J J)J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

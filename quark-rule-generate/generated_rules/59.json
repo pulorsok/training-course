@@ -1,0 +1,18 @@
+{
+    "crime": "59. Ljava/util/Collection;toArray->Ljava/lang/Object;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collection;",
+            "method": "toArray",
+            "descriptor": "([Ljava/lang/Object;)[Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

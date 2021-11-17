@@ -1,0 +1,18 @@
+{
+    "crime": "1182. Ljava/util/Iterator;next->Ljava/lang/Object;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

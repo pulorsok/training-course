@@ -1,0 +1,18 @@
+{
+    "crime": "3020. Ljava/io/File;getName->Ljava/lang/Object;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "getName",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

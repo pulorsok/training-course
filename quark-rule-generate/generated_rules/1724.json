@@ -1,0 +1,18 @@
+{
+    "crime": "1724. Ljava/util/LinkedHashMap;size->Ljava/lang/String;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7383. Ljava/lang/Integer;valueOf->Lorg/json/JSONObject;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/Integer;"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

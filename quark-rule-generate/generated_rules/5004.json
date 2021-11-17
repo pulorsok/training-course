@@ -1,0 +1,18 @@
+{
+    "crime": "5004. Ljava/net/HttpURLConnection;getContentType->Ljava/io/BufferedReader;readLine",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getContentType",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/io/BufferedReader;",
+            "method": "readLine",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "1718. Ljava/util/LinkedHashMap;size->Ljava/lang/NumberFormatException;getMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/NumberFormatException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

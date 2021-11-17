@@ -1,0 +1,18 @@
+{
+    "crime": "3917. Ljava/io/IOException;getMessage->Ljava/lang/String;regionMatches",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "regionMatches",
+            "descriptor": "(Z I Ljava/lang/String; I I)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

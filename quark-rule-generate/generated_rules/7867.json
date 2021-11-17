@@ -1,0 +1,18 @@
+{
+    "crime": "7867. Ljava/nio/ByteBuffer;remaining->Ljava/lang/String;length",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "remaining",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7792. Ljavax/net/ssl/SSLSocket;getSession->Ljava/net/Socket;getInputStream",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getSession",
+            "descriptor": "()Ljavax/net/ssl/SSLSession;"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getInputStream",
+            "descriptor": "()Ljava/io/InputStream;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

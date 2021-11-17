@@ -1,0 +1,18 @@
+{
+    "crime": "5811. Ljava/util/logging/Logger;log->Lorg/json/JSONObject;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "log",
+            "descriptor": "(Ljava/util/logging/Level; Ljava/lang/String; Ljava/lang/Throwable;)V"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

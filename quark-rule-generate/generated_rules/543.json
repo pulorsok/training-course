@@ -1,0 +1,18 @@
+{
+    "crime": "543. Ljava/lang/String;substring->Ljava/util/List;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

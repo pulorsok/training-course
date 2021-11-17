@@ -1,0 +1,18 @@
+{
+    "crime": "1212. Ljava/util/Iterator;next->Ljava/lang/ref/Reference;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/ref/Reference;",
+            "method": "get",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

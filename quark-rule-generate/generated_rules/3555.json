@@ -1,0 +1,18 @@
+{
+    "crime": "3555. Ljava/util/Map$Entry;getValue->Ljava/lang/StringBuilder;append",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getValue",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

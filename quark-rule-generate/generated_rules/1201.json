@@ -1,0 +1,18 @@
+{
+    "crime": "1201. Ljava/util/Iterator;next->Ljava/lang/String;substring",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

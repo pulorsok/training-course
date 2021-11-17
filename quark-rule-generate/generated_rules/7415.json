@@ -1,0 +1,18 @@
+{
+    "crime": "7415. Ljavax/net/ssl/SSLSession;getCipherSuite->Ljava/lang/String;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getCipherSuite",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "5669. Ljava/net/Proxy;address->Ljava/util/List;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "address",
+            "descriptor": "()Ljava/net/SocketAddress;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4055. Ljava/util/Map;values->Ljava/util/logging/Logger;isLoggable",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "values",
+            "descriptor": "()Ljava/util/Collection;"
+        },
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "isLoggable",
+            "descriptor": "(Ljava/util/logging/Level;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

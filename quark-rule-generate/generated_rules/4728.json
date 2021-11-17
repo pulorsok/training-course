@@ -1,0 +1,18 @@
+{
+    "crime": "4728. Ljava/lang/AssertionError;<init>->Ljava/lang/String;hashCode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

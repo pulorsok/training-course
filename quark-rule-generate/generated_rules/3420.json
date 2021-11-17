@@ -1,0 +1,18 @@
+{
+    "crime": "3420. Ljava/lang/System;arraycopy->Ljava/nio/ByteBuffer;asReadOnlyBuffer",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "arraycopy",
+            "descriptor": "(Ljava/lang/Object; I Ljava/lang/Object; I I)V"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "asReadOnlyBuffer",
+            "descriptor": "()Ljava/nio/ByteBuffer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "5307. Ljava/net/HttpURLConnection;setRequestMethod->Ljavax/net/ssl/SSLContext;getSocketFactory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setRequestMethod",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "getSocketFactory",
+            "descriptor": "()Ljavax/net/ssl/SSLSocketFactory;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

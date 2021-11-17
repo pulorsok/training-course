@@ -1,0 +1,18 @@
+{
+    "crime": "5813. Ljava/lang/Exception;printStackTrace->Ljava/lang/Boolean;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Exception;",
+            "method": "printStackTrace",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Boolean;",
+            "method": "valueOf",
+            "descriptor": "(Z)Ljava/lang/Boolean;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "3512. Ljava/util/Map$Entry;getKey->Ljava/lang/IllegalStateException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getKey",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

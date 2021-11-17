@@ -1,0 +1,18 @@
+{
+    "crime": "3884. Ljava/lang/Thread;holdsLock->Ljava/net/Proxy;type",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "holdsLock",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "type",
+            "descriptor": "()Ljava/net/Proxy$Type;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

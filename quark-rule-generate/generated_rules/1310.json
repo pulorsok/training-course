@@ -1,0 +1,18 @@
+{
+    "crime": "1310. Ljava/lang/StringBuilder;<init>->Ljava/lang/AssertionError;getCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "getCause",
+            "descriptor": "()Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

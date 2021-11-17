@@ -1,0 +1,18 @@
+{
+    "crime": "1119. Ljava/util/Iterator;hasNext->Ljava/util/List;contains",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

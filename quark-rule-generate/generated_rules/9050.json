@@ -1,0 +1,18 @@
+{
+    "crime": "9050. Ljava/lang/String;contains->Ljava/util/Iterator;hasNext",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/CharSequence;)Z"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

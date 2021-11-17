@@ -1,0 +1,18 @@
+{
+    "crime": "9732. Ljava/util/Arrays;toString->Ljava/io/IOException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "toString",
+            "descriptor": "([Ljava/lang/Object;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

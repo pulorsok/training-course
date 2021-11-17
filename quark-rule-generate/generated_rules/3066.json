@@ -1,0 +1,18 @@
+{
+    "crime": "3066. Ljava/io/File;isDirectory->Ljava/io/File;delete",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "isDirectory",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "delete",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

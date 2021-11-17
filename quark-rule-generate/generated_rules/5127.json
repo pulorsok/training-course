@@ -1,0 +1,18 @@
+{
+    "crime": "5127. Ljava/net/HttpURLConnection;getOutputStream->Ljava/io/OutputStream;flush",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getOutputStream",
+            "descriptor": "()Ljava/io/OutputStream;"
+        },
+        {
+            "class": "Ljava/io/OutputStream;",
+            "method": "flush",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

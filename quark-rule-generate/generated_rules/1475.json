@@ -1,0 +1,18 @@
+{
+    "crime": "1475. Ljava/lang/StringBuilder;<init>->Ljava/util/concurrent/ConcurrentHashMap;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

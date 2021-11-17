@@ -1,0 +1,18 @@
+{
+    "crime": "10106. Ljava/lang/String;isEmpty->Ljava/net/ProxySelector;select",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "select",
+            "descriptor": "(Ljava/net/URI;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "1. Ljava/util/Calendar;setLenient->Ljava/lang/String;charAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Calendar;",
+            "method": "setLenient",
+            "descriptor": "(Z)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

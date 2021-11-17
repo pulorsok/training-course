@@ -1,0 +1,18 @@
+{
+    "crime": "7914. Ljavax/net/ssl/SSLSocket;startHandshake->Ljava/lang/String;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "startHandshake",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

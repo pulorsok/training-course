@@ -1,0 +1,18 @@
+{
+    "crime": "5422. Ljava/lang/Class;forName->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "forName",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6396. Ljava/lang/IllegalArgumentException;<init>->Ljava/util/Set;contains",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/Set;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

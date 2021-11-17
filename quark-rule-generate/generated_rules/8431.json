@@ -1,0 +1,18 @@
+{
+    "crime": "8431. Ljava/security/PublicKey;getEncoded->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/PublicKey;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

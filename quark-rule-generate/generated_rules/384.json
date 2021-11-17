@@ -1,0 +1,18 @@
+{
+    "crime": "384. Ljava/lang/String;startsWith->Ljavax/security/auth/x500/X500Principal;getName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "startsWith",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljavax/security/auth/x500/X500Principal;",
+            "method": "getName",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

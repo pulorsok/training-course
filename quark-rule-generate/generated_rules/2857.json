@@ -1,0 +1,18 @@
+{
+    "crime": "2857. Ljava/util/List;isEmpty->Ljava/lang/String;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

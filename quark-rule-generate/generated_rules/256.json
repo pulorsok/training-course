@@ -1,0 +1,18 @@
+{
+    "crime": "256. Ljava/util/Collections;emptyList->Ljava/util/regex/Matcher;start",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "emptyList",
+            "descriptor": "()Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "start",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

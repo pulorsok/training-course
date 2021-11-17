@@ -1,0 +1,18 @@
+{
+    "crime": "6752. Ljava/net/URI;toString->Ljava/util/List;addAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "2124. Ljava/lang/StringBuilder;append->Ljava/util/Map;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "3649. Ljava/util/Map;entrySet->Ljava/lang/RuntimeException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "entrySet",
+            "descriptor": "()Ljava/util/Set;"
+        },
+        {
+            "class": "Ljava/lang/RuntimeException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Throwable;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

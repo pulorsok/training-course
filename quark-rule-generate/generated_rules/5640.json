@@ -1,0 +1,18 @@
+{
+    "crime": "5640. Ljava/net/ProtocolException;<init>->Ljava/util/Iterator;next",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProtocolException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

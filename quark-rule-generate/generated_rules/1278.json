@@ -1,0 +1,18 @@
+{
+    "crime": "1278. Ljava/util/Iterator;remove->Ljava/util/Iterator;next",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "remove",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

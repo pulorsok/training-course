@@ -1,0 +1,18 @@
+{
+    "crime": "408. Ljava/util/Collections;unmodifiableList->Ljava/util/regex/Matcher;group",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "unmodifiableList",
+            "descriptor": "(Ljava/util/List;)Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "group",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

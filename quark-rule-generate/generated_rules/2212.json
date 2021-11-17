@@ -1,0 +1,18 @@
+{
+    "crime": "2212. Ljava/util/List;add->Ljavax/net/ssl/SSLSocket;getEnabledCipherSuites",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getEnabledCipherSuites",
+            "descriptor": "()[Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

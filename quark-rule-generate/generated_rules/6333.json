@@ -1,0 +1,18 @@
+{
+    "crime": "6333. Ljava/lang/IllegalArgumentException;<init>->Ljava/lang/String;getBytes",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/nio/charset/Charset;)[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "10275. Ljava/lang/String;codePointAt->Ljava/lang/String;toUpperCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "codePointAt",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toUpperCase",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

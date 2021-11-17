@@ -1,0 +1,18 @@
+{
+    "crime": "7189. Ljava/net/URL;toURI->Ljava/util/regex/Pattern;matcher",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URL;",
+            "method": "toURI",
+            "descriptor": "()Ljava/net/URI;"
+        },
+        {
+            "class": "Ljava/util/regex/Pattern;",
+            "method": "matcher",
+            "descriptor": "(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

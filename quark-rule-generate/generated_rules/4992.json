@@ -1,0 +1,18 @@
+{
+    "crime": "4992. Ljava/lang/AssertionError;getCause->Ljava/net/Socket;setSoTimeout",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "getCause",
+            "descriptor": "()Ljava/lang/Throwable;"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "setSoTimeout",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

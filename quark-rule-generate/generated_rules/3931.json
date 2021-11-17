@@ -1,0 +1,18 @@
+{
+    "crime": "3931. Ljava/io/IOException;getMessage->Ljava/util/List;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

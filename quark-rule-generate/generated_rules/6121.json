@@ -1,0 +1,18 @@
+{
+    "crime": "6121. Ljava/util/regex/Matcher;region->Ljava/lang/String;trim",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "region",
+            "descriptor": "(I I)Ljava/util/regex/Matcher;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "trim",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

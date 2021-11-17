@@ -1,0 +1,18 @@
+{
+    "crime": "11027. Ljava/lang/Object;<init>->Ljavax/net/ssl/X509TrustManager;getAcceptedIssuers",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljavax/net/ssl/X509TrustManager;",
+            "method": "getAcceptedIssuers",
+            "descriptor": "()[Ljava/security/cert/X509Certificate;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4094. Ljava/util/NoSuchElementException;<init>->Ljava/net/Socket;getSoTimeout",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/NoSuchElementException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getSoTimeout",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

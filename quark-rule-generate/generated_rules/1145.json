@@ -1,0 +1,18 @@
+{
+    "crime": "1145. Ljava/util/Iterator;hasNext->Ljavax/net/ssl/SSLPeerUnverifiedException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLPeerUnverifiedException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

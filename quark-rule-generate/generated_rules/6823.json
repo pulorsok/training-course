@@ -1,0 +1,18 @@
+{
+    "crime": "6823. Ljava/lang/IllegalStateException;<init>->Ljava/security/cert/CertificateException;getMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

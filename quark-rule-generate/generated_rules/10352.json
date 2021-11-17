@@ -1,0 +1,18 @@
+{
+    "crime": "10352. Ljava/lang/String;length->Ljava/net/URL;toURI",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "toURI",
+            "descriptor": "()Ljava/net/URI;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

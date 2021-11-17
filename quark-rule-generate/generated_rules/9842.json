@@ -1,0 +1,18 @@
+{
+    "crime": "9842. Ljava/lang/Short;valueOf->Ljava/util/ArrayList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Short;",
+            "method": "valueOf",
+            "descriptor": "(S)Ljava/lang/Short;"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

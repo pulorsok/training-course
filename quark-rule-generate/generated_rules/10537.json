@@ -1,0 +1,18 @@
+{
+    "crime": "10537. Ljava/lang/Object;notifyAll->Ljava/util/Collection;toArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "notifyAll",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Collection;",
+            "method": "toArray",
+            "descriptor": "([Ljava/lang/Object;)[Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

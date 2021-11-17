@@ -1,0 +1,18 @@
+{
+    "crime": "1717. Ljava/util/LinkedHashMap;size->Ljava/lang/NullPointerException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

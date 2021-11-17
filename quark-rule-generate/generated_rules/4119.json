@@ -1,0 +1,18 @@
+{
+    "crime": "4119. Ljava/util/Queue;clear->Ljava/util/Queue;poll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Queue;",
+            "method": "clear",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Queue;",
+            "method": "poll",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

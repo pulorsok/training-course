@@ -1,0 +1,18 @@
+{
+    "crime": "3392. Ljava/lang/System;arraycopy->Ljava/io/RandomAccessFile;getChannel",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "arraycopy",
+            "descriptor": "(Ljava/lang/Object; I Ljava/lang/Object; I I)V"
+        },
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "getChannel",
+            "descriptor": "()Ljava/nio/channels/FileChannel;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

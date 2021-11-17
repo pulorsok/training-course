@@ -1,0 +1,18 @@
+{
+    "crime": "6050. Ljava/util/regex/Matcher;matches->Ljava/lang/String;endsWith",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "matches",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "endsWith",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

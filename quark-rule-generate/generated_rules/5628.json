@@ -1,0 +1,18 @@
+{
+    "crime": "5628. Ljava/net/ProtocolException;<init>->Ljava/lang/String;getBytes",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProtocolException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/nio/charset/Charset;)[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

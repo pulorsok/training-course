@@ -1,0 +1,18 @@
+{
+    "crime": "3672. Ljava/util/Map;entrySet->Ljava/net/HttpURLConnection;addRequestProperty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "entrySet",
+            "descriptor": "()Ljava/util/Set;"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "addRequestProperty",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

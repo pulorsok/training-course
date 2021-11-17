@@ -1,0 +1,18 @@
+{
+    "crime": "2355. Ljava/util/List;contains->Ljava/util/List;remove",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "remove",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

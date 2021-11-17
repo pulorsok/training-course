@@ -1,0 +1,18 @@
+{
+    "crime": "8884. Ljava/text/DateFormat;setTimeZone->Ljava/lang/IllegalStateException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "setTimeZone",
+            "descriptor": "(Ljava/util/TimeZone;)V"
+        },
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "11013. Ljava/lang/Object;<init>->Ljava/util/regex/Matcher;lookingAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "lookingAt",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

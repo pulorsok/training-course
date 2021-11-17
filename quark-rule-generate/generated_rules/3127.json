@@ -1,0 +1,18 @@
+{
+    "crime": "3127. Ljava/lang/StringBuilder;toString->Ljava/lang/AssertionError;initCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

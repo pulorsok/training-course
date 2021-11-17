@@ -1,0 +1,18 @@
+{
+    "crime": "4450. Ljava/util/TreeMap;<init>->Ljava/lang/String;substring",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/TreeMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

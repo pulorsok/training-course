@@ -1,0 +1,18 @@
+{
+    "crime": "6639. Ljava/net/URI;getRawFragment->Ljava/util/concurrent/ConcurrentHashMap;containsKey",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getRawFragment",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "containsKey",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

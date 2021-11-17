@@ -1,0 +1,18 @@
+{
+    "crime": "3916. Ljava/io/IOException;getMessage->Ljava/lang/String;length",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

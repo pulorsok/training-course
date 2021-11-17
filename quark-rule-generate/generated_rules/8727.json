@@ -1,0 +1,18 @@
+{
+    "crime": "8727. Ljava/security/cert/X509Certificate;getSubjectAlternativeNames->Ljava/lang/String;substring",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectAlternativeNames",
+            "descriptor": "()Ljava/util/Collection;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

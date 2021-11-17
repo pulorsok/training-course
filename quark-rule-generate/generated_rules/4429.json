@@ -1,0 +1,18 @@
+{
+    "crime": "4429. Ljava/math/BigDecimal;multiply->Ljava/math/BigInteger;subtract",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigDecimal;",
+            "method": "multiply",
+            "descriptor": "(Ljava/math/BigDecimal;)Ljava/math/BigDecimal;"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "subtract",
+            "descriptor": "(Ljava/math/BigInteger;)Ljava/math/BigInteger;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

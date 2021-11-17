@@ -1,0 +1,18 @@
+{
+    "crime": "2754. Ljava/util/List;hashCode->Ljava/net/Proxy;hashCode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

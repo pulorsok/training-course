@@ -1,0 +1,18 @@
+{
+    "crime": "5145. Ljava/lang/Byte;valueOf->Ljava/io/IOException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Byte;",
+            "method": "valueOf",
+            "descriptor": "(B)Ljava/lang/Byte;"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

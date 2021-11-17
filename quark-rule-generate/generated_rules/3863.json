@@ -1,0 +1,18 @@
+{
+    "crime": "3863. Ljava/io/IOException;getCause->Ljavax/net/SocketFactory;createSocket",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "getCause",
+            "descriptor": "()Ljava/lang/Throwable;"
+        },
+        {
+            "class": "Ljavax/net/SocketFactory;",
+            "method": "createSocket",
+            "descriptor": "()Ljava/net/Socket;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

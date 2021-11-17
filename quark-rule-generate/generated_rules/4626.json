@@ -1,0 +1,18 @@
+{
+    "crime": "4626. Ljava/util/concurrent/ConcurrentHashMap;containsKey->Ljava/util/HashSet;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "containsKey",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/util/HashSet;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

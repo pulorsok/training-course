@@ -1,0 +1,18 @@
+{
+    "crime": "4405. Ljava/math/BigDecimal;<init>->Ljava/lang/Math;floor",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigDecimal;",
+            "method": "<init>",
+            "descriptor": "(Ljava/math/BigInteger;)V"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "floor",
+            "descriptor": "(D)D"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

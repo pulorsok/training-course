@@ -1,0 +1,18 @@
+{
+    "crime": "1215. Ljava/util/Iterator;next->Ljava/net/HttpURLConnection;getInputStream",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getInputStream",
+            "descriptor": "()Ljava/io/InputStream;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

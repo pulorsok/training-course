@@ -1,0 +1,18 @@
+{
+    "crime": "10263. Ljava/lang/String;codePointAt->Ljava/lang/Math;min",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "codePointAt",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(I I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

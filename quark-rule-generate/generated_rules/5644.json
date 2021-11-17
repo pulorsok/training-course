@@ -1,0 +1,18 @@
+{
+    "crime": "5644. Ljava/net/ProtocolException;<init>->Ljava/util/concurrent/ScheduledFuture;cancel",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProtocolException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledFuture;",
+            "method": "cancel",
+            "descriptor": "(Z)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

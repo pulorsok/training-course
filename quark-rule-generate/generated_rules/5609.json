@@ -1,0 +1,18 @@
+{
+    "crime": "5609. Ljava/lang/Class;isAssignableFrom->Ljava/lang/reflect/InvocationTargetException;getTargetException",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "isAssignableFrom",
+            "descriptor": "(Ljava/lang/Class;)Z"
+        },
+        {
+            "class": "Ljava/lang/reflect/InvocationTargetException;",
+            "method": "getTargetException",
+            "descriptor": "()Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

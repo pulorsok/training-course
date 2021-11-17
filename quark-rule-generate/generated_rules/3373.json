@@ -1,0 +1,18 @@
+{
+    "crime": "3373. Ljava/util/List;size->Lorg/json/JSONObject;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; I)Lorg/json/JSONObject;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

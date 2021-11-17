@@ -1,0 +1,18 @@
+{
+    "crime": "10732. Ljava/lang/Object;getClass->Ljava/lang/reflect/Method;getModifiers",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "getModifiers",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

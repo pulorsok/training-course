@@ -1,0 +1,18 @@
+{
+    "crime": "6054. Ljava/lang/IllegalArgumentException;<init>->Ljava/util/Calendar;setLenient",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Calendar;",
+            "method": "setLenient",
+            "descriptor": "(Z)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

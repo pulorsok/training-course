@@ -1,0 +1,18 @@
+{
+    "crime": "8304. Ljava/security/MessageDigest;update->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/MessageDigest;",
+            "method": "update",
+            "descriptor": "([B I I)V"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

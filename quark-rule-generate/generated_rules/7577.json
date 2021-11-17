@@ -1,0 +1,18 @@
+{
+    "crime": "7577. Ljavax/net/ssl/SSLSession;getProtocol->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getProtocol",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7597. Ljavax/net/ssl/SSLSession;getProtocol->Ljava/util/Iterator;hasNext",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getProtocol",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

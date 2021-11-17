@@ -1,0 +1,18 @@
+{
+    "crime": "8934. Lorg/json/JSONTokener;<init>->Lorg/json/JSONTokener;nextValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONTokener;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Lorg/json/JSONTokener;",
+            "method": "nextValue",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

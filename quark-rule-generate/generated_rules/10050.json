@@ -1,0 +1,18 @@
+{
+    "crime": "10050. Ljava/lang/String;<init>->Ljava/security/cert/CertificateFactory;generateCertificate",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([C)V"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateFactory;",
+            "method": "generateCertificate",
+            "descriptor": "(Ljava/io/InputStream;)Ljava/security/cert/Certificate;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

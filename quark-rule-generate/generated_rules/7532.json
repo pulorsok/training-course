@@ -1,0 +1,18 @@
+{
+    "crime": "7532. Ljavax/net/ssl/SSLSession;getPeerCertificates->Ljava/util/Collections;unmodifiableList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getPeerCertificates",
+            "descriptor": "()[Ljava/security/cert/Certificate;"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "unmodifiableList",
+            "descriptor": "(Ljava/util/List;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

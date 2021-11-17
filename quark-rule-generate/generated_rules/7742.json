@@ -1,0 +1,18 @@
+{
+    "crime": "7742. Ljava/lang/Long;valueOf->Ljava/util/concurrent/ScheduledExecutorService;schedule",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "valueOf",
+            "descriptor": "(J)Ljava/lang/Long;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledExecutorService;",
+            "method": "schedule",
+            "descriptor": "(Ljava/lang/Runnable; J Ljava/util/concurrent/TimeUnit;)Ljava/util/concurrent/ScheduledFuture;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

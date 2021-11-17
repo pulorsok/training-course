@@ -1,0 +1,18 @@
+{
+    "crime": "526. Ljava/lang/String;substring->Ljava/net/MalformedURLException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/net/MalformedURLException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

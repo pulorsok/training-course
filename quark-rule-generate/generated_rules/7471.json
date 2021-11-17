@@ -1,0 +1,18 @@
+{
+    "crime": "7471. Ljavax/net/ssl/SSLSession;getLocalCertificates->Ljava/security/cert/X509Certificate;getSubjectAlternativeNames",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getLocalCertificates",
+            "descriptor": "()[Ljava/security/cert/Certificate;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectAlternativeNames",
+            "descriptor": "()Ljava/util/Collection;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

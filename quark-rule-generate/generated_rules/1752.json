@@ -1,0 +1,18 @@
+{
+    "crime": "1752. Ljava/util/LinkedHashMap;values->Ljava/util/Iterator;remove",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "values",
+            "descriptor": "()Ljava/util/Collection;"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "remove",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

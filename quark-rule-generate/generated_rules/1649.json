@@ -1,0 +1,18 @@
+{
+    "crime": "1649. Ljava/lang/StringBuilder;append->Ljava/util/zip/Inflater;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(C)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/util/zip/Inflater;",
+            "method": "<init>",
+            "descriptor": "(Z)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

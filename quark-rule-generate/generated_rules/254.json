@@ -1,0 +1,18 @@
+{
+    "crime": "254. Ljava/util/Collections;emptyList->Ljava/util/regex/Matcher;find",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "emptyList",
+            "descriptor": "()Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "find",
+            "descriptor": "(I)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

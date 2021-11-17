@@ -1,0 +1,18 @@
+{
+    "crime": "3473. Ljava/lang/System;currentTimeMillis->Ljava/lang/String;indexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "currentTimeMillis",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

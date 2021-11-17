@@ -1,0 +1,18 @@
+{
+    "crime": "764. Ljava/util/Deque;iterator->Ljava/util/concurrent/ExecutorService;execute",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ExecutorService;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

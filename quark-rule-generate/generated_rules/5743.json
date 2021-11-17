@@ -1,0 +1,18 @@
+{
+    "crime": "5743. Ljava/util/logging/Logger;fine->Ljavax/net/ssl/SSLContext;getSocketFactory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "getSocketFactory",
+            "descriptor": "()Ljavax/net/ssl/SSLSocketFactory;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

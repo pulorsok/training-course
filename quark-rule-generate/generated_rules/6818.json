@@ -1,0 +1,18 @@
+{
+    "crime": "6818. Ljava/lang/IllegalStateException;<init>->Ljava/security/Principal;getName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/security/Principal;",
+            "method": "getName",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

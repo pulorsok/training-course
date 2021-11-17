@@ -1,0 +1,18 @@
+{
+    "crime": "363. Ljava/lang/String;startsWith->Ljava/security/cert/X509Certificate;getSubjectDN",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "startsWith",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectDN",
+            "descriptor": "()Ljava/security/Principal;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

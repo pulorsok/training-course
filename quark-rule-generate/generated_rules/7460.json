@@ -1,0 +1,18 @@
+{
+    "crime": "7460. Ljavax/net/ssl/SSLSession;getLocalCertificates->Ljava/lang/Integer;intValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getLocalCertificates",
+            "descriptor": "()[Ljava/security/cert/Certificate;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "intValue",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8690. Lorg/json/JSONObject;getLong->Ljava/util/Arrays;asList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getLong",
+            "descriptor": "(Ljava/lang/String;)J"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "asList",
+            "descriptor": "([Ljava/lang/Object;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

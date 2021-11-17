@@ -1,0 +1,18 @@
+{
+    "crime": "2023. Ljava/io/BufferedInputStream;<init>->Ljava/lang/StringBuilder;append",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/BufferedInputStream;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/InputStream;)V"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

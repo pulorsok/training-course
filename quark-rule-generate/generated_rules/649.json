@@ -1,0 +1,18 @@
+{
+    "crime": "649. Ljava/lang/String;substring->Ljava/util/concurrent/ConcurrentMap;putIfAbsent",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "putIfAbsent",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "661. Ljava/util/Date;getTime->Ljava/lang/NullPointerException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Date;",
+            "method": "getTime",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6175. Ljava/net/Socket;getInputStream->Ljava/net/Socket;getOutputStream",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getInputStream",
+            "descriptor": "()Ljava/io/InputStream;"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getOutputStream",
+            "descriptor": "()Ljava/io/OutputStream;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

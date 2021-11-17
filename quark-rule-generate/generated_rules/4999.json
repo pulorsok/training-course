@@ -1,0 +1,18 @@
+{
+    "crime": "4999. Ljava/util/concurrent/ConcurrentMap;putIfAbsent->Ljava/lang/NullPointerException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "putIfAbsent",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

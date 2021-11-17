@@ -1,0 +1,18 @@
+{
+    "crime": "1122. Ljava/util/Iterator;hasNext->Ljava/util/List;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

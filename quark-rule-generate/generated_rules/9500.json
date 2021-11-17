@@ -1,0 +1,18 @@
+{
+    "crime": "9500. Ljava/lang/String;equalsIgnoreCase->Ljava/lang/System;arraycopy",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "arraycopy",
+            "descriptor": "(Ljava/lang/Object; I Ljava/lang/Object; I I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

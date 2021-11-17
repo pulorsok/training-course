@@ -1,0 +1,18 @@
+{
+    "crime": "7739. Ljava/lang/Long;valueOf->Ljava/util/concurrent/CountDownLatch;countDown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "valueOf",
+            "descriptor": "(J)Ljava/lang/Long;"
+        },
+        {
+            "class": "Ljava/util/concurrent/CountDownLatch;",
+            "method": "countDown",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

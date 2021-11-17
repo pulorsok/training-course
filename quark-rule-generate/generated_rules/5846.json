@@ -1,0 +1,18 @@
+{
+    "crime": "5846. Ljava/net/Proxy;type->Ljava/net/URI;create",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "type",
+            "descriptor": "()Ljava/net/Proxy$Type;"
+        },
+        {
+            "class": "Ljava/net/URI;",
+            "method": "create",
+            "descriptor": "(Ljava/lang/String;)Ljava/net/URI;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

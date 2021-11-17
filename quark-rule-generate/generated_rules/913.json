@@ -1,0 +1,18 @@
+{
+    "crime": "913. Ljava/lang/String;trim->Ljava/util/concurrent/TimeUnit;toMillis",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "trim",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toMillis",
+            "descriptor": "(J)J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

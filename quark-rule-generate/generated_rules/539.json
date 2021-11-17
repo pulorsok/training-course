@@ -1,0 +1,18 @@
+{
+    "crime": "539. Ljava/lang/String;substring->Ljava/util/List;addAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

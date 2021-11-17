@@ -1,0 +1,18 @@
+{
+    "crime": "5809. Ljava/util/logging/Logger;log->Ljava/util/concurrent/ConcurrentMap;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "log",
+            "descriptor": "(Ljava/util/logging/Level; Ljava/lang/String; Ljava/lang/Throwable;)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8222. Ljavax/security/auth/x500/X500Principal;getName->Ljava/lang/String;toCharArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/security/auth/x500/X500Principal;",
+            "method": "getName",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toCharArray",
+            "descriptor": "()[C"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

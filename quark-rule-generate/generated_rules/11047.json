@@ -1,0 +1,18 @@
+{
+    "crime": "11047. Ljava/lang/Object;clone->Ljava/util/Arrays;asList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "clone",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "asList",
+            "descriptor": "([Ljava/lang/Object;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "3193. Ljava/lang/StringBuilder;toString->Ljava/net/ProxySelector;select",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "select",
+            "descriptor": "(Ljava/net/URI;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

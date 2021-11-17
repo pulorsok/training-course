@@ -1,0 +1,18 @@
+{
+    "crime": "8237. Ljava/lang/NullPointerException;<init>->Ljavax/net/ssl/SSLSession;getLocalCertificates",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getLocalCertificates",
+            "descriptor": "()[Ljava/security/cert/Certificate;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6865. Ljava/lang/IllegalStateException;<init>->Ljava/util/concurrent/TimeUnit;toNanos",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toNanos",
+            "descriptor": "(J)J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

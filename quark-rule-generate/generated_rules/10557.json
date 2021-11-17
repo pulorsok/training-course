@@ -1,0 +1,18 @@
+{
+    "crime": "10557. Ljava/lang/Runnable;run->Ljava/util/Collection;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Runnable;",
+            "method": "run",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Collection;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

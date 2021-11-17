@@ -1,0 +1,18 @@
+{
+    "crime": "3604. Ljava/lang/System;nanoTime->Ljava/util/Collections;emptyList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "nanoTime",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "emptyList",
+            "descriptor": "()Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7010. Ljavax/net/SocketFactory;getDefault->Ljava/lang/String;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/SocketFactory;",
+            "method": "getDefault",
+            "descriptor": "()Ljavax/net/SocketFactory;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "9191. Ljava/util/ArrayList;<init>->Ljava/util/Date;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Date;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

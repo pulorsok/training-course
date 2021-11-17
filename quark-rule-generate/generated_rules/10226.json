@@ -1,0 +1,18 @@
+{
+    "crime": "10226. Ljava/lang/String;charAt->Ljava/util/List;remove",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "remove",
+            "descriptor": "(I)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

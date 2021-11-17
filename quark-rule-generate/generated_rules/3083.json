@@ -1,0 +1,18 @@
+{
+    "crime": "3083. Ljava/io/File;length->Ljava/io/FileInputStream;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "length",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/io/FileInputStream;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/File;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

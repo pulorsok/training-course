@@ -1,0 +1,18 @@
+{
+    "crime": "5625. Ljava/net/ProtocolException;<init>->Ljava/lang/String;contains",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProtocolException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/CharSequence;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

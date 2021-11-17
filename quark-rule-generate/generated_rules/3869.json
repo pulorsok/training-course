@@ -1,0 +1,18 @@
+{
+    "crime": "3869. Ljava/lang/Thread;holdsLock->Ljava/lang/Long;parseLong",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "holdsLock",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "parseLong",
+            "descriptor": "(Ljava/lang/String;)J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

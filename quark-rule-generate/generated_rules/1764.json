@@ -1,0 +1,18 @@
+{
+    "crime": "1764. Ljava/util/LinkedHashSet;<init>->Ljava/util/Collections;unmodifiableSet",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedHashSet;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "unmodifiableSet",
+            "descriptor": "(Ljava/util/Set;)Ljava/util/Set;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

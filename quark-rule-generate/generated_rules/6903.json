@@ -1,0 +1,18 @@
+{
+    "crime": "6903. Ljava/net/URL;<init>->Ljavax/net/ssl/HttpsURLConnection;setSSLSocketFactory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URL;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/HttpsURLConnection;",
+            "method": "setSSLSocketFactory",
+            "descriptor": "(Ljavax/net/ssl/SSLSocketFactory;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

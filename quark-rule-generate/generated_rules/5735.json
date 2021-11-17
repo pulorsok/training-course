@@ -1,0 +1,18 @@
+{
+    "crime": "5735. Ljava/util/logging/Logger;fine->Ljava/util/concurrent/ConcurrentHashMap;containsKey",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "containsKey",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

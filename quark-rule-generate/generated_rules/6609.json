@@ -1,0 +1,18 @@
+{
+    "crime": "6609. Ljava/net/URI;getPort->Ljava/net/URL;getProtocol",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getPort",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "getProtocol",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

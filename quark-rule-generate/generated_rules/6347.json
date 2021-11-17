@@ -1,0 +1,18 @@
+{
+    "crime": "6347. Ljava/lang/IllegalArgumentException;<init>->Ljava/lang/System;currentTimeMillis",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "currentTimeMillis",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

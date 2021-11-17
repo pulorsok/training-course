@@ -1,0 +1,18 @@
+{
+    "crime": "8006. Ljavax/net/ssl/SSLSocketFactory;createSocket->Ljava/lang/Integer;intValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocketFactory;",
+            "method": "createSocket",
+            "descriptor": "(Ljava/net/Socket; Ljava/lang/String; I Z)Ljava/net/Socket;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "intValue",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

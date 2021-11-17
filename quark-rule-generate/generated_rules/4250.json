@@ -1,0 +1,18 @@
+{
+    "crime": "4250. Ljava/lang/reflect/InvocationTargetException;getTargetException->Ljava/lang/String;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/InvocationTargetException;",
+            "method": "getTargetException",
+            "descriptor": "()Ljava/lang/Throwable;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([B Ljava/nio/charset/Charset;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

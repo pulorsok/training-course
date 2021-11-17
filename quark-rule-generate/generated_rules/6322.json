@@ -1,0 +1,18 @@
+{
+    "crime": "6322. Ljava/lang/IllegalArgumentException;<init>->Ljava/lang/Object;clone",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "clone",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

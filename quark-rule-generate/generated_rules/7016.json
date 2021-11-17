@@ -1,0 +1,18 @@
+{
+    "crime": "7016. Ljavax/net/SocketFactory;getDefault->Ljava/lang/StringBuilder;append",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/SocketFactory;",
+            "method": "getDefault",
+            "descriptor": "()Ljavax/net/SocketFactory;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "1144. Ljava/util/Iterator;hasNext->Ljava/util/regex/Pattern;matcher",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/regex/Pattern;",
+            "method": "matcher",
+            "descriptor": "(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "759. Ljava/util/Deque;iterator->Ljava/util/Iterator;remove",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "remove",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

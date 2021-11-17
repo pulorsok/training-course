@@ -1,0 +1,18 @@
+{
+    "crime": "10770. Ljava/lang/Object;<init>->Landroid/database/Cursor;moveToNext",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/database/Cursor;",
+            "method": "moveToNext",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "18. Ljava/lang/String;regionMatches->Ljava/lang/StringBuilder;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "regionMatches",
+            "descriptor": "(I Ljava/lang/String; I I)Z"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

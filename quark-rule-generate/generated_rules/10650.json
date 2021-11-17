@@ -1,0 +1,18 @@
+{
+    "crime": "10650. Ljava/util/ArrayDeque;<init>->Ljava/util/Map$Entry;getValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getValue",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

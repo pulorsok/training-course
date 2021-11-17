@@ -1,0 +1,18 @@
+{
+    "crime": "4507. Ljava/util/TreeSet;<init>->Ljava/util/Collections;unmodifiableSet",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/TreeSet;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "unmodifiableSet",
+            "descriptor": "(Ljava/util/Set;)Ljava/util/Set;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

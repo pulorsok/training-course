@@ -1,0 +1,18 @@
+{
+    "crime": "1261. Ljava/util/Iterator;next->Ljava/util/concurrent/ExecutorService;shutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ExecutorService;",
+            "method": "shutdown",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7005. Ljavax/net/SocketFactory;getDefault->Ljava/lang/NullPointerException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/SocketFactory;",
+            "method": "getDefault",
+            "descriptor": "()Ljavax/net/SocketFactory;"
+        },
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

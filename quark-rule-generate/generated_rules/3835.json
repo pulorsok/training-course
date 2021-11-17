@@ -1,0 +1,18 @@
+{
+    "crime": "3835. Ljava/util/Map;isEmpty->Ljava/util/Map;values",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "values",
+            "descriptor": "()Ljava/util/Collection;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

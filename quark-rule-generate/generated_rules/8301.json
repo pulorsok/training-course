@@ -1,0 +1,18 @@
+{
+    "crime": "8301. Ljava/security/MessageDigest;getInstance->Ljava/security/MessageDigest;digest",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/MessageDigest;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljava/security/MessageDigest;"
+        },
+        {
+            "class": "Ljava/security/MessageDigest;",
+            "method": "digest",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "3504. Ljava/lang/System;currentTimeMillis->Ljava/util/regex/Matcher;group",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "currentTimeMillis",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "group",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

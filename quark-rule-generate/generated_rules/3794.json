@@ -1,0 +1,18 @@
+{
+    "crime": "3794. Ljava/util/Map;get->Ljava/lang/Integer;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/Integer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

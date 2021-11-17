@@ -1,0 +1,18 @@
+{
+    "crime": "6547. Ljava/lang/IllegalStateException;<init>->Ljava/lang/String;equalsIgnoreCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "2272. Ljava/util/List;addAll->Ljava/util/Queue;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection;)Z"
+        },
+        {
+            "class": "Ljava/util/Queue;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

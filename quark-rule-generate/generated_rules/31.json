@@ -1,0 +1,18 @@
+{
+    "crime": "31. Ljava/util/Collection;iterator->Ljava/lang/String;lastIndexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collection;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "lastIndexOf",
+            "descriptor": "(I I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

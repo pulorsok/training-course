@@ -1,0 +1,18 @@
+{
+    "crime": "3722. Ljava/io/IOException;<init>->Ljava/lang/ref/WeakReference;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/ref/WeakReference;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Object;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

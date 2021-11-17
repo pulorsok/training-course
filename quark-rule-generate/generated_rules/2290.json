@@ -1,0 +1,18 @@
+{
+    "crime": "2290. Ljava/io/ByteArrayOutputStream;toByteArray->Ljava/lang/StringBuilder;append",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/ByteArrayOutputStream;",
+            "method": "toByteArray",
+            "descriptor": "()[B"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

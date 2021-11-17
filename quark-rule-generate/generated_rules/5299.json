@@ -1,0 +1,18 @@
+{
+    "crime": "5299. Ljava/net/HttpURLConnection;setRequestMethod->Ljava/util/Map$Entry;getValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setRequestMethod",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getValue",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

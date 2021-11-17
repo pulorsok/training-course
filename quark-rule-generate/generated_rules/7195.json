@@ -1,0 +1,18 @@
+{
+    "crime": "7195. Ljavax/net/ssl/HttpsURLConnection;setSSLSocketFactory->Ljava/util/LinkedList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/HttpsURLConnection;",
+            "method": "setSSLSocketFactory",
+            "descriptor": "(Ljavax/net/ssl/SSLSocketFactory;)V"
+        },
+        {
+            "class": "Ljava/util/LinkedList;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

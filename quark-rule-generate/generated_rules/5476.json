@@ -1,0 +1,18 @@
+{
+    "crime": "5476. Ljava/lang/Class;getConstructor->Ljava/lang/Class;getMethod",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "getConstructor",
+            "descriptor": "([Ljava/lang/Class;)Ljava/lang/reflect/Constructor;"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "getMethod",
+            "descriptor": "(Ljava/lang/String; [Ljava/lang/Class;)Ljava/lang/reflect/Method;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

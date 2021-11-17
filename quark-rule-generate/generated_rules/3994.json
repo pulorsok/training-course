@@ -1,0 +1,18 @@
+{
+    "crime": "3994. Ljava/util/Map;put->Ljava/util/concurrent/TimeUnit;toNanos",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toNanos",
+            "descriptor": "(J)J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

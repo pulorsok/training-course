@@ -1,0 +1,18 @@
+{
+    "crime": "7069. Ljavax/net/SocketFactory;getDefault->Ljavax/net/ssl/TrustManagerFactory;getDefaultAlgorithm",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/SocketFactory;",
+            "method": "getDefault",
+            "descriptor": "()Ljavax/net/SocketFactory;"
+        },
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "getDefaultAlgorithm",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

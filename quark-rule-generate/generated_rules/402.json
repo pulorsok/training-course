@@ -1,0 +1,18 @@
+{
+    "crime": "402. Ljava/util/Collections;unmodifiableList->Ljava/security/cert/X509Certificate;getSubjectDN",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "unmodifiableList",
+            "descriptor": "(Ljava/util/List;)Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectDN",
+            "descriptor": "()Ljava/security/Principal;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

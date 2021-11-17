@@ -1,0 +1,18 @@
+{
+    "crime": "1690. Ljava/util/LinkedHashMap;remove->Ljava/util/Collection;toArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "remove",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/Collection;",
+            "method": "toArray",
+            "descriptor": "([Ljava/lang/Object;)[Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

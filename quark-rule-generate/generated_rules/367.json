@@ -1,0 +1,18 @@
+{
+    "crime": "367. Ljava/lang/String;startsWith->Ljava/util/Arrays;fill",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "startsWith",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "fill",
+            "descriptor": "([B I I B)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

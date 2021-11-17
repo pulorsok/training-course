@@ -1,0 +1,18 @@
+{
+    "crime": "4540. Ljava/lang/ArrayIndexOutOfBoundsException;<init>->Ljava/lang/Long;numberOfTrailingZeros",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/ArrayIndexOutOfBoundsException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "numberOfTrailingZeros",
+            "descriptor": "(J)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

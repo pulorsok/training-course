@@ -1,0 +1,18 @@
+{
+    "crime": "8614. Lorg/json/JSONObject;<init>->Lorg/json/JSONObject;keys",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "keys",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

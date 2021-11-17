@@ -1,0 +1,18 @@
+{
+    "crime": "1229. Ljava/util/Iterator;next->Ljava/security/cert/X509Certificate;getPublicKey",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getPublicKey",
+            "descriptor": "()Ljava/security/PublicKey;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

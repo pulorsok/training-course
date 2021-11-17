@@ -1,0 +1,18 @@
+{
+    "crime": "1068. Ljava/util/Iterator;hasNext->Ljava/lang/String;indexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "3836. Ljava/util/Map;isEmpty->Ljava/util/concurrent/CountDownLatch;countDown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/concurrent/CountDownLatch;",
+            "method": "countDown",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

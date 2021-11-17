@@ -1,0 +1,18 @@
+{
+    "crime": "5767. Ljava/util/logging/Logger;isLoggable->Ljava/io/Closeable;close",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "isLoggable",
+            "descriptor": "(Ljava/util/logging/Level;)Z"
+        },
+        {
+            "class": "Ljava/io/Closeable;",
+            "method": "close",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

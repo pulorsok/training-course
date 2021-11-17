@@ -1,0 +1,18 @@
+{
+    "crime": "8748. Lorg/json/JSONObject;getString->Ljava/io/BufferedInputStream;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getString",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/io/BufferedInputStream;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/InputStream;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

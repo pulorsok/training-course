@@ -1,0 +1,18 @@
+{
+    "crime": "9978. Ljava/lang/String;<init>->Ljava/lang/String;replace",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([B Ljava/nio/charset/Charset;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "replace",
+            "descriptor": "(Ljava/lang/CharSequence; Ljava/lang/CharSequence;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

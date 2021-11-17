@@ -1,0 +1,18 @@
+{
+    "crime": "6717. Ljava/net/URI;getRawUserInfo->Ljava/util/regex/Matcher;matches",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getRawUserInfo",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "matches",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

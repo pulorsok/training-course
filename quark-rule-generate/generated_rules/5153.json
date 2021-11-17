@@ -1,0 +1,18 @@
+{
+    "crime": "5153. Ljava/lang/Byte;valueOf->Ljava/lang/Integer;toHexString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Byte;",
+            "method": "valueOf",
+            "descriptor": "(B)Ljava/lang/Byte;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "toHexString",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

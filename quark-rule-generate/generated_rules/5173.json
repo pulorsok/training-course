@@ -1,0 +1,18 @@
+{
+    "crime": "5173. Ljava/util/concurrent/Executor;execute->Ljava/io/IOException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/Executor;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

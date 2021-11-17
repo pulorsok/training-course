@@ -1,0 +1,18 @@
+{
+    "crime": "10734. Ljava/lang/Object;getClass->Ljava/lang/reflect/Method;invoke",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "invoke",
+            "descriptor": "(Ljava/lang/Object; [Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

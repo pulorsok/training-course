@@ -1,0 +1,18 @@
+{
+    "crime": "5692. Ljava/util/logging/Logger;fine->Ljava/math/BigInteger;min",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "min",
+            "descriptor": "(Ljava/math/BigInteger;)Ljava/math/BigInteger;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

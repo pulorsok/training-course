@@ -1,0 +1,18 @@
+{
+    "crime": "6686. Ljava/net/URI;getRawQuery->Ljava/util/concurrent/ConcurrentHashMap;containsKey",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getRawQuery",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "containsKey",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

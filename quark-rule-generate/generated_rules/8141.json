@@ -1,0 +1,18 @@
+{
+    "crime": "8141. Ljava/lang/Math;min->Ljavax/crypto/Mac;update",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(J J)J"
+        },
+        {
+            "class": "Ljavax/crypto/Mac;",
+            "method": "update",
+            "descriptor": "([B I I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

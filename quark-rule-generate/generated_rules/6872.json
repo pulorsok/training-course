@@ -1,0 +1,18 @@
+{
+    "crime": "6872. Ljava/net/URL;<init>->Ljava/net/URL;getProtocol",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URL;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "getProtocol",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

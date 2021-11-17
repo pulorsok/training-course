@@ -1,0 +1,18 @@
+{
+    "crime": "10751. Ljava/lang/Object;getClass->Ljava/util/List;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

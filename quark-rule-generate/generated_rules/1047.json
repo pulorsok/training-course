@@ -1,0 +1,18 @@
+{
+    "crime": "1047. Ljava/util/Iterator;hasNext->Ljava/lang/AssertionError;getCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "getCause",
+            "descriptor": "()Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

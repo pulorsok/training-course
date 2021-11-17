@@ -1,0 +1,18 @@
+{
+    "crime": "5095. Ljava/net/HttpURLConnection;getHeaderFields->Ljava/lang/Integer;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getHeaderFields",
+            "descriptor": "()Ljava/util/Map;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "toString",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

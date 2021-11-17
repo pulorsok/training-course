@@ -1,0 +1,18 @@
+{
+    "crime": "8274. Lorg/json/JSONArray;<init>->Ljava/lang/Integer;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/Integer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

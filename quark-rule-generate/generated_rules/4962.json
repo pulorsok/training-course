@@ -1,0 +1,18 @@
+{
+    "crime": "4962. Ljava/util/concurrent/ConcurrentMap;get->Ljava/util/Map$Entry;getKey",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getKey",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

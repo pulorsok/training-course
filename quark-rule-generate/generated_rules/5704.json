@@ -1,0 +1,18 @@
+{
+    "crime": "5704. Ljava/util/logging/Logger;fine->Ljava/net/URL;openConnection",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "openConnection",
+            "descriptor": "(Ljava/net/Proxy;)Ljava/net/URLConnection;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "1156. Landroid/location/LocationManager;requestLocationUpdates->Ljava/lang/StringBuilder;append",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/location/LocationManager;",
+            "method": "requestLocationUpdates",
+            "descriptor": "(Ljava/lang/String; J F Landroid/location/LocationListener;)V"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(D)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6873. Ljava/lang/IllegalStateException;<init>->Ljavax/net/ssl/SSLContext;getSocketFactory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "getSocketFactory",
+            "descriptor": "()Ljavax/net/ssl/SSLSocketFactory;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

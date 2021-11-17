@@ -1,0 +1,18 @@
+{
+    "crime": "3583. Ljava/util/Map;clear->Ljava/util/logging/Logger;fine",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "clear",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

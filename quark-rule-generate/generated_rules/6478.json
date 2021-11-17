@@ -1,0 +1,18 @@
+{
+    "crime": "6478. Ljava/net/SocketTimeoutException;initCause->Ljava/lang/Math;min",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/SocketTimeoutException;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(J J)J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

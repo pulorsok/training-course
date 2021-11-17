@@ -1,0 +1,18 @@
+{
+    "crime": "1112. Ljava/util/Iterator;hasNext->Ljava/util/Deque;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

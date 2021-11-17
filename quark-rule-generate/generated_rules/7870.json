@@ -1,0 +1,18 @@
+{
+    "crime": "7870. Ljava/nio/ByteBuffer;remaining->Ljava/lang/System;arraycopy",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "remaining",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "arraycopy",
+            "descriptor": "(Ljava/lang/Object; I Ljava/lang/Object; I I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

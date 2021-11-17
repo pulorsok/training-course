@@ -1,0 +1,18 @@
+{
+    "crime": "841. Ljava/lang/String;toUpperCase->Ljava/io/IOException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toUpperCase",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

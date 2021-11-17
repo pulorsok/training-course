@@ -1,0 +1,18 @@
+{
+    "crime": "3264. Ljava/lang/StringBuilder;toString->Ljava/util/concurrent/TimeUnit;toSeconds",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toSeconds",
+            "descriptor": "(J)J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

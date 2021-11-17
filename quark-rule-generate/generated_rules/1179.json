@@ -1,0 +1,18 @@
+{
+    "crime": "1179. Ljava/util/Iterator;next->Ljava/lang/Integer;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/Integer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "9743. Ljava/lang/String;getBytes->Ljava/io/IOException;getMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/nio/charset/Charset;)[B"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

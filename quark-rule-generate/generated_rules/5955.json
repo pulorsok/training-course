@@ -1,0 +1,18 @@
+{
+    "crime": "5955. Ljava/util/regex/Matcher;lookingAt->Ljava/lang/String;equalsIgnoreCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "lookingAt",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "5823. Ljava/net/Proxy;type->Ljava/lang/RuntimeException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "type",
+            "descriptor": "()Ljava/net/Proxy$Type;"
+        },
+        {
+            "class": "Ljava/lang/RuntimeException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Throwable;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

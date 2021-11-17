@@ -1,0 +1,18 @@
+{
+    "crime": "8975. Ljava/util/ArrayDeque;<init>->Ljava/util/Deque;removeFirst",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        },
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "removeFirst",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "1533. Landroid/media/MediaRecorder;setOutputFormat->Landroid/media/MediaRecorder;start",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "setOutputFormat",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "start",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

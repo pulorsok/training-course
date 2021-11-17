@@ -1,0 +1,18 @@
+{
+    "crime": "5018. Ljava/net/HttpURLConnection;getContentType->Ljava/nio/ByteBuffer;allocate",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getContentType",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "allocate",
+            "descriptor": "(I)Ljava/nio/ByteBuffer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6599. Ljava/util/zip/Inflater;<init>->Ljava/util/List;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/zip/Inflater;",
+            "method": "<init>",
+            "descriptor": "(Z)V"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

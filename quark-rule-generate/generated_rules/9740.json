@@ -1,0 +1,18 @@
+{
+    "crime": "9740. Ljava/util/Calendar;getTimeInMillis->Ljava/lang/String;charAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Calendar;",
+            "method": "getTimeInMillis",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

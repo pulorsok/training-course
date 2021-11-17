@@ -1,0 +1,18 @@
+{
+    "crime": "8550. Lorg/json/JSONException;printStackTrace->Ljava/lang/Runnable;run",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONException;",
+            "method": "printStackTrace",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Runnable;",
+            "method": "run",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

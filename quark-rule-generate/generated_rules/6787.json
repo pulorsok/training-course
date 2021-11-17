@@ -1,0 +1,18 @@
+{
+    "crime": "6787. Ljava/lang/IllegalStateException;<init>->Ljava/lang/String;getBytes",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/lang/String;)[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

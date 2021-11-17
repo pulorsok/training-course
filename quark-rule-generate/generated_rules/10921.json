@@ -1,0 +1,18 @@
+{
+    "crime": "10921. Ljava/lang/Object;<init>->Ljava/net/URL;toURI",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "toURI",
+            "descriptor": "()Ljava/net/URI;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

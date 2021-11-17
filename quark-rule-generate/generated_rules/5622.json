@@ -1,0 +1,18 @@
+{
+    "crime": "5622. Ljava/net/ProtocolException;<init>->Ljava/lang/NumberFormatException;getMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProtocolException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/NumberFormatException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

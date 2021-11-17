@@ -1,0 +1,18 @@
+{
+    "crime": "6770. Ljava/lang/IllegalStateException;<init>->Ljava/lang/Long;numberOfTrailingZeros",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "numberOfTrailingZeros",
+            "descriptor": "(J)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

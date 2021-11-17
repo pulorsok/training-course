@@ -1,0 +1,18 @@
+{
+    "crime": "10602. Ljava/lang/Object;wait->Ljava/lang/String;substring",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "wait",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

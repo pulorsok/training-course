@@ -1,0 +1,18 @@
+{
+    "crime": "309. Ljava/lang/String;startsWith->Ljava/io/File;getName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "startsWith",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "getName",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4704. Ljava/lang/AssertionError;<init>->Ljava/io/IOException;getCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "getCause",
+            "descriptor": "()Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

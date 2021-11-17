@@ -1,0 +1,18 @@
+{
+    "crime": "8121. Ljava/lang/Math;min->Ljava/lang/System;currentTimeMillis",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(J J)J"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "currentTimeMillis",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

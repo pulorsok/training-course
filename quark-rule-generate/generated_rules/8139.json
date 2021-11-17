@@ -1,0 +1,18 @@
+{
+    "crime": "8139. Ljava/lang/Math;min->Ljava/util/zip/Deflater;setInput",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(J J)J"
+        },
+        {
+            "class": "Ljava/util/zip/Deflater;",
+            "method": "setInput",
+            "descriptor": "([B I I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

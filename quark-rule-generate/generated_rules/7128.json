@@ -1,0 +1,18 @@
+{
+    "crime": "7128. Ljava/lang/Integer;parseInt->Ljava/lang/Runnable;run",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "parseInt",
+            "descriptor": "(Ljava/lang/String;)I"
+        },
+        {
+            "class": "Ljava/lang/Runnable;",
+            "method": "run",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "1920. Ljava/util/LinkedList;<init>->Ljava/lang/RuntimeException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/RuntimeException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Throwable;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

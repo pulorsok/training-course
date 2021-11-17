@@ -1,0 +1,18 @@
+{
+    "crime": "568. Landroid/database/Cursor;moveToNext->Landroid/database/Cursor;getColumnIndexOrThrow",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/database/Cursor;",
+            "method": "moveToNext",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Landroid/database/Cursor;",
+            "method": "getColumnIndexOrThrow",
+            "descriptor": "(Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4090. Ljava/util/NoSuchElementException;<init>->Ljava/lang/ref/WeakReference;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/NoSuchElementException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/ref/WeakReference;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Object;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

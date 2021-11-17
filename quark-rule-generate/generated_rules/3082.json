@@ -1,0 +1,18 @@
+{
+    "crime": "3082. Ljava/io/File;length->Ljava/io/File;getName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "length",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "getName",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

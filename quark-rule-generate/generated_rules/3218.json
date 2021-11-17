@@ -1,0 +1,18 @@
+{
+    "crime": "3218. Ljava/lang/StringBuilder;toString->Ljava/security/MessageDigest;getInstance",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/security/MessageDigest;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljava/security/MessageDigest;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "3304. Ljava/util/List;size->Ljava/lang/String;startsWith",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "startsWith",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

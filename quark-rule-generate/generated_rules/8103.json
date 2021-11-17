@@ -1,0 +1,18 @@
+{
+    "crime": "8103. Ljavax/net/ssl/TrustManagerFactory;getTrustManagers->Ljavax/net/ssl/SSLContext;init",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "getTrustManagers",
+            "descriptor": "()[Ljavax/net/ssl/TrustManager;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "init",
+            "descriptor": "([Ljavax/net/ssl/KeyManager; [Ljavax/net/ssl/TrustManager; Ljava/security/SecureRandom;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

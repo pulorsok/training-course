@@ -1,0 +1,18 @@
+{
+    "crime": "63. Ljava/util/Collection;toArray->Ljava/util/Map;clear",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collection;",
+            "method": "toArray",
+            "descriptor": "([Ljava/lang/Object;)[Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "clear",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

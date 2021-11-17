@@ -1,0 +1,18 @@
+{
+    "crime": "203. Ljava/lang/String;split->Ljava/util/Set;contains",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "split",
+            "descriptor": "(Ljava/lang/String;)[Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/Set;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

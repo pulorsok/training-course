@@ -1,0 +1,18 @@
+{
+    "crime": "3263. Ljava/lang/StringBuilder;toString->Ljava/util/concurrent/ThreadPoolExecutor;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ThreadPoolExecutor;",
+            "method": "<init>",
+            "descriptor": "(I I J Ljava/util/concurrent/TimeUnit; Ljava/util/concurrent/BlockingQueue; Ljava/util/concurrent/ThreadFactory;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

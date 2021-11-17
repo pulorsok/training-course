@@ -1,0 +1,18 @@
+{
+    "crime": "9664. Ljava/lang/String;format->Ljava/util/zip/Inflater;getBytesWritten",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "format",
+            "descriptor": "(Ljava/lang/String; [Ljava/lang/Object;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/zip/Inflater;",
+            "method": "getBytesWritten",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

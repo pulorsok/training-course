@@ -1,0 +1,18 @@
+{
+    "crime": "6754. Ljavax/crypto/Mac;doFinal->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/crypto/Mac;",
+            "method": "doFinal",
+            "descriptor": "([B)[B"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "3886. Ljava/lang/Thread;holdsLock->Ljava/net/Socket;isClosed",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "holdsLock",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isClosed",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "5122. Ljava/lang/Boolean;valueOf->Ljava/lang/Object;getClass",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Boolean;",
+            "method": "valueOf",
+            "descriptor": "(Z)Ljava/lang/Boolean;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

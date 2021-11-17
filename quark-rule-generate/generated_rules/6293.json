@@ -1,0 +1,18 @@
+{
+    "crime": "6293. Ljava/net/Socket;isOutputShutdown->Ljava/lang/System;nanoTime",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isOutputShutdown",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "nanoTime",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

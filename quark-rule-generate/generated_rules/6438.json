@@ -1,0 +1,18 @@
+{
+    "crime": "6438. Ljava/util/zip/Deflater;deflate->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/zip/Deflater;",
+            "method": "deflate",
+            "descriptor": "([B I I I)I"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

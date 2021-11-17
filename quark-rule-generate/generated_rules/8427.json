@@ -1,0 +1,18 @@
+{
+    "crime": "8427. Lorg/json/JSONArray;length->Ljava/util/concurrent/ConcurrentLinkedQueue;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

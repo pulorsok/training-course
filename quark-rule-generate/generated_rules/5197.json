@@ -1,0 +1,18 @@
+{
+    "crime": "5197. Ljava/util/concurrent/Executor;execute->Ljava/security/cert/CertificateFactory;generateCertificate",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/Executor;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateFactory;",
+            "method": "generateCertificate",
+            "descriptor": "(Ljava/io/InputStream;)Ljava/security/cert/Certificate;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

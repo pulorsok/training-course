@@ -1,0 +1,18 @@
+{
+    "crime": "7644. Ljavax/net/ssl/SSLSocket;getEnabledCipherSuites->Ljava/lang/StringBuilder;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getEnabledCipherSuites",
+            "descriptor": "()[Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

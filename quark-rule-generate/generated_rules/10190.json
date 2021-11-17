@@ -1,0 +1,18 @@
+{
+    "crime": "10190. Ljava/lang/String;charAt->Ljava/lang/System;arraycopy",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "arraycopy",
+            "descriptor": "(Ljava/lang/Object; I Ljava/lang/Object; I I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

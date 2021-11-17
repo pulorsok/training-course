@@ -1,0 +1,18 @@
+{
+    "crime": "2426. Ljava/io/Closeable;close->Ljava/net/Socket;close",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/Closeable;",
+            "method": "close",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "close",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

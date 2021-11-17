@@ -1,0 +1,18 @@
+{
+    "crime": "4342. Ljava/io/RandomAccessFile;<init>->Ljava/nio/ByteBuffer;clear",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/File; Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "clear",
+            "descriptor": "()Ljava/nio/Buffer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

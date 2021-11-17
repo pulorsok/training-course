@@ -1,0 +1,18 @@
+{
+    "crime": "7117. Ljavax/net/ssl/HttpsURLConnection;setHostnameVerifier->Ljava/util/Map;entrySet",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/HttpsURLConnection;",
+            "method": "setHostnameVerifier",
+            "descriptor": "(Ljavax/net/ssl/HostnameVerifier;)V"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "entrySet",
+            "descriptor": "()Ljava/util/Set;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

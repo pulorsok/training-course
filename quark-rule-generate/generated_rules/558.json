@@ -1,0 +1,18 @@
+{
+    "crime": "558. Landroid/database/Cursor;getString->Ljava/lang/Boolean;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/database/Cursor;",
+            "method": "getString",
+            "descriptor": "(I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Boolean;",
+            "method": "valueOf",
+            "descriptor": "(Z)Ljava/lang/Boolean;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

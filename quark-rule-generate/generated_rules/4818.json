@@ -1,0 +1,18 @@
+{
+    "crime": "4818. Ljava/util/concurrent/ConcurrentLinkedQueue;<init>->Ljava/util/TreeMap;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/TreeMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

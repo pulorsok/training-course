@@ -1,0 +1,18 @@
+{
+    "crime": "9903. Ljava/lang/String;<init>->Ljava/lang/Math;min",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([B I I Ljava/nio/charset/Charset;)V"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(I I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

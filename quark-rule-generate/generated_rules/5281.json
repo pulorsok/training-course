@@ -1,0 +1,18 @@
+{
+    "crime": "5281. Ljava/lang/Character;charCount->Ljava/net/MalformedURLException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "charCount",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/net/MalformedURLException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8187. Ljava/lang/Math;random->Ljava/math/BigInteger;longValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "random",
+            "descriptor": "()D"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "longValue",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

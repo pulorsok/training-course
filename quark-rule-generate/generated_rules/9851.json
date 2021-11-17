@@ -1,0 +1,18 @@
+{
+    "crime": "9851. Ljava/lang/String;indexOf->Ljava/lang/Object;clone",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "clone",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

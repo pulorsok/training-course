@@ -1,0 +1,18 @@
+{
+    "crime": "7766. Ljava/nio/ByteBuffer;position->Ljava/lang/Object;notifyAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "position",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "notifyAll",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

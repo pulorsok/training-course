@@ -1,0 +1,18 @@
+{
+    "crime": "2041. Ljava/lang/StringBuilder;append->Ljava/io/IOException;getCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "getCause",
+            "descriptor": "()Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

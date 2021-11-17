@@ -1,0 +1,18 @@
+{
+    "crime": "6263. Ljava/net/Socket;getSoTimeout->Ljava/net/Socket;setSoTimeout",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getSoTimeout",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "setSoTimeout",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

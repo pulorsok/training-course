@@ -1,0 +1,18 @@
+{
+    "crime": "4339. Ljava/io/RandomAccessFile;<init>->Ljava/lang/StringBuilder;append",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/File; Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

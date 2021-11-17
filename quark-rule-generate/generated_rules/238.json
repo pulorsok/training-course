@@ -1,0 +1,18 @@
+{
+    "crime": "238. Ljava/util/Collections;emptyList->Ljava/security/PublicKey;getEncoded",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "emptyList",
+            "descriptor": "()Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/security/PublicKey;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

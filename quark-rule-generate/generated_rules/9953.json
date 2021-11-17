@@ -1,0 +1,18 @@
+{
+    "crime": "9953. Ljava/lang/String;indexOf->Ljava/util/GregorianCalendar;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(Ljava/lang/String;)I"
+        },
+        {
+            "class": "Ljava/util/GregorianCalendar;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/TimeZone;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

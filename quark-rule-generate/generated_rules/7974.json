@@ -1,0 +1,18 @@
+{
+    "crime": "7974. Ljava/lang/Math;min->Ljava/lang/Object;notifyAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(I I)I"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "notifyAll",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

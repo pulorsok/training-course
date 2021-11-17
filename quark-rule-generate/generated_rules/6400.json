@@ -1,0 +1,18 @@
+{
+    "crime": "6400. Ljava/lang/IllegalArgumentException;<init>->Ljava/util/concurrent/ScheduledExecutorService;shutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledExecutorService;",
+            "method": "shutdown",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

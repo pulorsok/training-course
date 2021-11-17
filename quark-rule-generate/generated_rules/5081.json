@@ -1,0 +1,18 @@
+{
+    "crime": "5081. Ljava/lang/AssertionError;getMessage->Ljava/lang/RuntimeException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/RuntimeException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Throwable;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

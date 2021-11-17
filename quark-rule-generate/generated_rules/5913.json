@@ -1,0 +1,18 @@
+{
+    "crime": "5913. Ljava/lang/IllegalAccessError;<init>->Ljava/lang/Character;charCount",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalAccessError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "charCount",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

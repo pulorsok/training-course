@@ -1,0 +1,18 @@
+{
+    "crime": "1017. Landroid/location/Location;getLongitude->Ljava/lang/StringBuilder;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/location/Location;",
+            "method": "getLongitude",
+            "descriptor": "()D"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

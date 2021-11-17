@@ -1,0 +1,18 @@
+{
+    "crime": "707. Ljava/lang/String;toCharArray->Ljava/lang/String;length",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toCharArray",
+            "descriptor": "()[C"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

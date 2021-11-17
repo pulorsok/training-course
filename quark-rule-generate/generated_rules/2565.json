@@ -1,0 +1,18 @@
+{
+    "crime": "2565. Ljava/lang/StringBuilder;append->Ljava/util/regex/Pattern;matcher",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/util/regex/Pattern;",
+            "method": "matcher",
+            "descriptor": "(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

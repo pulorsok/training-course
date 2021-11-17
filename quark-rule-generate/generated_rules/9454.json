@@ -1,0 +1,18 @@
+{
+    "crime": "9454. Ljava/lang/String;equals->Ljavax/net/ssl/SSLSocket;getSession",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getSession",
+            "descriptor": "()Ljavax/net/ssl/SSLSession;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

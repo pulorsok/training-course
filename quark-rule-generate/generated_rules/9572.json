@@ -1,0 +1,18 @@
+{
+    "crime": "9572. Ljava/util/Arrays;asList->Lorg/json/JSONArray;isNull",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "asList",
+            "descriptor": "([Ljava/lang/Object;)Ljava/util/List;"
+        },
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "isNull",
+            "descriptor": "(I)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "9777. Ljava/lang/String;getBytes->Ljava/security/cert/CertificateFactory;getInstance",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/nio/charset/Charset;)[B"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateFactory;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljava/security/cert/CertificateFactory;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "1760. Landroid/provider/Settings$Secure;getString->Ljava/net/URI;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/provider/Settings$Secure;",
+            "method": "getString",
+            "descriptor": "(Landroid/content/ContentResolver; Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/net/URI;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

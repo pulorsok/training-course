@@ -1,0 +1,18 @@
+{
+    "crime": "8194. Ljava/lang/Math;random->Ljava/util/Queue;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "random",
+            "descriptor": "()D"
+        },
+        {
+            "class": "Ljava/util/Queue;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

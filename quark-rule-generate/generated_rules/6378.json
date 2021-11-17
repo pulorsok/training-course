@@ -1,0 +1,18 @@
+{
+    "crime": "6378. Ljava/lang/IllegalArgumentException;<init>->Ljava/util/Collections;emptyList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "emptyList",
+            "descriptor": "()Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4579. Ljava/util/UUID;toString->Ljava/lang/String;getBytes",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/UUID;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/nio/charset/Charset;)[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

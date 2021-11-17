@@ -1,0 +1,18 @@
+{
+    "crime": "9626. Ljava/lang/String;format->Ljava/net/URL;getPath",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "format",
+            "descriptor": "(Ljava/lang/String; [Ljava/lang/Object;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/net/URL;",
+            "method": "getPath",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

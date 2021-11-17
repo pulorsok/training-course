@@ -1,0 +1,18 @@
+{
+    "crime": "10191. Ljava/lang/String;charAt->Ljava/lang/System;nanoTime",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "nanoTime",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

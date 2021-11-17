@@ -1,0 +1,18 @@
+{
+    "crime": "3450. Ljava/util/List;toArray->Ljava/lang/reflect/Method;invoke",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "toArray",
+            "descriptor": "([Ljava/lang/Object;)[Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "invoke",
+            "descriptor": "(Ljava/lang/Object; [Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

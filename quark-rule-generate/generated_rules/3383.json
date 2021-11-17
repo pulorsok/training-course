@@ -1,0 +1,18 @@
+{
+    "crime": "3383. Ljava/util/List;toArray->Ljava/util/Queue;clear",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "toArray",
+            "descriptor": "()[Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/Queue;",
+            "method": "clear",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

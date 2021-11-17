@@ -1,0 +1,18 @@
+{
+    "crime": "8434. Ljava/security/PublicKey;getEncoded->Ljava/lang/String;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/PublicKey;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

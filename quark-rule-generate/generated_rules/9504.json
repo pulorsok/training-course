@@ -1,0 +1,18 @@
+{
+    "crime": "9504. Ljava/lang/String;equalsIgnoreCase->Ljava/nio/ByteBuffer;allocate",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "allocate",
+            "descriptor": "(I)Ljava/nio/ByteBuffer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

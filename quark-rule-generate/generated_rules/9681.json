@@ -1,0 +1,18 @@
+{
+    "crime": "9681. Ljava/lang/String;format->Ljava/lang/Long;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "format",
+            "descriptor": "(Ljava/util/Locale; Ljava/lang/String; [Ljava/lang/Object;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "valueOf",
+            "descriptor": "(J)Ljava/lang/Long;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4748. Ljava/lang/AssertionError;<init>->Ljava/security/cert/CertificateException;getMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

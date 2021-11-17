@@ -1,0 +1,18 @@
+{
+    "crime": "5590. Ljava/util/concurrent/TimeUnit;toNanos->Ljava/lang/Math;min",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toNanos",
+            "descriptor": "(J)J"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(J J)J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

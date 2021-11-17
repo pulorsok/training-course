@@ -1,0 +1,18 @@
+{
+    "crime": "7215. Ljava/net/URLDecoder;decode->Ljava/util/Map;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URLDecoder;",
+            "method": "decode",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

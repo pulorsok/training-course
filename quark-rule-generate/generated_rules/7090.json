@@ -1,0 +1,18 @@
+{
+    "crime": "7090. Ljava/net/URL;openConnection->Ljava/util/Map;entrySet",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URL;",
+            "method": "openConnection",
+            "descriptor": "(Ljava/net/Proxy;)Ljava/net/URLConnection;"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "entrySet",
+            "descriptor": "()Ljava/util/Set;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4521. Ljava/math/BigDecimal;valueOf->Ljava/math/BigInteger;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigDecimal;",
+            "method": "valueOf",
+            "descriptor": "(D)Ljava/math/BigDecimal;"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "add",
+            "descriptor": "(Ljava/math/BigInteger;)Ljava/math/BigInteger;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

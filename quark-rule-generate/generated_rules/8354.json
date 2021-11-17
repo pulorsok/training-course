@@ -1,0 +1,18 @@
+{
+    "crime": "8354. Ljava/lang/NullPointerException;<init>->Ljava/io/File;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/File; Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

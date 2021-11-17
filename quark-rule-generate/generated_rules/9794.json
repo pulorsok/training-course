@@ -1,0 +1,18 @@
+{
+    "crime": "9794. Ljava/lang/String;getBytes->Ljava/util/concurrent/Executor;execute",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/nio/charset/Charset;)[B"
+        },
+        {
+            "class": "Ljava/util/concurrent/Executor;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

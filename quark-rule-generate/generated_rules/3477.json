@@ -1,0 +1,18 @@
+{
+    "crime": "3477. Ljava/lang/System;currentTimeMillis->Ljava/lang/String;matches",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "currentTimeMillis",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "matches",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

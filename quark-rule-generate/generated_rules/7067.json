@@ -1,0 +1,18 @@
+{
+    "crime": "7067. Ljavax/net/SocketFactory;getDefault->Ljavax/net/ssl/SSLContext;init",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/SocketFactory;",
+            "method": "getDefault",
+            "descriptor": "()Ljavax/net/SocketFactory;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "init",
+            "descriptor": "([Ljavax/net/ssl/KeyManager; [Ljavax/net/ssl/TrustManager; Ljava/security/SecureRandom;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

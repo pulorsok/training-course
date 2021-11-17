@@ -1,0 +1,18 @@
+{
+    "crime": "5046. Ljava/util/concurrent/ConcurrentMap;putIfAbsent->Ljava/security/cert/X509Certificate;getSubjectDN",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "putIfAbsent",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectDN",
+            "descriptor": "()Ljava/security/Principal;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

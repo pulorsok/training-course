@@ -1,0 +1,18 @@
+{
+    "crime": "7937. Ljavax/net/ssl/SSLSocket;startHandshake->Ljava/util/List;addAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "startHandshake",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8177. Ljava/lang/Math;random->Ljava/lang/Math;floor",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "random",
+            "descriptor": "()D"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "floor",
+            "descriptor": "(D)D"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

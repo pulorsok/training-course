@@ -1,0 +1,18 @@
+{
+    "crime": "6700. Ljava/util/zip/Inflater;needsInput->Ljava/util/zip/Inflater;getRemaining",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/zip/Inflater;",
+            "method": "needsInput",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/zip/Inflater;",
+            "method": "getRemaining",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "10794. Ljava/lang/Object;<init>->Ljava/io/File;exists",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "exists",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

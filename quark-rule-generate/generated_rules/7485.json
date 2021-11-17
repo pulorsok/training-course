@@ -1,0 +1,18 @@
+{
+    "crime": "7485. Ljavax/net/ssl/SSLSession;getLocalCertificates->Ljava/util/Set;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getLocalCertificates",
+            "descriptor": "()[Ljava/security/cert/Certificate;"
+        },
+        {
+            "class": "Ljava/util/Set;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

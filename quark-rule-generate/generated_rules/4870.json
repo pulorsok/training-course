@@ -1,0 +1,18 @@
+{
+    "crime": "4870. Ljava/lang/AssertionError;<init>->Ljava/io/EOFException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Object;)V"
+        },
+        {
+            "class": "Ljava/io/EOFException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

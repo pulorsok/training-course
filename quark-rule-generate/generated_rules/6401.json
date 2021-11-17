@@ -1,0 +1,18 @@
+{
+    "crime": "6401. Ljava/lang/IllegalArgumentException;<init>->Ljava/util/concurrent/ScheduledFuture;cancel",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledFuture;",
+            "method": "cancel",
+            "descriptor": "(Z)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "1771. Landroid/telephony/SmsManager;getDefault->Ljava/lang/Runnable;run",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/telephony/SmsManager;",
+            "method": "getDefault",
+            "descriptor": "()Landroid/telephony/SmsManager;"
+        },
+        {
+            "class": "Ljava/lang/Runnable;",
+            "method": "run",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

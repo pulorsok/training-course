@@ -1,0 +1,18 @@
+{
+    "crime": "8551. Lorg/json/JSONException;printStackTrace->Lorg/json/JSONObject;getString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONException;",
+            "method": "printStackTrace",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getString",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

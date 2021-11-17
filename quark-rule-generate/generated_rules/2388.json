@@ -1,0 +1,18 @@
+{
+    "crime": "2388. Ljava/lang/StringBuilder;append->Ljava/lang/Class;getMethod",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "getMethod",
+            "descriptor": "(Ljava/lang/String; [Ljava/lang/Class;)Ljava/lang/reflect/Method;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

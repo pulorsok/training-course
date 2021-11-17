@@ -1,0 +1,18 @@
+{
+    "crime": "3929. Ljava/io/IOException;getMessage->Ljava/util/Collections;emptyList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "emptyList",
+            "descriptor": "()Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "5745. Ljava/util/logging/Logger;fine->Lorg/json/JSONArray;isNull",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Lorg/json/JSONArray;",
+            "method": "isNull",
+            "descriptor": "(I)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

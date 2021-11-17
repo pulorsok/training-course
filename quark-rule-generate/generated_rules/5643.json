@@ -1,0 +1,18 @@
+{
+    "crime": "5643. Ljava/net/ProtocolException;<init>->Ljava/util/concurrent/ScheduledExecutorService;shutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProtocolException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledExecutorService;",
+            "method": "shutdown",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6133. Ljava/util/regex/Matcher;region->Ljava/util/regex/Matcher;matches",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "region",
+            "descriptor": "(I I)Ljava/util/regex/Matcher;"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "matches",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4699. Ljava/util/concurrent/ConcurrentHashMap;values->Ljava/lang/Runnable;run",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentHashMap;",
+            "method": "values",
+            "descriptor": "()Ljava/util/Collection;"
+        },
+        {
+            "class": "Ljava/lang/Runnable;",
+            "method": "run",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

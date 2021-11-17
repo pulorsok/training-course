@@ -1,0 +1,18 @@
+{
+    "crime": "3858. Ljava/io/IOException;getCause->Ljava/util/ArrayList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "getCause",
+            "descriptor": "()Ljava/lang/Throwable;"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "9940. Ljava/lang/String;indexOf->Ljava/util/concurrent/ConcurrentMap;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(Ljava/lang/String; I)I"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

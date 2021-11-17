@@ -1,0 +1,18 @@
+{
+    "crime": "7552. Ljavax/net/ssl/SSLSession;getPeerCertificates->Ljavax/net/ssl/SSLSocket;getSession",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getPeerCertificates",
+            "descriptor": "()[Ljava/security/cert/Certificate;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getSession",
+            "descriptor": "()Ljavax/net/ssl/SSLSession;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

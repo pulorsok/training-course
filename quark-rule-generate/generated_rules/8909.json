@@ -1,0 +1,18 @@
+{
+    "crime": "8909. Ljava/text/ParsePosition;<init>->Ljava/text/ParsePosition;getIndex",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/ParsePosition;",
+            "method": "<init>",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/text/ParsePosition;",
+            "method": "getIndex",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

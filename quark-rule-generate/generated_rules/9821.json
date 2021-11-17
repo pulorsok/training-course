@@ -1,0 +1,18 @@
+{
+    "crime": "9821. Ljava/lang/RuntimeException;<init>->Ljava/util/Collections;unmodifiableList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/RuntimeException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Throwable;)V"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "unmodifiableList",
+            "descriptor": "(Ljava/util/List;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "197. Ljava/lang/String;split->Ljava/net/URLDecoder;decode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "split",
+            "descriptor": "(Ljava/lang/String;)[Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/net/URLDecoder;",
+            "method": "decode",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

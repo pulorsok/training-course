@@ -1,0 +1,18 @@
+{
+    "crime": "3689. Ljava/io/IOException;<init>->Ljava/lang/Object;notifyAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "notifyAll",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

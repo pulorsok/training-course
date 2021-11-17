@@ -1,0 +1,18 @@
+{
+    "crime": "2191. Ljava/util/List;add->Ljava/net/UnknownServiceException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/net/UnknownServiceException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6073. Ljava/util/regex/Matcher;matches->Ljava/net/URI;getRawQuery",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "matches",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getRawQuery",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8211. Ljavax/security/auth/x500/X500Principal;getName->Ljava/lang/String;indexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/security/auth/x500/X500Principal;",
+            "method": "getName",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

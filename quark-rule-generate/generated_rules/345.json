@@ -1,0 +1,18 @@
+{
+    "crime": "345. Ljava/lang/String;startsWith->Ljava/lang/StringBuilder;setLength",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "startsWith",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "setLength",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

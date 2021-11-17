@@ -1,0 +1,18 @@
+{
+    "crime": "7377. Ljava/lang/Integer;valueOf->Ljava/util/logging/Logger;fine",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/Integer;"
+        },
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

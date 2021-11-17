@@ -1,0 +1,18 @@
+{
+    "crime": "4096. Ljava/util/NoSuchElementException;<init>->Ljava/net/Socket;isInputShutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/NoSuchElementException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isInputShutdown",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

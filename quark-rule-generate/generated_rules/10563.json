@@ -1,0 +1,18 @@
+{
+    "crime": "10563. Ljava/lang/Runnable;run->Lorg/json/JSONObject;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Runnable;",
+            "method": "run",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Z)Lorg/json/JSONObject;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "950. Ljava/util/HashMap;<init>->Ljava/lang/String;replace",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/HashMap;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "replace",
+            "descriptor": "(Ljava/lang/CharSequence; Ljava/lang/CharSequence;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

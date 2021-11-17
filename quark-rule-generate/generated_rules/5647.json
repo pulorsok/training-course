@@ -1,0 +1,18 @@
+{
+    "crime": "5647. Ljava/net/Proxy;address->Ljava/lang/AssertionError;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "address",
+            "descriptor": "()Ljava/net/SocketAddress;"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

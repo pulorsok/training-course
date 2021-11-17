@@ -1,0 +1,18 @@
+{
+    "crime": "5654. Ljava/net/Proxy;address->Ljava/lang/String;length",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "address",
+            "descriptor": "()Ljava/net/SocketAddress;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

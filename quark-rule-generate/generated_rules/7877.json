@@ -1,0 +1,18 @@
+{
+    "crime": "7877. Ljava/nio/ByteBuffer;remaining->Ljava/util/Map;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "remaining",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

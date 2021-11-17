@@ -1,0 +1,18 @@
+{
+    "crime": "8071. Ljavax/net/ssl/TrustManagerFactory;getDefaultAlgorithm->Ljava/lang/StringBuilder;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/TrustManagerFactory;",
+            "method": "getDefaultAlgorithm",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

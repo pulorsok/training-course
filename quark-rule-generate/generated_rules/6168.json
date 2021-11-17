@@ -1,0 +1,18 @@
+{
+    "crime": "6168. Ljava/net/Socket;connect->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "connect",
+            "descriptor": "(Ljava/net/SocketAddress; I)V"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

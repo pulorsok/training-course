@@ -1,0 +1,18 @@
+{
+    "crime": "10882. Ljava/lang/Object;<init>->Ljava/math/BigInteger;multiply",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "multiply",
+            "descriptor": "(Ljava/math/BigInteger;)Ljava/math/BigInteger;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

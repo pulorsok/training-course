@@ -1,0 +1,18 @@
+{
+    "crime": "9513. Ljava/lang/String;equalsIgnoreCase->Ljava/util/Date;getTime",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/util/Date;",
+            "method": "getTime",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

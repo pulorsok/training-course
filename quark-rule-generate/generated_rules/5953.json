@@ -1,0 +1,18 @@
+{
+    "crime": "5953. Ljava/util/regex/Matcher;lookingAt->Ljava/lang/String;clone",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "lookingAt",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "clone",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

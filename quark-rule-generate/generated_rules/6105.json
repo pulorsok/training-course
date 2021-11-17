@@ -1,0 +1,18 @@
+{
+    "crime": "6105. Ljava/util/regex/Matcher;region->Ljava/lang/IllegalAccessError;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "region",
+            "descriptor": "(I I)Ljava/util/regex/Matcher;"
+        },
+        {
+            "class": "Ljava/lang/IllegalAccessError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

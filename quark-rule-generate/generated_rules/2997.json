@@ -1,0 +1,18 @@
+{
+    "crime": "2997. Ljava/util/List;remove->Ljava/security/cert/CertificateException;getMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "remove",
+            "descriptor": "(I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateException;",
+            "method": "getMessage",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

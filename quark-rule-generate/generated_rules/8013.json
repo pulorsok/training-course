@@ -1,0 +1,18 @@
+{
+    "crime": "8013. Ljavax/net/ssl/SSLSocketFactory;createSocket->Ljava/lang/StringBuilder;append",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocketFactory;",
+            "method": "createSocket",
+            "descriptor": "(Ljava/net/Socket; Ljava/lang/String; I Z)Ljava/net/Socket;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8671. Lorg/json/JSONObject;getInt->Landroid/media/MediaRecorder;setOutputFormat",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getInt",
+            "descriptor": "(Ljava/lang/String;)I"
+        },
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "setOutputFormat",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

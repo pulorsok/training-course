@@ -1,0 +1,18 @@
+{
+    "crime": "3674. Ljava/util/Map;entrySet->Ljava/net/URLEncoder;encode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "entrySet",
+            "descriptor": "()Ljava/util/Set;"
+        },
+        {
+            "class": "Ljava/net/URLEncoder;",
+            "method": "encode",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

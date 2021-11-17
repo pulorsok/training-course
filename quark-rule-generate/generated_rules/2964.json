@@ -1,0 +1,18 @@
+{
+    "crime": "2964. Ljava/io/File;getAbsolutePath->Landroid/media/MediaRecorder;setOutputFormat",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "getAbsolutePath",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "setOutputFormat",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

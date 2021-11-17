@@ -1,0 +1,18 @@
+{
+    "crime": "4148. Ljava/lang/ref/WeakReference;<init>->Ljava/util/List;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/ref/WeakReference;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Object;)V"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

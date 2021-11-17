@@ -1,0 +1,18 @@
+{
+    "crime": "2579. Ljava/lang/StringBuilder;append->Ljavax/security/auth/x500/X500Principal;getName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljavax/security/auth/x500/X500Principal;",
+            "method": "getName",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

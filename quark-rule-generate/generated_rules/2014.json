@@ -1,0 +1,18 @@
+{
+    "crime": "2014. Ljava/util/LinkedList;size->Ljava/util/LinkedList;toArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedList;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/LinkedList;",
+            "method": "toArray",
+            "descriptor": "([Ljava/lang/Object;)[Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

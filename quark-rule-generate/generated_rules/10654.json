@@ -1,0 +1,18 @@
+{
+    "crime": "10654. Ljava/util/ArrayDeque;<init>->Ljava/util/concurrent/ExecutorService;shutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ExecutorService;",
+            "method": "shutdown",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

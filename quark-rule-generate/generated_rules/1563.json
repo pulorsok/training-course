@@ -1,0 +1,18 @@
+{
+    "crime": "1563. Ljava/util/LinkedHashMap;get->Ljava/lang/StringBuilder;setLength",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "setLength",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

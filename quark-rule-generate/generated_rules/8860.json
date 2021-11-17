@@ -1,0 +1,18 @@
+{
+    "crime": "8860. Ljava/text/DateFormat;parse->Ljava/text/SimpleDateFormat;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "parse",
+            "descriptor": "(Ljava/lang/String; Ljava/text/ParsePosition;)Ljava/util/Date;"
+        },
+        {
+            "class": "Ljava/text/SimpleDateFormat;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String; Ljava/util/Locale;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

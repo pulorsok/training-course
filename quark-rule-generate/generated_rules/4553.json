@@ -1,0 +1,18 @@
+{
+    "crime": "4553. Ljava/lang/ArrayIndexOutOfBoundsException;<init>->Ljava/util/Random;nextBytes",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/ArrayIndexOutOfBoundsException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/Random;",
+            "method": "nextBytes",
+            "descriptor": "([B)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

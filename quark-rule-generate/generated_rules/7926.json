@@ -1,0 +1,18 @@
+{
+    "crime": "7926. Ljavax/net/ssl/SSLSocket;startHandshake->Ljava/security/cert/X509Certificate;getSubjectAlternativeNames",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "startHandshake",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectAlternativeNames",
+            "descriptor": "()Ljava/util/Collection;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

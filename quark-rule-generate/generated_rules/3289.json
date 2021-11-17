@@ -1,0 +1,18 @@
+{
+    "crime": "3289. Ljava/util/List;size->Ljava/lang/Object;wait",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "wait",
+            "descriptor": "(J I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

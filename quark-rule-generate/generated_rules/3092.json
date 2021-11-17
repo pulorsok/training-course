@@ -1,0 +1,18 @@
+{
+    "crime": "3092. Ljava/io/File;listFiles->Ljava/io/File;getName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "listFiles",
+            "descriptor": "()[Ljava/io/File;"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "getName",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

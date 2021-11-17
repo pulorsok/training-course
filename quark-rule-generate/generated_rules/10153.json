@@ -1,0 +1,18 @@
+{
+    "crime": "10153. Ljava/lang/String;lastIndexOf->Ljava/util/regex/Matcher;matches",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "lastIndexOf",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "matches",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

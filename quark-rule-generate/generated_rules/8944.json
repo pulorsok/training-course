@@ -1,0 +1,18 @@
+{
+    "crime": "8944. Ljava/text/ParsePosition;getIndex->Ljava/text/DateFormat;setTimeZone",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/ParsePosition;",
+            "method": "getIndex",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "setTimeZone",
+            "descriptor": "(Ljava/util/TimeZone;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

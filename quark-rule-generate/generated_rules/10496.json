@@ -1,0 +1,18 @@
+{
+    "crime": "10496. Ljava/lang/String;indexOf->Ljava/lang/String;lastIndexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I I)I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "lastIndexOf",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

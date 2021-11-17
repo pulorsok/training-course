@@ -1,0 +1,18 @@
+{
+    "crime": "5485. Ljava/net/InetSocketAddress;getAddress->Ljava/util/List;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/InetSocketAddress;",
+            "method": "getAddress",
+            "descriptor": "()Ljava/net/InetAddress;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

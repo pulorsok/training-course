@@ -1,0 +1,18 @@
+{
+    "crime": "2636. Ljava/io/File;<init>->Ljava/util/LinkedHashMap;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "<init>",
+            "descriptor": "(Ljava/io/File; Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

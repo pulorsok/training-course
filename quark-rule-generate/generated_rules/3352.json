@@ -1,0 +1,18 @@
+{
+    "crime": "3352. Ljava/util/List;size->Ljava/util/Set;remove",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/Set;",
+            "method": "remove",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

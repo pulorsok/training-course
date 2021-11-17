@@ -1,0 +1,18 @@
+{
+    "crime": "8580. Ljava/security/cert/CertificateFactory;getInstance->Ljava/util/Iterator;hasNext",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/CertificateFactory;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljava/security/cert/CertificateFactory;"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

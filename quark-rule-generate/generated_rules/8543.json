@@ -1,0 +1,18 @@
+{
+    "crime": "8543. Lorg/json/JSONException;printStackTrace->Landroid/hardware/Camera;startPreview",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONException;",
+            "method": "printStackTrace",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/hardware/Camera;",
+            "method": "startPreview",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8737. Lorg/json/JSONObject;getString->Landroid/net/Uri;parse",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getString",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Landroid/net/Uri;",
+            "method": "parse",
+            "descriptor": "(Ljava/lang/String;)Landroid/net/Uri;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

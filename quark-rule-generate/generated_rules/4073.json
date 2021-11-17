@@ -1,0 +1,18 @@
+{
+    "crime": "4073. Ljava/io/InputStream;read->Ljava/lang/System;arraycopy",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/InputStream;",
+            "method": "read",
+            "descriptor": "([B)I"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "arraycopy",
+            "descriptor": "(Ljava/lang/Object; I Ljava/lang/Object; I I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

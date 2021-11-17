@@ -1,0 +1,18 @@
+{
+    "crime": "2917. Ljava/io/File;exists->Ljava/io/BufferedInputStream;read",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "exists",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/io/BufferedInputStream;",
+            "method": "read",
+            "descriptor": "([B I I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

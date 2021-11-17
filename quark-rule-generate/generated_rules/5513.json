@@ -1,0 +1,18 @@
+{
+    "crime": "5513. Ljava/lang/Class;getMethod->Ljava/lang/AssertionError;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "getMethod",
+            "descriptor": "(Ljava/lang/String; [Ljava/lang/Class;)Ljava/lang/reflect/Method;"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Object;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

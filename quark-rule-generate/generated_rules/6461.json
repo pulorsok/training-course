@@ -1,0 +1,18 @@
+{
+    "crime": "6461. Ljava/util/zip/Deflater;deflate->Ljava/util/zip/Deflater;needsInput",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/zip/Deflater;",
+            "method": "deflate",
+            "descriptor": "([B I I)I"
+        },
+        {
+            "class": "Ljava/util/zip/Deflater;",
+            "method": "needsInput",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

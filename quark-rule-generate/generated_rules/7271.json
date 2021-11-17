@@ -1,0 +1,18 @@
+{
+    "crime": "7271. Ljavax/net/ssl/SSLContext;getSocketFactory->Ljava/util/ArrayList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "getSocketFactory",
+            "descriptor": "()Ljavax/net/ssl/SSLSocketFactory;"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

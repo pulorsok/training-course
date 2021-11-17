@@ -1,0 +1,18 @@
+{
+    "crime": "6637. Ljava/net/URI;getRawFragment->Ljava/util/LinkedList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getRawFragment",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/LinkedList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

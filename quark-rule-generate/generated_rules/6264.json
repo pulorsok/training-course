@@ -1,0 +1,18 @@
+{
+    "crime": "6264. Ljava/net/Socket;getSoTimeout->Ljava/util/List;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getSoTimeout",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

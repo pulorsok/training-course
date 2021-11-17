@@ -1,0 +1,18 @@
+{
+    "crime": "5531. Ljava/util/concurrent/TimeUnit;toMillis->Ljava/lang/String;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toMillis",
+            "descriptor": "(J)J"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

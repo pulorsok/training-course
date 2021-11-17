@@ -1,0 +1,18 @@
+{
+    "crime": "8147. Ljava/nio/charset/Charset;forName->Ljava/io/Closeable;close",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/charset/Charset;",
+            "method": "forName",
+            "descriptor": "(Ljava/lang/String;)Ljava/nio/charset/Charset;"
+        },
+        {
+            "class": "Ljava/io/Closeable;",
+            "method": "close",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

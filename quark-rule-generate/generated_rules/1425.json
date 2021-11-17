@@ -1,0 +1,18 @@
+{
+    "crime": "1425. Ljava/lang/StringBuilder;<init>->Ljava/nio/channels/FileChannel;read",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/nio/channels/FileChannel;",
+            "method": "read",
+            "descriptor": "(Ljava/nio/ByteBuffer; J)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

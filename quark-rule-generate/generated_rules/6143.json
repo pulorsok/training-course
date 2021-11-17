@@ -1,0 +1,18 @@
+{
+    "crime": "6143. Ljava/util/regex/Matcher;start->Ljava/lang/String;substring",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "start",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

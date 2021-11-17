@@ -1,0 +1,18 @@
+{
+    "crime": "8560. Ljava/security/cert/CertificateFactory;generateCertificate->Ljava/util/ArrayList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/CertificateFactory;",
+            "method": "generateCertificate",
+            "descriptor": "(Ljava/io/InputStream;)Ljava/security/cert/Certificate;"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

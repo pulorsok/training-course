@@ -1,0 +1,18 @@
+{
+    "crime": "5220. Ljava/net/HttpURLConnection;setConnectTimeout->Ljava/util/List;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setConnectTimeout",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

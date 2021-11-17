@@ -1,0 +1,18 @@
+{
+    "crime": "7695. Ljava/nio/ByteBuffer;limit->Ljava/nio/channels/FileChannel;write",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "limit",
+            "descriptor": "(I)Ljava/nio/Buffer;"
+        },
+        {
+            "class": "Ljava/nio/channels/FileChannel;",
+            "method": "write",
+            "descriptor": "(Ljava/nio/ByteBuffer; J)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

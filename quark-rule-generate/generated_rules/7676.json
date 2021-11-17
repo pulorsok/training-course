@@ -1,0 +1,18 @@
+{
+    "crime": "7676. Ljava/nio/ByteBuffer;limit->Ljava/lang/Integer;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "limit",
+            "descriptor": "(I)Ljava/nio/Buffer;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/Integer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

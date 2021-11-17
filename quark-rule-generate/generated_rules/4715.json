@@ -1,0 +1,18 @@
+{
+    "crime": "4715. Ljava/lang/AssertionError;<init>->Ljava/lang/Long;parseLong",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "parseLong",
+            "descriptor": "(Ljava/lang/String;)J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

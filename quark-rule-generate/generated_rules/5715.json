@@ -1,0 +1,18 @@
+{
+    "crime": "5715. Ljava/util/logging/Logger;fine->Ljava/util/LinkedList;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/LinkedList;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7057. Ljava/lang/Integer;intValue->Ljava/lang/StringBuilder;appendCodePoint",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "intValue",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "appendCodePoint",
+            "descriptor": "(I)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

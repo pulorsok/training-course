@@ -1,0 +1,18 @@
+{
+    "crime": "4868. Ljava/util/concurrent/ConcurrentLinkedQueue;iterator->Ljava/util/Queue;poll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        },
+        {
+            "class": "Ljava/util/Queue;",
+            "method": "poll",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

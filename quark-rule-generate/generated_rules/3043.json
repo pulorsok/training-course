@@ -1,0 +1,18 @@
+{
+    "crime": "3043. Ljava/io/File;getParent->Lorg/json/JSONObject;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "getParent",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Z)Lorg/json/JSONObject;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

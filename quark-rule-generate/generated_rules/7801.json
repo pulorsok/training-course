@@ -1,0 +1,18 @@
+{
+    "crime": "7801. Ljavax/net/ssl/SSLSocket;getSession->Ljava/util/ArrayList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getSession",
+            "descriptor": "()Ljavax/net/ssl/SSLSession;"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

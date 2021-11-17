@@ -1,0 +1,18 @@
+{
+    "crime": "4969. Ljava/util/concurrent/ConcurrentMap;get->Ljava/util/Timer;schedule",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/Timer;",
+            "method": "schedule",
+            "descriptor": "(Ljava/util/TimerTask; J)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "684. Ljava/util/Date;getTime->Ljava/util/Iterator;hasNext",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Date;",
+            "method": "getTime",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

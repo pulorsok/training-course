@@ -1,0 +1,18 @@
+{
+    "crime": "421. Landroid/database/Cursor;getColumnIndex->Landroid/telephony/SmsManager;getDefault",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/database/Cursor;",
+            "method": "getColumnIndex",
+            "descriptor": "(Ljava/lang/String;)I"
+        },
+        {
+            "class": "Landroid/telephony/SmsManager;",
+            "method": "getDefault",
+            "descriptor": "()Landroid/telephony/SmsManager;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6906. Ljavax/crypto/Mac;update->Ljava/lang/Object;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/crypto/Mac;",
+            "method": "update",
+            "descriptor": "([B I I)V"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

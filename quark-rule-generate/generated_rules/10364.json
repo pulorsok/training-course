@@ -1,0 +1,18 @@
+{
+    "crime": "10364. Ljava/lang/String;length->Ljava/nio/ByteBuffer;wrap",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "wrap",
+            "descriptor": "([B)Ljava/nio/ByteBuffer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

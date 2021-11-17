@@ -1,0 +1,18 @@
+{
+    "crime": "6410. Ljava/lang/IllegalArgumentException;<init>->Ljava/util/zip/Deflater;setInput",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/zip/Deflater;",
+            "method": "setInput",
+            "descriptor": "([B I I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

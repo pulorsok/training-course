@@ -1,0 +1,18 @@
+{
+    "crime": "2598. Ljava/io/EOFException;<init>->Ljava/util/zip/CRC32;getValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/EOFException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/zip/CRC32;",
+            "method": "getValue",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

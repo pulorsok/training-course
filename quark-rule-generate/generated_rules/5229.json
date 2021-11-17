@@ -1,0 +1,18 @@
+{
+    "crime": "5229. Ljava/net/HttpURLConnection;setConnectTimeout->Ljavax/net/ssl/HttpsURLConnection;setSSLSocketFactory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setConnectTimeout",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/HttpsURLConnection;",
+            "method": "setSSLSocketFactory",
+            "descriptor": "(Ljavax/net/ssl/SSLSocketFactory;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

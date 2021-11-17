@@ -1,0 +1,18 @@
+{
+    "crime": "9593. Ljava/util/Arrays;fill->Ljava/net/InetAddress;getAddress",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "fill",
+            "descriptor": "([B I I B)V"
+        },
+        {
+            "class": "Ljava/net/InetAddress;",
+            "method": "getAddress",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6354. Ljava/lang/IllegalArgumentException;<init>->Ljava/net/Socket;setSoTimeout",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "setSoTimeout",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

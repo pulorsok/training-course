@@ -1,0 +1,18 @@
+{
+    "crime": "8849. Ljava/text/DateFormat;parse->Ljava/lang/IllegalStateException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "parse",
+            "descriptor": "(Ljava/lang/String; Ljava/text/ParsePosition;)Ljava/util/Date;"
+        },
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

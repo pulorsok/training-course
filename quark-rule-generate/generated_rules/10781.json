@@ -1,0 +1,18 @@
+{
+    "crime": "10781. Ljava/lang/Object;<init>->Landroid/telephony/SmsManager;sendTextMessage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/telephony/SmsManager;",
+            "method": "sendTextMessage",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String; Ljava/lang/String; Landroid/app/PendingIntent; Landroid/app/PendingIntent;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

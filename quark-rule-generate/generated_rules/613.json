@@ -1,0 +1,18 @@
+{
+    "crime": "613. Ljava/lang/String;substring->Ljava/lang/System;nanoTime",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "nanoTime",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

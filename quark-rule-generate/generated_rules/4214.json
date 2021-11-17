@@ -1,0 +1,18 @@
+{
+    "crime": "4214. Ljava/lang/reflect/Field;setAccessible->Ljava/lang/reflect/Field;set",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/Field;",
+            "method": "setAccessible",
+            "descriptor": "(Z)V"
+        },
+        {
+            "class": "Ljava/lang/reflect/Field;",
+            "method": "set",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

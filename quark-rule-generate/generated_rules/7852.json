@@ -1,0 +1,18 @@
+{
+    "crime": "7852. Ljava/lang/Math;max->Ljava/io/EOFException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "max",
+            "descriptor": "(J J)J"
+        },
+        {
+            "class": "Ljava/io/EOFException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

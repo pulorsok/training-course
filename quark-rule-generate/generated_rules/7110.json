@@ -1,0 +1,18 @@
+{
+    "crime": "7110. Ljavax/net/ssl/HttpsURLConnection;setHostnameVerifier->Ljava/util/Arrays;asList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/HttpsURLConnection;",
+            "method": "setHostnameVerifier",
+            "descriptor": "(Ljavax/net/ssl/HostnameVerifier;)V"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "asList",
+            "descriptor": "([Ljava/lang/Object;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "9834. Ljava/lang/Short;valueOf->Ljava/io/IOException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Short;",
+            "method": "valueOf",
+            "descriptor": "(S)Ljava/lang/Short;"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

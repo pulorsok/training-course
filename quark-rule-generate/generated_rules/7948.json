@@ -1,0 +1,18 @@
+{
+    "crime": "7948. Ljavax/net/ssl/SSLSocket;startHandshake->Ljavax/net/ssl/SSLSession;getPeerCertificates",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "startHandshake",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSession;",
+            "method": "getPeerCertificates",
+            "descriptor": "()[Ljava/security/cert/Certificate;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

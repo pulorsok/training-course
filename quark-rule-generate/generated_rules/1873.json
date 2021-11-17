@@ -1,0 +1,18 @@
+{
+    "crime": "1873. Ljava/lang/StringBuilder;append->Ljava/util/Date;getTime",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(I)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/util/Date;",
+            "method": "getTime",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

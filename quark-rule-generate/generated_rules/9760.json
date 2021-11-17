@@ -1,0 +1,18 @@
+{
+    "crime": "9760. Ljava/lang/String;getBytes->Ljava/lang/String;hashCode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/nio/charset/Charset;)[B"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

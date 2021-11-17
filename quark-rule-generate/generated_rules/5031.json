@@ -1,0 +1,18 @@
+{
+    "crime": "5031. Ljava/util/concurrent/ConcurrentMap;putIfAbsent->Ljava/lang/Thread;start",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "putIfAbsent",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "start",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

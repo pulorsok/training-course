@@ -1,0 +1,18 @@
+{
+    "crime": "6180. Ljava/util/regex/Pattern;matcher->Ljava/lang/Integer;parseInt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Pattern;",
+            "method": "matcher",
+            "descriptor": "(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "parseInt",
+            "descriptor": "(Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

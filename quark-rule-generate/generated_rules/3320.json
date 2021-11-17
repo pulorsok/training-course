@@ -1,0 +1,18 @@
+{
+    "crime": "3320. Ljava/util/List;size->Ljava/net/ProxySelector;connectFailed",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "connectFailed",
+            "descriptor": "(Ljava/net/URI; Ljava/net/SocketAddress; Ljava/io/IOException;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6771. Ljava/lang/IllegalStateException;<init>->Ljava/lang/Long;parseLong",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "parseLong",
+            "descriptor": "(Ljava/lang/String;)J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

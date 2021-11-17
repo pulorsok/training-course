@@ -1,0 +1,18 @@
+{
+    "crime": "3776. Ljava/lang/Thread;currentThread->Ljava/lang/System;arraycopy",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "currentThread",
+            "descriptor": "()Ljava/lang/Thread;"
+        },
+        {
+            "class": "Ljava/lang/System;",
+            "method": "arraycopy",
+            "descriptor": "(Ljava/lang/Object; I Ljava/lang/Object; I I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

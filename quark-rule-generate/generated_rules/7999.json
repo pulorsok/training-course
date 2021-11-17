@@ -1,0 +1,18 @@
+{
+    "crime": "7999. Ljava/lang/Math;min->Ljava/nio/channels/FileChannel;force",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(I I)I"
+        },
+        {
+            "class": "Ljava/nio/channels/FileChannel;",
+            "method": "force",
+            "descriptor": "(Z)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

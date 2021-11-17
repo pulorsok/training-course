@@ -1,0 +1,18 @@
+{
+    "crime": "5906. Ljava/util/regex/Matcher;group->Ljava/util/regex/Matcher;matches",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "group",
+            "descriptor": "(I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "matches",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8197. Ljavax/net/ssl/X509TrustManager;getAcceptedIssuers->Ljava/util/Set;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/X509TrustManager;",
+            "method": "getAcceptedIssuers",
+            "descriptor": "()[Ljava/security/cert/X509Certificate;"
+        },
+        {
+            "class": "Ljava/util/Set;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

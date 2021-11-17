@@ -1,0 +1,18 @@
+{
+    "crime": "6499. Ljava/net/URI;<init>->Ljava/net/URI;getRawPath",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getRawPath",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "11053. Ljava/lang/Object;clone->Ljava/util/List;addAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "clone",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

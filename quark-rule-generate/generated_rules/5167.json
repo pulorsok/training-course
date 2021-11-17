@@ -1,0 +1,18 @@
+{
+    "crime": "5167. Ljava/lang/Byte;valueOf->Ljava/util/Map;clear",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Byte;",
+            "method": "valueOf",
+            "descriptor": "(B)Ljava/lang/Byte;"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "clear",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

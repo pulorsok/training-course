@@ -1,0 +1,18 @@
+{
+    "crime": "4568. Ljava/util/UUID;randomUUID->Ljava/util/UUID;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/UUID;",
+            "method": "randomUUID",
+            "descriptor": "()Ljava/util/UUID;"
+        },
+        {
+            "class": "Ljava/util/UUID;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

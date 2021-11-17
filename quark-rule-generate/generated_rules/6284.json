@@ -1,0 +1,18 @@
+{
+    "crime": "6284. Ljava/util/zip/CRC32;getValue->Ljava/io/IOException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/zip/CRC32;",
+            "method": "getValue",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

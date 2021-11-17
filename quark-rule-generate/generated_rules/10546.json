@@ -1,0 +1,18 @@
+{
+    "crime": "10546. Ljava/lang/Runnable;run->Ljava/lang/Exception;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Runnable;",
+            "method": "run",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Exception;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

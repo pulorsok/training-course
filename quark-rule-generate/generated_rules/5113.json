@@ -1,0 +1,18 @@
+{
+    "crime": "5113. Ljava/net/HttpURLConnection;getInputStream->Ljava/nio/ByteBuffer;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getInputStream",
+            "descriptor": "()Ljava/io/InputStream;"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "put",
+            "descriptor": "([B)Ljava/nio/ByteBuffer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

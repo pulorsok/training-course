@@ -1,0 +1,18 @@
+{
+    "crime": "6417. Ljava/lang/IllegalArgumentException;<init>->Ljavax/net/ssl/SSLSocket;getEnabledProtocols",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getEnabledProtocols",
+            "descriptor": "()[Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

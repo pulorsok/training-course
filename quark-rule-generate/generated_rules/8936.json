@@ -1,0 +1,18 @@
+{
+    "crime": "8936. Ljava/text/ParsePosition;getIndex->Ljava/lang/IllegalStateException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/ParsePosition;",
+            "method": "getIndex",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

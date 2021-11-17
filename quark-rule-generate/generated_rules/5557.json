@@ -1,0 +1,18 @@
+{
+    "crime": "5557. Ljava/util/concurrent/TimeUnit;toMillis->Ljava/util/Map$Entry;getValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toMillis",
+            "descriptor": "(J)J"
+        },
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getValue",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

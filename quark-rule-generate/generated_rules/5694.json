@@ -1,0 +1,18 @@
+{
+    "crime": "5694. Ljava/util/logging/Logger;fine->Ljava/math/BigInteger;pow",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "fine",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "pow",
+            "descriptor": "(I)Ljava/math/BigInteger;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

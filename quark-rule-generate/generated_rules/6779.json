@@ -1,0 +1,18 @@
+{
+    "crime": "6779. Ljava/lang/IllegalStateException;<init>->Ljava/lang/String;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([B Ljava/nio/charset/Charset;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

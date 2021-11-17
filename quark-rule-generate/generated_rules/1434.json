@@ -1,0 +1,18 @@
+{
+    "crime": "1434. Ljava/lang/StringBuilder;<init>->Ljava/security/cert/CertificateFactory;getInstance",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateFactory;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljava/security/cert/CertificateFactory;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

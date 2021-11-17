@@ -1,0 +1,18 @@
+{
+    "crime": "475. Ljava/util/Date;<init>->Ljava/util/Map;entrySet",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Date;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "entrySet",
+            "descriptor": "()Ljava/util/Set;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

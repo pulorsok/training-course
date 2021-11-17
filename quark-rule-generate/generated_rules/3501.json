@@ -1,0 +1,18 @@
+{
+    "crime": "3501. Ljava/lang/System;currentTimeMillis->Ljava/util/GregorianCalendar;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "currentTimeMillis",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/util/GregorianCalendar;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/TimeZone;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

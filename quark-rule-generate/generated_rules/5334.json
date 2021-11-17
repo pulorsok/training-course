@@ -1,0 +1,18 @@
+{
+    "crime": "5334. Ljava/lang/Character;getNumericValue->Ljava/lang/String;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "getNumericValue",
+            "descriptor": "(C)I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

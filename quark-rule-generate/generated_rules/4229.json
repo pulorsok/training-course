@@ -1,0 +1,18 @@
+{
+    "crime": "4229. Ljava/util/Set;contains->Ljava/lang/ref/WeakReference;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Set;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/lang/ref/WeakReference;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Object;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

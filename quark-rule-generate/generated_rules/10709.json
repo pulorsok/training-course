@@ -1,0 +1,18 @@
+{
+    "crime": "10709. Ljava/lang/Object;getClass->Ljava/lang/Class;getSimpleName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "getSimpleName",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "3489. Ljava/lang/System;currentTimeMillis->Ljava/text/DateFormat;parse",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "currentTimeMillis",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/text/DateFormat;",
+            "method": "parse",
+            "descriptor": "(Ljava/lang/String; Ljava/text/ParsePosition;)Ljava/util/Date;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

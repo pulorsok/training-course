@@ -1,0 +1,18 @@
+{
+    "crime": "3457. Ljava/util/List;toArray->Lorg/json/JSONObject;optBoolean",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "toArray",
+            "descriptor": "([Ljava/lang/Object;)[Ljava/lang/Object;"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "optBoolean",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

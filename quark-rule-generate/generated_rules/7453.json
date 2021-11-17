@@ -1,0 +1,18 @@
+{
+    "crime": "7453. Ljava/lang/Long;numberOfTrailingZeros->Ljava/lang/String;charAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "numberOfTrailingZeros",
+            "descriptor": "(J)I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

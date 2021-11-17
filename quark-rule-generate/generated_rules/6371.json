@@ -1,0 +1,18 @@
+{
+    "crime": "6371. Ljava/lang/IllegalArgumentException;<init>->Ljava/util/ArrayDeque;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "5339. Ljava/lang/Character;getNumericValue->Ljava/util/ArrayList;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "getNumericValue",
+            "descriptor": "(C)I"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

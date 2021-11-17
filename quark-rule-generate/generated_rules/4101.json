@@ -1,0 +1,18 @@
+{
+    "crime": "4101. Ljava/util/NoSuchElementException;<init>->Ljava/util/List;contains",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/NoSuchElementException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

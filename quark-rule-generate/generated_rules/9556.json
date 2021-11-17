@@ -1,0 +1,18 @@
+{
+    "crime": "9556. Ljava/util/Arrays;asList->Ljava/util/List;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "asList",
+            "descriptor": "([Ljava/lang/Object;)Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

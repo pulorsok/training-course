@@ -1,0 +1,18 @@
+{
+    "crime": "8631. Ljava/security/cert/X509Certificate;equals->Ljavax/net/ssl/SSLPeerUnverifiedException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLPeerUnverifiedException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

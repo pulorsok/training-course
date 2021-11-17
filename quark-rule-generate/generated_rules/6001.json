@@ -1,0 +1,18 @@
+{
+    "crime": "6001. Ljava/net/ProxySelector;getDefault->Ljava/util/Map$Entry;getKey",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "getDefault",
+            "descriptor": "()Ljava/net/ProxySelector;"
+        },
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getKey",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

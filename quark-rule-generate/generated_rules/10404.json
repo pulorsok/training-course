@@ -1,0 +1,18 @@
+{
+    "crime": "10404. Ljava/lang/String;length->Ljava/util/concurrent/ExecutorService;shutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/concurrent/ExecutorService;",
+            "method": "shutdown",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

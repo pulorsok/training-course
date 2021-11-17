@@ -1,0 +1,18 @@
+{
+    "crime": "702. Ljava/lang/String;toCharArray->Ljava/lang/String;contains",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toCharArray",
+            "descriptor": "()[C"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/CharSequence;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

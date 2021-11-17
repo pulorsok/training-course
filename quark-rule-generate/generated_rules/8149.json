@@ -1,0 +1,18 @@
+{
+    "crime": "8149. Ljava/nio/charset/Charset;forName->Ljava/lang/IllegalAccessError;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/charset/Charset;",
+            "method": "forName",
+            "descriptor": "(Ljava/lang/String;)Ljava/nio/charset/Charset;"
+        },
+        {
+            "class": "Ljava/lang/IllegalAccessError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

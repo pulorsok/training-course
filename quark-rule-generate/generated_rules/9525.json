@@ -1,0 +1,18 @@
+{
+    "crime": "9525. Ljava/lang/String;equalsIgnoreCase->Ljava/util/concurrent/ScheduledExecutorService;scheduleAtFixedRate",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledExecutorService;",
+            "method": "scheduleAtFixedRate",
+            "descriptor": "(Ljava/lang/Runnable; J J Ljava/util/concurrent/TimeUnit;)Ljava/util/concurrent/ScheduledFuture;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

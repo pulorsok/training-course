@@ -1,0 +1,18 @@
+{
+    "crime": "5254. Ljava/lang/Character;charCount->Ljava/lang/Integer;toHexString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "charCount",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "toHexString",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "2704. Ljava/util/List;get->Ljava/security/cert/X509Certificate;verify",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "get",
+            "descriptor": "(I)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "verify",
+            "descriptor": "(Ljava/security/PublicKey;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "5983. Ljava/net/ProxySelector;getDefault->Ljava/lang/String;substring",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "getDefault",
+            "descriptor": "()Ljava/net/ProxySelector;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "3598. Ljava/lang/System;nanoTime->Ljava/net/Socket;isClosed",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "nanoTime",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isClosed",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4856. Ljava/util/concurrent/ConcurrentLinkedQueue;add->Ljavax/net/ssl/HttpsURLConnection;setHostnameVerifier",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljavax/net/ssl/HttpsURLConnection;",
+            "method": "setHostnameVerifier",
+            "descriptor": "(Ljavax/net/ssl/HostnameVerifier;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

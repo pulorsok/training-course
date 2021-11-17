@@ -1,0 +1,18 @@
+{
+    "crime": "8091. Ljava/nio/channels/FileChannel;write->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/channels/FileChannel;",
+            "method": "write",
+            "descriptor": "(Ljava/nio/ByteBuffer; J)I"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

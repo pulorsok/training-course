@@ -1,0 +1,18 @@
+{
+    "crime": "7642. Ljavax/net/ssl/SSLSocket;getEnabledCipherSuites->Ljava/lang/Object;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getEnabledCipherSuites",
+            "descriptor": "()[Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

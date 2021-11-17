@@ -1,0 +1,18 @@
+{
+    "crime": "9502. Ljava/lang/String;equalsIgnoreCase->Ljava/net/HttpURLConnection;getInputStream",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getInputStream",
+            "descriptor": "()Ljava/io/InputStream;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

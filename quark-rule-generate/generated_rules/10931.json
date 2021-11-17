@@ -1,0 +1,18 @@
+{
+    "crime": "10931. Ljava/lang/Object;<init>->Ljava/nio/ByteBuffer;slice",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "slice",
+            "descriptor": "()Ljava/nio/ByteBuffer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7557. Ljava/nio/ByteBuffer;get->Ljava/lang/Integer;parseInt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "get",
+            "descriptor": "(I)B"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "parseInt",
+            "descriptor": "(Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

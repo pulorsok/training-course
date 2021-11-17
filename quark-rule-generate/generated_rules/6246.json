@@ -1,0 +1,18 @@
+{
+    "crime": "6246. Ljava/net/Socket;getRemoteSocketAddress->Ljava/lang/IllegalArgumentException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "getRemoteSocketAddress",
+            "descriptor": "()Ljava/net/SocketAddress;"
+        },
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "9189. Ljava/util/ArrayList;<init>->Ljava/util/Arrays;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "toString",
+            "descriptor": "([Ljava/lang/Object;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

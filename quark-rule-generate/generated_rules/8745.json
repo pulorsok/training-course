@@ -1,0 +1,18 @@
+{
+    "crime": "8745. Lorg/json/JSONObject;getString->Landroid/util/Log;e",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getString",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Landroid/util/Log;",
+            "method": "e",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

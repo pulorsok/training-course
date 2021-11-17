@@ -1,0 +1,18 @@
+{
+    "crime": "1022. Landroid/location/Location;getLongitude->Lorg/json/JSONObject;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/location/Location;",
+            "method": "getLongitude",
+            "descriptor": "()D"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; D)Lorg/json/JSONObject;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

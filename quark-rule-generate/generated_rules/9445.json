@@ -1,0 +1,18 @@
+{
+    "crime": "9445. Ljava/lang/String;equals->Ljava/util/concurrent/ScheduledThreadPoolExecutor;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledThreadPoolExecutor;",
+            "method": "<init>",
+            "descriptor": "(I Ljava/util/concurrent/ThreadFactory;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

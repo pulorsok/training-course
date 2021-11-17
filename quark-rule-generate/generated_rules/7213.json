@@ -1,0 +1,18 @@
+{
+    "crime": "7213. Ljava/net/URLDecoder;decode->Ljava/util/ArrayList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URLDecoder;",
+            "method": "decode",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

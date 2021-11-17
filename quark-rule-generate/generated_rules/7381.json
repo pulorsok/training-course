@@ -1,0 +1,18 @@
+{
+    "crime": "7381. Ljava/lang/Integer;valueOf->Ljava/util/zip/Inflater;getBytesWritten",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/Integer;"
+        },
+        {
+            "class": "Ljava/util/zip/Inflater;",
+            "method": "getBytesWritten",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

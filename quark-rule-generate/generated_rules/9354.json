@@ -1,0 +1,18 @@
+{
+    "crime": "9354. Ljava/util/ArrayList;<init>->Ljava/util/ArrayList;iterator",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "iterator",
+            "descriptor": "()Ljava/util/Iterator;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

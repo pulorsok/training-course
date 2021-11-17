@@ -1,0 +1,18 @@
+{
+    "crime": "7863. Ljava/nio/ByteBuffer;remaining->Ljava/lang/Character;getNumericValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "remaining",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "getNumericValue",
+            "descriptor": "(C)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

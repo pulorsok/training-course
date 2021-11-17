@@ -1,0 +1,18 @@
+{
+    "crime": "480. Ljava/util/Date;<init>->Ljava/util/concurrent/ExecutorService;shutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Date;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ExecutorService;",
+            "method": "shutdown",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8186. Ljavax/net/ssl/X509TrustManager;getAcceptedIssuers->Ljava/security/cert/X509Certificate;getSubjectX500Principal",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/X509TrustManager;",
+            "method": "getAcceptedIssuers",
+            "descriptor": "()[Ljava/security/cert/X509Certificate;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectX500Principal",
+            "descriptor": "()Ljavax/security/auth/x500/X500Principal;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

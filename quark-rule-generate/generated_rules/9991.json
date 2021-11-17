@@ -1,0 +1,18 @@
+{
+    "crime": "9991. Ljava/lang/String;<init>->Ljava/util/Map;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([B Ljava/nio/charset/Charset;)V"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "9526. Ljava/lang/String;equalsIgnoreCase->Ljava/util/concurrent/ScheduledThreadPoolExecutor;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledThreadPoolExecutor;",
+            "method": "<init>",
+            "descriptor": "(I Ljava/util/concurrent/ThreadFactory;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

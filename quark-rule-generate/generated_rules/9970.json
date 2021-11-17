@@ -1,0 +1,18 @@
+{
+    "crime": "9970. Ljava/lang/String;<init>->Ljava/lang/NumberFormatException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([B Ljava/nio/charset/Charset;)V"
+        },
+        {
+            "class": "Ljava/lang/NumberFormatException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

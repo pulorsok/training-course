@@ -1,0 +1,18 @@
+{
+    "crime": "2760. Ljava/io/File;<init>->Ljava/io/File;getAbsolutePath",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/File;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "getAbsolutePath",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

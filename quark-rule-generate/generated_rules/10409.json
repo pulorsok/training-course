@@ -1,0 +1,18 @@
+{
+    "crime": "10409. Ljava/lang/String;length->Ljava/util/regex/Matcher;end",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "end",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

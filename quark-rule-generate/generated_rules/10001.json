@@ -1,0 +1,18 @@
+{
+    "crime": "10001. Ljava/lang/String;<init>->Ljava/lang/String;endsWith",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([C I I)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "endsWith",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

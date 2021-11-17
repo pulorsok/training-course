@@ -1,0 +1,18 @@
+{
+    "crime": "5. Ljava/lang/String;regionMatches->Ljava/lang/Character;charCount",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "regionMatches",
+            "descriptor": "(I Ljava/lang/String; I I)Z"
+        },
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "charCount",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

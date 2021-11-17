@@ -1,0 +1,18 @@
+{
+    "crime": "10210. Ljava/lang/String;charAt->Ljava/security/cert/CertificateFactory;getInstance",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        },
+        {
+            "class": "Ljava/security/cert/CertificateFactory;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljava/security/cert/CertificateFactory;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

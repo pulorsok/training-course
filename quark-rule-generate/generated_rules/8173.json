@@ -1,0 +1,18 @@
+{
+    "crime": "8173. Ljava/nio/charset/Charset;forName->Ljava/util/regex/Matcher;lookingAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/charset/Charset;",
+            "method": "forName",
+            "descriptor": "(Ljava/lang/String;)Ljava/nio/charset/Charset;"
+        },
+        {
+            "class": "Ljava/util/regex/Matcher;",
+            "method": "lookingAt",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

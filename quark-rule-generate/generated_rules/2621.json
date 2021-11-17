@@ -1,0 +1,18 @@
+{
+    "crime": "2621. Ljava/lang/StringBuilder;appendCodePoint->Ljava/nio/ByteBuffer;position",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "appendCodePoint",
+            "descriptor": "(I)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "position",
+            "descriptor": "(I)Ljava/nio/Buffer;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

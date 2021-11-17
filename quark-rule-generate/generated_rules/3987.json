@@ -1,0 +1,18 @@
+{
+    "crime": "3987. Ljava/util/Map;put->Ljava/util/Random;nextBytes",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/Random;",
+            "method": "nextBytes",
+            "descriptor": "([B)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

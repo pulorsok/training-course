@@ -1,0 +1,18 @@
+{
+    "crime": "8938. Ljava/text/ParsePosition;getIndex->Ljava/lang/String;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/text/ParsePosition;",
+            "method": "getIndex",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

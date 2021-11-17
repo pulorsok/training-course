@@ -1,0 +1,18 @@
+{
+    "crime": "6684. Ljava/net/URI;getRawQuery->Ljava/util/LinkedList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getRawQuery",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/LinkedList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4747. Ljava/lang/AssertionError;<init>->Ljava/security/SecureRandom;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/security/SecureRandom;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

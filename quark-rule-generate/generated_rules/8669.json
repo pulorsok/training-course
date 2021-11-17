@@ -1,0 +1,18 @@
+{
+    "crime": "8669. Lorg/json/JSONObject;getInt->Landroid/media/MediaRecorder;setAudioSource",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "getInt",
+            "descriptor": "(Ljava/lang/String;)I"
+        },
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "setAudioSource",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

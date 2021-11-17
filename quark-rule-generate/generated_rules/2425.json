@@ -1,0 +1,18 @@
+{
+    "crime": "2425. Ljava/lang/StringBuilder;append->Ljava/lang/String;contains",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/CharSequence;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

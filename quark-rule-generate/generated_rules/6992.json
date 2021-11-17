@@ -1,0 +1,18 @@
+{
+    "crime": "6992. Ljava/net/URL;getProtocol->Ljava/util/HashSet;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URL;",
+            "method": "getProtocol",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/HashSet;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

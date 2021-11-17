@@ -1,0 +1,18 @@
+{
+    "crime": "491. Ljava/lang/String;substring->Ljava/lang/Character;getNumericValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "getNumericValue",
+            "descriptor": "(C)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "5285. Ljava/util/concurrent/Executors;newSingleThreadScheduledExecutor->Ljava/util/concurrent/ScheduledExecutorService;schedule",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/Executors;",
+            "method": "newSingleThreadScheduledExecutor",
+            "descriptor": "()Ljava/util/concurrent/ScheduledExecutorService;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledExecutorService;",
+            "method": "schedule",
+            "descriptor": "(Ljava/lang/Runnable; J Ljava/util/concurrent/TimeUnit;)Ljava/util/concurrent/ScheduledFuture;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

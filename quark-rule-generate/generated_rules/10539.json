@@ -1,0 +1,18 @@
+{
+    "crime": "10539. Ljava/lang/Object;notifyAll->Ljava/util/Map;values",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "notifyAll",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "values",
+            "descriptor": "()Ljava/util/Collection;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

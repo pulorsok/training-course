@@ -1,0 +1,18 @@
+{
+    "crime": "9536. Ljava/util/Arrays;asList->Ljava/lang/Object;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "asList",
+            "descriptor": "([Ljava/lang/Object;)Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

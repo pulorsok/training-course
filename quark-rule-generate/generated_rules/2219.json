@@ -1,0 +1,18 @@
+{
+    "crime": "2219. Ljava/io/ByteArrayOutputStream;<init>->Ljava/io/ByteArrayOutputStream;write",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/ByteArrayOutputStream;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/ByteArrayOutputStream;",
+            "method": "write",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "646. Ljava/lang/String;substring->Ljava/util/Random;nextBytes",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "substring",
+            "descriptor": "(I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/Random;",
+            "method": "nextBytes",
+            "descriptor": "([B)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

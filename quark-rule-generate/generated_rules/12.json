@@ -1,0 +1,18 @@
+{
+    "crime": "12. Ljava/lang/String;regionMatches->Ljava/lang/String;codePointAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "regionMatches",
+            "descriptor": "(I Ljava/lang/String; I I)Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "codePointAt",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

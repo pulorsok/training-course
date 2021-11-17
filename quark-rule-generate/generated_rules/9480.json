@@ -1,0 +1,18 @@
+{
+    "crime": "9480. Ljava/lang/String;equalsIgnoreCase->Ljava/lang/String;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([C I I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

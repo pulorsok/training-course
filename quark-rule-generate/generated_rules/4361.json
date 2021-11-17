@@ -1,0 +1,18 @@
+{
+    "crime": "4361. Ljava/io/RandomAccessFile;getChannel->Ljava/lang/Long;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "getChannel",
+            "descriptor": "()Ljava/nio/channels/FileChannel;"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "valueOf",
+            "descriptor": "(J)Ljava/lang/Long;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

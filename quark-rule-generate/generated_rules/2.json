@@ -1,0 +1,18 @@
+{
+    "crime": "2. Ljava/util/Calendar;setLenient->Ljava/util/Calendar;getTimeInMillis",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Calendar;",
+            "method": "setLenient",
+            "descriptor": "(Z)V"
+        },
+        {
+            "class": "Ljava/util/Calendar;",
+            "method": "getTimeInMillis",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

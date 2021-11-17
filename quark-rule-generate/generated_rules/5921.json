@@ -1,0 +1,18 @@
+{
+    "crime": "5921. Ljava/lang/IllegalAccessError;<init>->Ljava/lang/String;codePointAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalAccessError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "codePointAt",
+            "descriptor": "(I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

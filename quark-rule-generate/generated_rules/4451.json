@@ -1,0 +1,18 @@
+{
+    "crime": "4451. Ljava/util/TreeMap;<init>->Ljava/lang/String;toLowerCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/TreeMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toLowerCase",
+            "descriptor": "(Ljava/util/Locale;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

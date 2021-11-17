@@ -1,0 +1,18 @@
+{
+    "crime": "130. Ljava/util/Collections;addAll->Ljava/lang/NullPointerException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection; [Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

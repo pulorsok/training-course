@@ -1,0 +1,18 @@
+{
+    "crime": "3365. Ljava/util/List;size->Ljavax/net/ssl/SSLSocket;getSession",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getSession",
+            "descriptor": "()Ljavax/net/ssl/SSLSession;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6375. Ljava/lang/IllegalArgumentException;<init>->Ljava/util/Arrays;fill",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "fill",
+            "descriptor": "([Ljava/lang/Object; Ljava/lang/Object;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

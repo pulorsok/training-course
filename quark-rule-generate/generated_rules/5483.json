@@ -1,0 +1,18 @@
+{
+    "crime": "5483. Ljava/net/InetSocketAddress;getAddress->Ljava/net/Proxy;type",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/InetSocketAddress;",
+            "method": "getAddress",
+            "descriptor": "()Ljava/net/InetAddress;"
+        },
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "type",
+            "descriptor": "()Ljava/net/Proxy$Type;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

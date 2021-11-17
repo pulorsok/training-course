@@ -1,0 +1,18 @@
+{
+    "crime": "400. Ljava/util/Collections;unmodifiableList->Ljava/security/cert/X509Certificate;getPublicKey",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "unmodifiableList",
+            "descriptor": "(Ljava/util/List;)Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getPublicKey",
+            "descriptor": "()Ljava/security/PublicKey;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "351. Ljava/lang/String;startsWith->Ljava/net/InetAddress;getByAddress",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "startsWith",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Ljava/net/InetAddress;",
+            "method": "getByAddress",
+            "descriptor": "([B)Ljava/net/InetAddress;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "10777. Ljava/lang/Object;<init>->Landroid/location/Location;getLatitude",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/location/Location;",
+            "method": "getLatitude",
+            "descriptor": "()D"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

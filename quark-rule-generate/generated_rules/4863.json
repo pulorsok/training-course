@@ -1,0 +1,18 @@
+{
+    "crime": "4863. Ljava/net/ConnectException;initCause->Ljava/lang/String;contains",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ConnectException;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/CharSequence;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

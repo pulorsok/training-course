@@ -1,0 +1,18 @@
+{
+    "crime": "4808. Ljava/util/concurrent/ConcurrentLinkedQueue;<init>->Ljava/util/LinkedList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/LinkedList;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

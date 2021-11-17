@@ -1,0 +1,18 @@
+{
+    "crime": "7097. Ljava/net/URL;openConnection->Ljavax/net/ssl/SSLContext;getSocketFactory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URL;",
+            "method": "openConnection",
+            "descriptor": "(Ljava/net/Proxy;)Ljava/net/URLConnection;"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "getSocketFactory",
+            "descriptor": "()Ljavax/net/ssl/SSLSocketFactory;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

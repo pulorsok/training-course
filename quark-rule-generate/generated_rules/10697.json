@@ -1,0 +1,18 @@
+{
+    "crime": "10697. Ljava/lang/Object;equals->Ljava/util/logging/Logger;log",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "log",
+            "descriptor": "(Ljava/util/logging/Level; Ljava/lang/String; Ljava/lang/Throwable;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7499. Ljava/lang/Long;parseLong->Ljava/util/List;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "parseLong",
+            "descriptor": "(Ljava/lang/String;)J"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "1161. Landroid/location/LocationManager;requestLocationUpdates->Lorg/json/JSONObject;put",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/location/LocationManager;",
+            "method": "requestLocationUpdates",
+            "descriptor": "(Ljava/lang/String; J F Landroid/location/LocationListener;)V"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Z)Lorg/json/JSONObject;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

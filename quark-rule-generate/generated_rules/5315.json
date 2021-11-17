@@ -1,0 +1,18 @@
+{
+    "crime": "5315. Ljava/lang/Character;codePointAt->Ljava/util/ArrayList;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "codePointAt",
+            "descriptor": "(Ljava/lang/CharSequence; I)I"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

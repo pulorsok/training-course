@@ -1,0 +1,18 @@
+{
+    "crime": "4860. Ljava/net/ConnectException;initCause->Ljava/lang/AssertionError;getCause",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ConnectException;",
+            "method": "initCause",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/Throwable;"
+        },
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "getCause",
+            "descriptor": "()Ljava/lang/Throwable;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7341. Ljava/nio/ByteBuffer;allocate->Ljava/lang/String;charAt",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "allocate",
+            "descriptor": "(I)Ljava/nio/ByteBuffer;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "charAt",
+            "descriptor": "(I)C"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

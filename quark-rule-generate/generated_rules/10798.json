@@ -1,0 +1,18 @@
+{
+    "crime": "10798. Ljava/lang/Object;<init>->Ljava/io/File;isDirectory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "isDirectory",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "2034. Ljava/util/LinkedList;toArray->Ljava/lang/Runnable;run",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedList;",
+            "method": "toArray",
+            "descriptor": "([Ljava/lang/Object;)[Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Runnable;",
+            "method": "run",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

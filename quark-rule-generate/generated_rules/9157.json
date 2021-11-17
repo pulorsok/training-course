@@ -1,0 +1,18 @@
+{
+    "crime": "9157. Ljava/util/ArrayList;<init>->Ljava/net/HttpURLConnection;getInputStream",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "getInputStream",
+            "descriptor": "()Ljava/io/InputStream;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

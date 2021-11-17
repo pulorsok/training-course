@@ -1,0 +1,18 @@
+{
+    "crime": "4885. Ljava/lang/AssertionError;<init>->Ljava/lang/String;toLowerCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Object;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toLowerCase",
+            "descriptor": "(Ljava/util/Locale;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

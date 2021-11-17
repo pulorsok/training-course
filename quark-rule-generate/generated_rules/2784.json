@@ -1,0 +1,18 @@
+{
+    "crime": "2784. Ljava/lang/StringBuilder;insert->Ljava/net/URLEncoder;encode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "insert",
+            "descriptor": "(I C)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/net/URLEncoder;",
+            "method": "encode",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

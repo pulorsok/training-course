@@ -1,0 +1,18 @@
+{
+    "crime": "10947. Ljava/lang/Object;<init>->Ljava/util/Arrays;fill",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "fill",
+            "descriptor": "([B I I B)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

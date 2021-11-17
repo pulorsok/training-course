@@ -1,0 +1,18 @@
+{
+    "crime": "8090. Ljava/nio/channels/FileChannel;write->Ljava/lang/ArrayIndexOutOfBoundsException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/channels/FileChannel;",
+            "method": "write",
+            "descriptor": "(Ljava/nio/ByteBuffer; J)I"
+        },
+        {
+            "class": "Ljava/lang/ArrayIndexOutOfBoundsException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

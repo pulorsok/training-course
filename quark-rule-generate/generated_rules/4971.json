@@ -1,0 +1,18 @@
+{
+    "crime": "4971. Ljava/util/concurrent/ConcurrentMap;get->Ljava/util/concurrent/ConcurrentLinkedQueue;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

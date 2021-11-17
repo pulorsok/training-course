@@ -1,0 +1,18 @@
+{
+    "crime": "4585. Ljava/math/BigInteger;min->Ljava/math/BigInteger;longValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "min",
+            "descriptor": "(Ljava/math/BigInteger;)Ljava/math/BigInteger;"
+        },
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "longValue",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

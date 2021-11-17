@@ -1,0 +1,18 @@
+{
+    "crime": "9886. Ljava/lang/String;indexOf->Ljava/util/Arrays;fill",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/util/Arrays;",
+            "method": "fill",
+            "descriptor": "([B I I B)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

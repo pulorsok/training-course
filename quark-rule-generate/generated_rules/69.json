@@ -1,0 +1,18 @@
+{
+    "crime": "69. Ljava/util/Collection;toArray->Ljava/util/concurrent/ExecutorService;execute",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collection;",
+            "method": "toArray",
+            "descriptor": "([Ljava/lang/Object;)[Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ExecutorService;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4019. Ljava/util/Map;size->Ljava/lang/Byte;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "size",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/Byte;",
+            "method": "valueOf",
+            "descriptor": "(B)Ljava/lang/Byte;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

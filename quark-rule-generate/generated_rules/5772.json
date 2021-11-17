@@ -1,0 +1,18 @@
+{
+    "crime": "5772. Ljava/util/logging/Logger;isLoggable->Ljava/lang/String;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "isLoggable",
+            "descriptor": "(Ljava/util/logging/Level;)Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([C)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

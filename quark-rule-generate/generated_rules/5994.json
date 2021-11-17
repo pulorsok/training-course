@@ -1,0 +1,18 @@
+{
+    "crime": "5994. Ljava/net/ProxySelector;getDefault->Ljava/util/Collections;unmodifiableList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "getDefault",
+            "descriptor": "()Ljava/net/ProxySelector;"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "unmodifiableList",
+            "descriptor": "(Ljava/util/List;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

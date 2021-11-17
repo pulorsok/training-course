@@ -1,0 +1,18 @@
+{
+    "crime": "5618. Ljava/net/ProtocolException;<init>->Ljava/lang/Long;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/ProtocolException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/Long;",
+            "method": "valueOf",
+            "descriptor": "(J)Ljava/lang/Long;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

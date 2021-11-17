@@ -1,0 +1,18 @@
+{
+    "crime": "5659. Ljava/net/Proxy;address->Ljava/net/InetAddress;getHostAddress",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "address",
+            "descriptor": "()Ljava/net/SocketAddress;"
+        },
+        {
+            "class": "Ljava/net/InetAddress;",
+            "method": "getHostAddress",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

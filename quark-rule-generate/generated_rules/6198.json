@@ -1,0 +1,18 @@
+{
+    "crime": "6198. Ljava/util/regex/Pattern;matcher->Ljava/lang/String;startsWith",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/regex/Pattern;",
+            "method": "matcher",
+            "descriptor": "(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "startsWith",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

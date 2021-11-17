@@ -1,0 +1,18 @@
+{
+    "crime": "3612. Ljava/lang/System;nanoTime->Ljava/util/concurrent/ScheduledExecutorService;shutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "nanoTime",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledExecutorService;",
+            "method": "shutdown",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

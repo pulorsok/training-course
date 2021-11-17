@@ -1,0 +1,18 @@
+{
+    "crime": "4333. Ljava/util/Set;remove->Ljava/net/Socket;isOutputShutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Set;",
+            "method": "remove",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isOutputShutdown",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

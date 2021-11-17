@@ -1,0 +1,18 @@
+{
+    "crime": "6455. Ljava/net/SocketException;<init>->Ljava/net/UnknownServiceException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/SocketException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/net/UnknownServiceException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

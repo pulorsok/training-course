@@ -1,0 +1,18 @@
+{
+    "crime": "4822. Ljava/util/concurrent/ConcurrentLinkedQueue;<init>->Ljavax/net/ssl/HttpsURLConnection;setSSLSocketFactory",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentLinkedQueue;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljavax/net/ssl/HttpsURLConnection;",
+            "method": "setSSLSocketFactory",
+            "descriptor": "(Ljavax/net/ssl/SSLSocketFactory;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

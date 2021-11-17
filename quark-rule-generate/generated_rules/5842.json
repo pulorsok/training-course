@@ -1,0 +1,18 @@
+{
+    "crime": "5842. Ljava/net/Proxy;type->Ljava/net/Socket;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "type",
+            "descriptor": "()Ljava/net/Proxy$Type;"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "<init>",
+            "descriptor": "(Ljava/net/Proxy;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "8918. Lorg/json/JSONObject;put->Ljava/io/ByteArrayOutputStream;toByteArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Z)Lorg/json/JSONObject;"
+        },
+        {
+            "class": "Ljava/io/ByteArrayOutputStream;",
+            "method": "toByteArray",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

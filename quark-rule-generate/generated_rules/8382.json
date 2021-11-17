@@ -1,0 +1,18 @@
+{
+    "crime": "8382. Ljava/lang/NullPointerException;<init>->Ljava/security/SecureRandom;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/security/SecureRandom;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

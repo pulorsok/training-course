@@ -1,0 +1,18 @@
+{
+    "crime": "1153. Landroid/location/LocationManager;requestLocationUpdates->Landroid/util/Log;e",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/location/LocationManager;",
+            "method": "requestLocationUpdates",
+            "descriptor": "(Ljava/lang/String; J F Landroid/location/LocationListener;)V"
+        },
+        {
+            "class": "Landroid/util/Log;",
+            "method": "e",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

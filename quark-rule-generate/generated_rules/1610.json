@@ -1,0 +1,18 @@
+{
+    "crime": "1610. Ljava/lang/StringBuilder;append->Ljava/lang/String;toCharArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(C)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toCharArray",
+            "descriptor": "()[C"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6018. Ljava/lang/IllegalArgumentException;<init>->Ljava/io/RandomAccessFile;getChannel",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "getChannel",
+            "descriptor": "()Ljava/nio/channels/FileChannel;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

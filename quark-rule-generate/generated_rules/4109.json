@@ -1,0 +1,18 @@
+{
+    "crime": "4109. Ljava/lang/ref/Reference;get->Ljava/lang/Object;wait",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/ref/Reference;",
+            "method": "get",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "wait",
+            "descriptor": "(J I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

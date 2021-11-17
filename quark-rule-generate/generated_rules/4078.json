@@ -1,0 +1,18 @@
+{
+    "crime": "4078. Ljava/io/InputStream;read->Ljava/util/Iterator;hasNext",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/InputStream;",
+            "method": "read",
+            "descriptor": "([B)I"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "hasNext",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

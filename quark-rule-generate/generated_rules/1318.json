@@ -1,0 +1,18 @@
+{
+    "crime": "1318. Ljava/lang/StringBuilder;<init>->Ljava/lang/Class;getSimpleName",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Class;",
+            "method": "getSimpleName",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

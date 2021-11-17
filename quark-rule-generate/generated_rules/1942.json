@@ -1,0 +1,18 @@
+{
+    "crime": "1942. Ljava/util/LinkedList;<init>->Ljava/util/Map;entrySet",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/LinkedList;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Collection;)V"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "entrySet",
+            "descriptor": "()Ljava/util/Set;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

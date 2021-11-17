@@ -1,0 +1,18 @@
+{
+    "crime": "6831. Ljava/lang/IllegalStateException;<init>->Ljava/util/Collections;addAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection; [Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

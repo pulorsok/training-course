@@ -1,0 +1,18 @@
+{
+    "crime": "10833. Ljava/lang/Object;<init>->Ljava/lang/Object;getClass",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

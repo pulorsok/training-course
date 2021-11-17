@@ -1,0 +1,18 @@
+{
+    "crime": "1274. Ljava/util/Iterator;next->Lorg/json/JSONObject;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

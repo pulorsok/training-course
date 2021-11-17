@@ -1,0 +1,18 @@
+{
+    "crime": "6876. Ljava/lang/IllegalStateException;<init>->Ljavax/net/ssl/SSLContext;init",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "init",
+            "descriptor": "([Ljavax/net/ssl/KeyManager; [Ljavax/net/ssl/TrustManager; Ljava/security/SecureRandom;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

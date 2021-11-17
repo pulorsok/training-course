@@ -1,0 +1,18 @@
+{
+    "crime": "7952. Ljava/nio/channels/FileChannel;force->Ljava/lang/ArrayIndexOutOfBoundsException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/channels/FileChannel;",
+            "method": "force",
+            "descriptor": "(Z)V"
+        },
+        {
+            "class": "Ljava/lang/ArrayIndexOutOfBoundsException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

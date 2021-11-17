@@ -1,0 +1,18 @@
+{
+    "crime": "1276. Ljava/util/Iterator;remove->Ljava/util/Deque;size",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "remove",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Deque;",
+            "method": "size",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

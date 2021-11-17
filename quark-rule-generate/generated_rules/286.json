@@ -1,0 +1,18 @@
+{
+    "crime": "286. Ljava/util/Collections;emptySet->Ljava/util/TreeSet;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "emptySet",
+            "descriptor": "()Ljava/util/Set;"
+        },
+        {
+            "class": "Ljava/util/TreeSet;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

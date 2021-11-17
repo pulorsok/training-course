@@ -1,0 +1,18 @@
+{
+    "crime": "7375. Ljava/lang/Integer;valueOf->Ljava/util/concurrent/ExecutorService;execute",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "valueOf",
+            "descriptor": "(I)Ljava/lang/Integer;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ExecutorService;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

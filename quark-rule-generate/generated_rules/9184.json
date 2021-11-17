@@ -1,0 +1,18 @@
+{
+    "crime": "9184. Ljava/util/ArrayList;<init>->Ljava/security/cert/X509Certificate;getIssuerDN",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getIssuerDN",
+            "descriptor": "()Ljava/security/Principal;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "10658. Ljava/util/ArrayDeque;<init>->Ljavax/net/ssl/SSLContext;getInstance",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljavax/net/ssl/SSLContext;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

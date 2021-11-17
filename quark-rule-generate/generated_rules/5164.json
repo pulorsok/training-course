@@ -1,0 +1,18 @@
+{
+    "crime": "5164. Ljava/lang/Byte;valueOf->Ljava/lang/Thread;holdsLock",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Byte;",
+            "method": "valueOf",
+            "descriptor": "(B)Ljava/lang/Byte;"
+        },
+        {
+            "class": "Ljava/lang/Thread;",
+            "method": "holdsLock",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

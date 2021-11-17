@@ -1,0 +1,18 @@
+{
+    "crime": "4893. Ljava/lang/AssertionError;<init>->Ljava/lang/reflect/Method;invoke",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Object;)V"
+        },
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "invoke",
+            "descriptor": "(Ljava/lang/Object; [Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

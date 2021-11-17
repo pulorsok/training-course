@@ -1,0 +1,18 @@
+{
+    "crime": "6815. Ljava/lang/IllegalStateException;<init>->Ljava/nio/ByteBuffer;position",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "position",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

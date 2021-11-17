@@ -1,0 +1,18 @@
+{
+    "crime": "3544. Ljava/util/Map$Entry;getValue->Ljava/lang/Object;getClass",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getValue",
+            "descriptor": "()Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "getClass",
+            "descriptor": "()Ljava/lang/Class;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

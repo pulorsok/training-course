@@ -1,0 +1,18 @@
+{
+    "crime": "289. Ljava/util/Collections;singletonList->Ljava/lang/String;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "singletonList",
+            "descriptor": "(Ljava/lang/Object;)Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

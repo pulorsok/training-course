@@ -1,0 +1,18 @@
+{
+    "crime": "4222. Ljava/util/Set;contains->Ljava/lang/String;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Set;",
+            "method": "contains",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "<init>",
+            "descriptor": "([C)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

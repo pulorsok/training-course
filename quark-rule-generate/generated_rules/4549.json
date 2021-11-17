@@ -1,0 +1,18 @@
+{
+    "crime": "4549. Ljava/lang/ArrayIndexOutOfBoundsException;<init>->Ljava/nio/ByteBuffer;hasRemaining",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/ArrayIndexOutOfBoundsException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "hasRemaining",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "4894. Ljava/lang/AssertionError;<init>->Ljava/net/IDN;toASCII",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Object;)V"
+        },
+        {
+            "class": "Ljava/net/IDN;",
+            "method": "toASCII",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

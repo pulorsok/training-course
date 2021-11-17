@@ -1,0 +1,18 @@
+{
+    "crime": "2753. Ljava/util/List;hashCode->Ljava/lang/Object;hashCode",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "hashCode",
+            "descriptor": "()I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

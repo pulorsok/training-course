@@ -1,0 +1,18 @@
+{
+    "crime": "3262. Ljava/lang/StringBuilder;toString->Ljava/util/concurrent/SynchronousQueue;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/util/concurrent/SynchronousQueue;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

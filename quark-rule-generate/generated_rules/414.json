@@ -1,0 +1,18 @@
+{
+    "crime": "414. Landroid/content/pm/PackageManager;hasSystemFeature->Landroid/hardware/Camera;open",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/pm/PackageManager;",
+            "method": "hasSystemFeature",
+            "descriptor": "(Ljava/lang/String;)Z"
+        },
+        {
+            "class": "Landroid/hardware/Camera;",
+            "method": "open",
+            "descriptor": "(I)Landroid/hardware/Camera;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

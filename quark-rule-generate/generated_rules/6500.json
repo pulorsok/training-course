@@ -1,0 +1,18 @@
+{
+    "crime": "6500. Ljava/net/URI;<init>->Ljava/net/URI;getRawQuery",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URI;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getRawQuery",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

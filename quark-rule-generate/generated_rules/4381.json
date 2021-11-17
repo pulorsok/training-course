@@ -1,0 +1,18 @@
+{
+    "crime": "4381. Ljava/lang/reflect/Method;invoke->Ljava/lang/Boolean;booleanValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/reflect/Method;",
+            "method": "invoke",
+            "descriptor": "(Ljava/lang/Object; [Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Boolean;",
+            "method": "booleanValue",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

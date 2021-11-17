@@ -1,0 +1,18 @@
+{
+    "crime": "5796. Ljava/util/logging/Logger;log->Ljava/lang/StringBuilder;toString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "log",
+            "descriptor": "(Ljava/util/logging/Level; Ljava/lang/String; Ljava/lang/Throwable;)V"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

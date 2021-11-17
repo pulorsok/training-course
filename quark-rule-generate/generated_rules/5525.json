@@ -1,0 +1,18 @@
+{
+    "crime": "5525. Ljava/util/concurrent/TimeUnit;toMillis->Ljava/lang/Math;max",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toMillis",
+            "descriptor": "(J)J"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "max",
+            "descriptor": "(J J)J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "3056. Ljava/util/List;set->Ljava/net/ProxySelector;select",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/List;",
+            "method": "set",
+            "descriptor": "(I Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "select",
+            "descriptor": "(Ljava/net/URI;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

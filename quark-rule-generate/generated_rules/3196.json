@@ -1,0 +1,18 @@
+{
+    "crime": "3196. Ljava/lang/StringBuilder;toString->Ljava/net/Socket;isInputShutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "toString",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isInputShutdown",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

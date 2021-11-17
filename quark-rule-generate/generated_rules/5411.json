@@ -1,0 +1,18 @@
+{
+    "crime": "5411. Ljava/util/concurrent/ScheduledThreadPoolExecutor;<init>->Ljava/lang/IllegalStateException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ScheduledThreadPoolExecutor;",
+            "method": "<init>",
+            "descriptor": "(I Ljava/util/concurrent/ThreadFactory;)V"
+        },
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

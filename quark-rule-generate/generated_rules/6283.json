@@ -1,0 +1,18 @@
+{
+    "crime": "6283. Ljava/net/Socket;isClosed->Ljava/util/List;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isClosed",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/List;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

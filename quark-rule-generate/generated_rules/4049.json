@@ -1,0 +1,18 @@
+{
+    "crime": "4049. Ljava/util/Map;values->Ljava/util/Map;clear",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "values",
+            "descriptor": "()Ljava/util/Collection;"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "clear",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

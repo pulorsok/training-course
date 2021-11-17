@@ -1,0 +1,18 @@
+{
+    "crime": "3792. Ljava/util/Map;get->Ljava/lang/Integer;byteValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Map;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "byteValue",
+            "descriptor": "()B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

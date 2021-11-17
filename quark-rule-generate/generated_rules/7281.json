@@ -1,0 +1,18 @@
+{
+    "crime": "7281. Ljavax/net/ssl/SSLContext;getSocketFactory->Ljava/util/Map$Entry;getKey",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "getSocketFactory",
+            "descriptor": "()Ljavax/net/ssl/SSLSocketFactory;"
+        },
+        {
+            "class": "Ljava/util/Map$Entry;",
+            "method": "getKey",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

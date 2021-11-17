@@ -1,0 +1,18 @@
+{
+    "crime": "3611. Ljava/lang/System;nanoTime->Ljava/util/concurrent/ScheduledExecutorService;scheduleAtFixedRate",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/System;",
+            "method": "nanoTime",
+            "descriptor": "()J"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledExecutorService;",
+            "method": "scheduleAtFixedRate",
+            "descriptor": "(Ljava/lang/Runnable; J J Ljava/util/concurrent/TimeUnit;)Ljava/util/concurrent/ScheduledFuture;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

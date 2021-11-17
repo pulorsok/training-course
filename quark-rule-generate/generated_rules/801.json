@@ -1,0 +1,18 @@
+{
+    "crime": "801. Ljava/lang/String;toLowerCase->Ljava/nio/charset/Charset;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toLowerCase",
+            "descriptor": "(Ljava/util/Locale;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/nio/charset/Charset;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

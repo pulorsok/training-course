@@ -1,0 +1,18 @@
+{
+    "crime": "5283. Ljava/lang/Character;charCount->Ljava/util/Map;get",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "charCount",
+            "descriptor": "(I)I"
+        },
+        {
+            "class": "Ljava/util/Map;",
+            "method": "get",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

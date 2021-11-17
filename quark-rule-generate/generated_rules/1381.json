@@ -1,0 +1,18 @@
+{
+    "crime": "1381. Landroid/media/MediaRecorder;setAudioSource->Landroid/media/MediaRecorder;setOutputFormat",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "setAudioSource",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Landroid/media/MediaRecorder;",
+            "method": "setOutputFormat",
+            "descriptor": "(I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

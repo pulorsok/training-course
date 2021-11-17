@@ -1,0 +1,18 @@
+{
+    "crime": "10776. Ljava/lang/Object;<init>->Landroid/hardware/Camera;takePicture",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Landroid/hardware/Camera;",
+            "method": "takePicture",
+            "descriptor": "(Landroid/hardware/Camera$ShutterCallback; Landroid/hardware/Camera$PictureCallback; Landroid/hardware/Camera$PictureCallback;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

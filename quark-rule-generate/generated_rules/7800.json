@@ -1,0 +1,18 @@
+{
+    "crime": "7800. Ljava/nio/ByteBuffer;position->Ljava/lang/Character;getNumericValue",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/nio/ByteBuffer;",
+            "method": "position",
+            "descriptor": "(I)Ljava/nio/Buffer;"
+        },
+        {
+            "class": "Ljava/lang/Character;",
+            "method": "getNumericValue",
+            "descriptor": "(C)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

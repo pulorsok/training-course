@@ -1,0 +1,18 @@
+{
+    "crime": "298. Ljava/util/Collections;singletonList->Ljava/net/URI;create",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "singletonList",
+            "descriptor": "(Ljava/lang/Object;)Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/net/URI;",
+            "method": "create",
+            "descriptor": "(Ljava/lang/String;)Ljava/net/URI;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "914. Landroid/hardware/Camera;open->Landroid/hardware/Camera;startPreview",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/hardware/Camera;",
+            "method": "open",
+            "descriptor": "(I)Landroid/hardware/Camera;"
+        },
+        {
+            "class": "Landroid/hardware/Camera;",
+            "method": "startPreview",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

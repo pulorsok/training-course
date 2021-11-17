@@ -1,0 +1,18 @@
+{
+    "crime": "8579. Ljava/security/cert/CertificateFactory;getInstance->Ljava/util/Collections;unmodifiableList",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/CertificateFactory;",
+            "method": "getInstance",
+            "descriptor": "(Ljava/lang/String;)Ljava/security/cert/CertificateFactory;"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "unmodifiableList",
+            "descriptor": "(Ljava/util/List;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "5349. Ljava/util/concurrent/ScheduledExecutorService;isShutdown->Ljava/util/concurrent/ScheduledExecutorService;schedule",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ScheduledExecutorService;",
+            "method": "isShutdown",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledExecutorService;",
+            "method": "schedule",
+            "descriptor": "(Ljava/lang/Runnable; J Ljava/util/concurrent/TimeUnit;)Ljava/util/concurrent/ScheduledFuture;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

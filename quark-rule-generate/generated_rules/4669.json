@@ -1,0 +1,18 @@
+{
+    "crime": "4669. Ljava/math/BigInteger;subtract->Ljava/util/Queue;add",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/math/BigInteger;",
+            "method": "subtract",
+            "descriptor": "(Ljava/math/BigInteger;)Ljava/math/BigInteger;"
+        },
+        {
+            "class": "Ljava/util/Queue;",
+            "method": "add",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

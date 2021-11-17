@@ -1,0 +1,18 @@
+{
+    "crime": "7085. Ljava/net/URL;openConnection->Ljava/util/Iterator;next",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/URL;",
+            "method": "openConnection",
+            "descriptor": "(Ljava/net/Proxy;)Ljava/net/URLConnection;"
+        },
+        {
+            "class": "Ljava/util/Iterator;",
+            "method": "next",
+            "descriptor": "()Ljava/lang/Object;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

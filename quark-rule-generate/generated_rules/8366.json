@@ -1,0 +1,18 @@
+{
+    "crime": "8366. Ljava/lang/NullPointerException;<init>->Ljava/lang/String;indexOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/NullPointerException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "indexOf",
+            "descriptor": "(Ljava/lang/String; I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

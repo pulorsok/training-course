@@ -1,0 +1,18 @@
+{
+    "crime": "8247. Ljava/security/MessageDigest;digest->Ljava/lang/String;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/MessageDigest;",
+            "method": "digest",
+            "descriptor": "([B)[B"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

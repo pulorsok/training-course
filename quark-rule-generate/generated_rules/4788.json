@@ -1,0 +1,18 @@
+{
+    "crime": "4788. Ljava/lang/AssertionError;<init>->Ljava/util/concurrent/ScheduledFuture;cancel",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/AssertionError;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledFuture;",
+            "method": "cancel",
+            "descriptor": "(Z)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

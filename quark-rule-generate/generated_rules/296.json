@@ -1,0 +1,18 @@
+{
+    "crime": "296. Ljava/util/Collections;singletonList->Ljava/net/ProxySelector;select",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "singletonList",
+            "descriptor": "(Ljava/lang/Object;)Ljava/util/List;"
+        },
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "select",
+            "descriptor": "(Ljava/net/URI;)Ljava/util/List;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

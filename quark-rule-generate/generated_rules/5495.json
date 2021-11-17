@@ -1,0 +1,18 @@
+{
+    "crime": "5495. Ljava/net/InetSocketAddress;getHostName->Ljava/lang/Object;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/InetSocketAddress;",
+            "method": "getHostName",
+            "descriptor": "()Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

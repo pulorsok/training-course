@@ -1,0 +1,18 @@
+{
+    "crime": "9400. Ljava/lang/String;equals->Ljava/lang/String;toCharArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toCharArray",
+            "descriptor": "()[C"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

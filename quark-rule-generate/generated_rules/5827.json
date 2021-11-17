@@ -1,0 +1,18 @@
+{
+    "crime": "5827. Ljava/net/Proxy;type->Ljava/lang/String;replaceAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Proxy;",
+            "method": "type",
+            "descriptor": "()Ljava/net/Proxy$Type;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "replaceAll",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

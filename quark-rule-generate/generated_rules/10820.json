@@ -1,0 +1,18 @@
+{
+    "crime": "10820. Ljava/lang/Object;<init>->Ljava/lang/Integer;toHexString",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "toHexString",
+            "descriptor": "(I)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "6383. Ljava/lang/IllegalArgumentException;<init>->Ljava/util/LinkedHashMap;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/LinkedHashMap;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

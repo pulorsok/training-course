@@ -1,0 +1,18 @@
+{
+    "crime": "9427. Ljava/lang/String;equals->Ljava/util/ArrayDeque;isEmpty",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        },
+        {
+            "class": "Ljava/util/ArrayDeque;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

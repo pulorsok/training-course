@@ -1,0 +1,18 @@
+{
+    "crime": "4099. Ljava/util/NoSuchElementException;<init>->Ljava/net/UnknownServiceException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/NoSuchElementException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/UnknownServiceException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

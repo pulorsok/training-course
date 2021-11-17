@@ -1,0 +1,18 @@
+{
+    "crime": "10913. Ljava/lang/Object;<init>->Ljava/net/URI;getScheme",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getScheme",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

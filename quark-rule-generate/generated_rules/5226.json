@@ -1,0 +1,18 @@
+{
+    "crime": "5226. Ljava/net/HttpURLConnection;setConnectTimeout->Ljava/util/TreeMap;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/HttpURLConnection;",
+            "method": "setConnectTimeout",
+            "descriptor": "(I)V"
+        },
+        {
+            "class": "Ljava/util/TreeMap;",
+            "method": "<init>",
+            "descriptor": "(Ljava/util/Comparator;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

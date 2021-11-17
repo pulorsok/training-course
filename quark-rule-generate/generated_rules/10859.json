@@ -1,0 +1,18 @@
+{
+    "crime": "10859. Ljava/lang/Object;<init>->Ljava/lang/String;toCharArray",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "toCharArray",
+            "descriptor": "()[C"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

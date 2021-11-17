@@ -1,0 +1,18 @@
+{
+    "crime": "2006. Landroid/util/Log;getStackTraceString->Ljava/lang/Math;min",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/util/Log;",
+            "method": "getStackTraceString",
+            "descriptor": "(Ljava/lang/Throwable;)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/Math;",
+            "method": "min",
+            "descriptor": "(I I)I"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "10087. Ljava/lang/String;isEmpty->Ljava/lang/String;getBytes",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/lang/String;)[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

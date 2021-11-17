@@ -1,0 +1,18 @@
+{
+    "crime": "5040. Ljava/util/concurrent/ConcurrentMap;putIfAbsent->Ljava/security/PublicKey;getEncoded",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/ConcurrentMap;",
+            "method": "putIfAbsent",
+            "descriptor": "(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;"
+        },
+        {
+            "class": "Ljava/security/PublicKey;",
+            "method": "getEncoded",
+            "descriptor": "()[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

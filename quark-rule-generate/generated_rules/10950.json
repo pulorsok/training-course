@@ -1,0 +1,18 @@
+{
+    "crime": "10950. Ljava/lang/Object;<init>->Ljava/util/Collections;addAll",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Object;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/Collections;",
+            "method": "addAll",
+            "descriptor": "(Ljava/util/Collection; [Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

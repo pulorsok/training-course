@@ -1,0 +1,18 @@
+{
+    "crime": "2099. Ljava/lang/StringBuilder;append->Ljava/nio/charset/Charset;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/Object;)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/nio/charset/Charset;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

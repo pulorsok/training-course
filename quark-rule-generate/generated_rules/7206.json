@@ -1,0 +1,18 @@
+{
+    "crime": "7206. Ljava/lang/Integer;toBinaryString->Ljava/lang/String;replace",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Integer;",
+            "method": "toBinaryString",
+            "descriptor": "(I)Ljava/lang/String;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "replace",
+            "descriptor": "(C C)Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

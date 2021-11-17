@@ -1,0 +1,18 @@
+{
+    "crime": "5784. Ljava/lang/Exception;<init>->Ljava/lang/String;equals",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/Exception;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/Throwable;)V"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equals",
+            "descriptor": "(Ljava/lang/Object;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

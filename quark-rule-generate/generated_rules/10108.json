@@ -1,0 +1,18 @@
+{
+    "crime": "10108. Ljava/lang/String;isEmpty->Ljava/net/URI;create",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "isEmpty",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/net/URI;",
+            "method": "create",
+            "descriptor": "(Ljava/lang/String;)Ljava/net/URI;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

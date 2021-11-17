@@ -1,0 +1,18 @@
+{
+    "crime": "4368. Ljava/io/RandomAccessFile;getChannel->Ljava/lang/StringBuilder;append",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/RandomAccessFile;",
+            "method": "getChannel",
+            "descriptor": "()Ljava/nio/channels/FileChannel;"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

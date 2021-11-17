@@ -1,0 +1,18 @@
+{
+    "crime": "9771. Ljava/lang/String;getBytes->Ljava/security/MessageDigest;digest",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/nio/charset/Charset;)[B"
+        },
+        {
+            "class": "Ljava/security/MessageDigest;",
+            "method": "digest",
+            "descriptor": "([B)[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

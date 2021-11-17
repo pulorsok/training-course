@@ -1,0 +1,18 @@
+{
+    "crime": "4567. Ljava/util/UUID;randomUUID->Ljava/util/ArrayList;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/UUID;",
+            "method": "randomUUID",
+            "descriptor": "()Ljava/util/UUID;"
+        },
+        {
+            "class": "Ljava/util/ArrayList;",
+            "method": "<init>",
+            "descriptor": "()V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

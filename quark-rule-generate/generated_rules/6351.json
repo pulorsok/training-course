@@ -1,0 +1,18 @@
+{
+    "crime": "6351. Ljava/lang/IllegalArgumentException;<init>->Ljava/net/HttpRetryException;<init>",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/net/HttpRetryException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String; I)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

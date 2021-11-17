@@ -1,0 +1,18 @@
+{
+    "crime": "10373. Ljava/lang/String;length->Ljava/security/cert/X509Certificate;getSubjectX500Principal",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "length",
+            "descriptor": "()I"
+        },
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectX500Principal",
+            "descriptor": "()Ljavax/security/auth/x500/X500Principal;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

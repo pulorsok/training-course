@@ -1,0 +1,18 @@
+{
+    "crime": "1949. Landroid/util/Log;e->Ljava/lang/Boolean;valueOf",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/util/Log;",
+            "method": "e",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)I"
+        },
+        {
+            "class": "Ljava/lang/Boolean;",
+            "method": "valueOf",
+            "descriptor": "(Z)Ljava/lang/Boolean;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

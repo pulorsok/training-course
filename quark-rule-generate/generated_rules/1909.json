@@ -1,0 +1,18 @@
+{
+    "crime": "1909. Ljava/lang/StringBuilder;append->Ljava/util/concurrent/ScheduledFuture;cancel",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "append",
+            "descriptor": "(I)Ljava/lang/StringBuilder;"
+        },
+        {
+            "class": "Ljava/util/concurrent/ScheduledFuture;",
+            "method": "cancel",
+            "descriptor": "(Z)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

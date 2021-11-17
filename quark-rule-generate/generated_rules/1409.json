@@ -1,0 +1,18 @@
+{
+    "crime": "1409. Ljava/lang/StringBuilder;<init>->Ljava/net/URI;getHost",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/StringBuilder;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/net/URI;",
+            "method": "getHost",
+            "descriptor": "()Ljava/lang/String;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

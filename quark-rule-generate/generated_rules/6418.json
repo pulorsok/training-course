@@ -1,0 +1,18 @@
+{
+    "crime": "6418. Ljava/lang/IllegalArgumentException;<init>->Ljavax/net/ssl/SSLSocket;getSession",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljavax/net/ssl/SSLSocket;",
+            "method": "getSession",
+            "descriptor": "()Ljavax/net/ssl/SSLSession;"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

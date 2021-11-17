@@ -1,0 +1,18 @@
+{
+    "crime": "6567. Ljava/lang/IllegalStateException;<init>->Ljava/util/logging/Logger;isLoggable",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalStateException;",
+            "method": "<init>",
+            "descriptor": "()V"
+        },
+        {
+            "class": "Ljava/util/logging/Logger;",
+            "method": "isLoggable",
+            "descriptor": "(Ljava/util/logging/Level;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

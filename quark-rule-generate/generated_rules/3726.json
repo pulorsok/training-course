@@ -1,0 +1,18 @@
+{
+    "crime": "3726. Ljava/io/IOException;<init>->Ljava/net/ProxySelector;connectFailed",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/io/IOException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/net/ProxySelector;",
+            "method": "connectFailed",
+            "descriptor": "(Ljava/net/URI; Ljava/net/SocketAddress; Ljava/io/IOException;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

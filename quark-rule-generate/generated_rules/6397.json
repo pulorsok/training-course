@@ -1,0 +1,18 @@
+{
+    "crime": "6397. Ljava/lang/IllegalArgumentException;<init>->Ljava/util/concurrent/ExecutorService;execute",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/IllegalArgumentException;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Ljava/util/concurrent/ExecutorService;",
+            "method": "execute",
+            "descriptor": "(Ljava/lang/Runnable;)V"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

@@ -1,0 +1,18 @@
+{
+    "crime": "7275. Ljavax/net/ssl/SSLContext;getSocketFactory->Ljava/util/Date;getTime",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljavax/net/ssl/SSLContext;",
+            "method": "getSocketFactory",
+            "descriptor": "()Ljavax/net/ssl/SSLSocketFactory;"
+        },
+        {
+            "class": "Ljava/util/Date;",
+            "method": "getTime",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

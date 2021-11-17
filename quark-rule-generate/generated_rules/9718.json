@@ -1,0 +1,18 @@
+{
+    "crime": "9718. Ljava/lang/String;getBytes->Ljava/util/Date;getTime",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/lang/String;)[B"
+        },
+        {
+            "class": "Ljava/util/Date;",
+            "method": "getTime",
+            "descriptor": "()J"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

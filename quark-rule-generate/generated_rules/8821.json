@@ -1,0 +1,18 @@
+{
+    "crime": "8821. Ljava/security/cert/X509Certificate;getSubjectX500Principal->Ljava/lang/String;equalsIgnoreCase",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/security/cert/X509Certificate;",
+            "method": "getSubjectX500Principal",
+            "descriptor": "()Ljavax/security/auth/x500/X500Principal;"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "equalsIgnoreCase",
+            "descriptor": "(Ljava/lang/String;)Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

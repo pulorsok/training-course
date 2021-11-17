@@ -1,0 +1,18 @@
+{
+    "crime": "6281. Ljava/net/Socket;isClosed->Ljava/net/Socket;isOutputShutdown",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isClosed",
+            "descriptor": "()Z"
+        },
+        {
+            "class": "Ljava/net/Socket;",
+            "method": "isOutputShutdown",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 1,
+    "label": []
+}

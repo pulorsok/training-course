@@ -1,0 +1,18 @@
+{
+    "crime": "5533. Ljava/util/concurrent/TimeUnit;toMillis->Ljava/lang/String;getBytes",
+    "permission": [],
+    "api": [
+        {
+            "class": "Ljava/util/concurrent/TimeUnit;",
+            "method": "toMillis",
+            "descriptor": "(J)J"
+        },
+        {
+            "class": "Ljava/lang/String;",
+            "method": "getBytes",
+            "descriptor": "(Ljava/lang/String;)[B"
+        }
+    ],
+    "score": 1,
+    "label": []
+}
